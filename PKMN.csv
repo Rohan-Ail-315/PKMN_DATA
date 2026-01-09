@@ -1,1026 +1,1026 @@
-﻿ID,NAME,TYPE_1,TYPE_2,CLASSIFICATION,ABILITY_1,ABILITY_2,ABILITY_HDN,GENERATION,HEIGHT,HGHT_UNIT,WEIGHT,WGHT_UNIT,IMG_URL
-1,Bulbasaur,Grass,Poison,Seed Pokémon,Overgrow,,Chlorophyll,1,0.7,M,6.9,KG,
-2,Ivysaur,Grass,Poison,Seed Pokémon,Overgrow,,Chlorophyll,1,1,M,13,KG,
-3,Venusaur,Grass,Poison,Seed Pokémon,Overgrow,,Chlorophyll,1,2,M,100,KG,
-4,Charmander,Fire,,Lizard Pokémon,Blaze,,Solar Power,1,0.6,M,8.5,KG,
-5,Charmeleon,Fire,,Flame Pokémon,Blaze,,Solar Power,1,1.1,M,19,KG,
-6,Charizard,Fire,Flying,Flame Pokémon,Blaze,,Solar Power,1,1.7,M,90.5,KG,
-7,Squirtle,Water,,Tiny Turtle Pokémon,Torrent,,Rain Dish,1,0.5,M,9,KG,
-8,Wartortle,Water,,Turtle Pokémon,Torrent,,Rain Dish,1,1,M,22.5,KG,
-9,Blastoise,Water,,Shellfish Pokémon,Torrent,,Rain Dish,1,1.6,M,85.5,KG,
-10,Caterpie,Bug,,Worm Pokémon,Shield Dust,,Run Away,1,0.3,M,2.9,KG,
-11,Metapod,Bug,,Cocoon Pokémon,Shed Skin,,,1,0.7,M,9.9,KG,
-12,Butterfree,Bug,Flying,Butterfly Pokémon,Compound Eyes,,Tinted Lens,1,1.1,M,32,KG,
-13,Weedle,Bug,Poison,Hairy Bug Pokémon,Shield Dust,,Run Away,1,0.3,M,3.2,KG,
-14,Kakuna,Bug,Poison,Cocoon Pokémon,Shed Skin,,,1,0.6,M,10,KG,
-15,Beedrill,Bug,Poison,Poison Bee Pokémon,Swarm,,Sniper,1,1,M,29.5,KG,
-16,Pidgey,Normal,Flying,Tiny Bird Pokémon,Keen Eye,Tangled Feet,Big Pecks,1,0.3,M,1.8,KG,
-17,Pidgeotto,Normal,Flying,Bird Pokémon,Keen Eye,Tangled Feet,Big Pecks,1,1.1,M,30,KG,
-18,Pidgeot,Normal,Flying,Bird Pokémon,Keen Eye,Tangled Feet,Big Pecks,1,1.5,M,39.5,KG,
-19,Rattata,Normal,,Mouse Pokémon,Run Away,Guts,Hustle,1,0.3,M,3.5,KG,
-20,Raticate,Normal,,Mouse Pokémon,Run Away,Guts,Hustle,1,0.7,M,18.5,KG,
-21,Spearow,Normal,Flying,Tiny Bird Pokémon,Keen Eye,,Sniper,1,0.3,M,2,KG,
-22,Fearow,Normal,Flying,Beak Pokémon,Keen Eye,,Sniper,1,1.2,M,38,KG,
-23,Ekans,Poison,,Snake Pokémon,Intimidate,Shed Skin,Unnerve,1,2,M,6.9,KG,
-24,Arbok,Poison,,Cobra Pokémon,Intimidate,Shed Skin,Unnerve,1,3.5,M,65,KG,
-25,Pikachu,Electric,,Mouse Pokémon,Static,,Lightning Rod,1,0.4,M,6,KG,
-26,Raichu,Electric,,Mouse Pokémon,Static,,Lightning Rod,1,0.8,M,30,KG,
-27,Sandshrew,Ground,,Mouse Pokémon,Sand Veil,,Sand Rush,1,0.6,M,12,KG,
-28,Sandslash,Ground,,Mouse Pokémon,Sand Veil,,Sand Rush,1,1,M,29.5,KG,
-29,Nidoran (Female),Poison,,Poison Pin Pokémon,Poison Point,Rivalry,Hustle,1,0.4,M,7,KG,
-30,Nidorina,Poison,,Poison Pin Pokémon,Poison Point,Rivalry,Hustle,1,0.8,M,20,KG,
-31,Nidoqueen,Poison,Ground,Drill Pokémon,Poison Point,Rivalry,Sheer Force,1,1.3,M,60,KG,
-32,Nidoran (Male),Poison,,Poison Pin Pokémon,Poison Point,Rivalry,Hustle,1,0.5,M,9,KG,
-33,Nidorino,Poison,,Poison Pin Pokémon,Poison Point,Rivalry,Hustle,1,0.9,M,19.5,KG,
-34,Nidoking,Poison,Ground,Drill Pokémon,Poison Point,Rivalry,Sheer Force,1,1.4,M,62,KG,
-35,Clefairy,Fairy,,Fairy Pokémon,Cute Charm,Magic Guard,Friend Guard,1,0.6,M,7.5,KG,
-36,Clefable,Fairy,,Fairy Pokémon,Cute Charm,Magic Guard,Unaware,1,1.3,M,40,KG,
-37,Vulpix,Fire,,Fox Pokémon,Flash Fire,,Drought,1,0.6,M,9.9,KG,
-38,Ninetales,Fire,,Fox Pokémon,Flash Fire,,Drought,1,1.1,M,19.9,KG,
-39,Jigglypuff,Normal,Fairy,Balloon Pokémon,Cute Charm,Competitive,Friend Guard,1,0.5,M,5.5,KG,
-40,Wigglytuff,Normal,Fairy,Balloon Pokémon,Cute Charm,Competitive,Frisk,1,1,M,12,KG,
-41,Zubat,Poison,Flying,Bat Pokémon,Inner Focus,,Infiltrator,1,0.8,M,7.5,KG,
-42,Golbat,Poison,Flying,Bat Pokémon,Inner Focus,,Infiltrator,1,1.6,M,55,KG,
-43,Oddish,Grass,Poison,Weed Pokémon,Chlorophyll,,Run Away,1,0.5,M,5.4,KG,
-44,Gloom,Grass,Poison,Weed Pokémon,Chlorophyll,,Stench,1,0.8,M,8.6,KG,
-45,Vileplume,Grass,Poison,Flower Pokémon,Chlorophyll,,Effect Spore,1,1.2,M,18.6,KG,
-46,Paras,Bug,Grass,Mushroom Pokémon,Effect Spore,Dry Skin,Damp,1,0.3,M,5.4,KG,
-47,Parasect,Bug,Grass,Mushroom Pokémon,Effect Spore,Dry Skin,Damp,1,1,M,29.5,KG,
-48,Venonat,Bug,Poison,Insect Pokémon,Compound Eyes,Tinted Lens,Run Away,1,1,M,30,KG,
-49,Venomoth,Bug,Poison,Poison Moth Pokémon,Shield Dust,Tinted Lens,Wonder Skin,1,1.5,M,12.5,KG,
-50,Diglett,Ground,,Mole Pokémon,Sand Veil,Arena Trap,Sand Force,1,0.2,M,0.8,KG,
-51,Dugtrio,Ground,Steel,Mole Pokémon,Sand Veil,Tangling Hair,Sand Force,1,0.7,M,66.6,KG,
-52,Meowth,Normal,,Scratch Cat Pokémon,Pickup,Technician,Unnerve,1,0.4,M,4.2,KG,
-53,Persian,Normal,,Classy Cat Pokémon,Limber,Technician,Unnerve,1,1,M,32,KG,
-54,Psyduck,Water,,Duck Pokémon,Damp,Cloud Nine,Swift Swim,1,0.8,M,19.6,KG,
-55,Golduck,Water,,Duck Pokémon,Damp,Cloud Nine,Swift Swim,1,1.7,M,76.6,KG,
-56,Mankey,Fighting,,Pig Monkey Pokémon,Vital Spirit,Anger Point,Defiant,1,0.5,M,28,KG,
-57,Primeape,Fighting,,Pig Monkey Pokémon,Vital Spirit,Anger Point,Defiant,1,1,M,32,KG,
-58,Growlithe,Fire,,Puppy Pokémon,Intimidate,Flash Fire,Justified,1,0.7,M,19,KG,
-59,Arcanine,Fire,,Legendary Pokémon,Intimidate,Flash Fire,Justified,1,1.9,M,155,KG,
-60,Poliwag,Water,,Tadpole Pokémon,Water Absorb,Damp,Swift Swim,1,0.6,M,12.4,KG,
-61,Poliwhirl,Water,,Tadpole Pokémon,Water Absorb,Damp,Swift Swim,1,1,M,20,KG,
-62,Poliwrath,Water,Fighting,Tadpole Pokémon,Water Absorb,Damp,Swift Swim,1,1.3,M,54,KG,
-63,Abra,Psychic,,Psi Pokémon,Synchronize,Inner Focus,Magic Guard,1,0.9,M,19.5,KG,
-64,Kadabra,Psychic,,Psi Pokémon,Synchronize,Inner Focus,Magic Guard,1,1.3,M,56.5,KG,
-65,Alakazam,Psychic,,Psi Pokémon,Synchronize,Inner Focus,Magic Guard,1,1.5,M,48,KG,
-66,Machop,Fighting,,Superpower Pokémon,Guts,No Guard,Steadfast,1,0.8,M,19.5,KG,
-67,Machoke,Fighting,,Superpower Pokémon,Guts,No Guard,Steadfast,1,1.5,M,70.5,KG,
-68,Machamp,Fighting,,Superpower Pokémon,Guts,No Guard,Steadfast,1,1.6,M,130,KG,
-69,Bellsprout,Grass,Poison,Flower Pokémon,Chlorophyll,,Gluttony,1,0.7,M,4,KG,
-70,Weepinbell,Grass,Poison,Flycatcher Pokémon,Chlorophyll,,Gluttony,1,1,M,6.4,KG,
-71,Victreebel,Grass,Poison,Flycatcher Pokémon,Chlorophyll,,Gluttony,1,1.7,M,15.5,KG,
-72,Tentacool,Water,Poison,Jellyfish Pokémon,Clear Body,Liquid Ooze,Rain Dish,1,0.9,M,45.5,KG,
-73,Tentacruel,Water,Poison,Jellyfish Pokémon,Clear Body,Liquid Ooze,Rain Dish,1,1.6,M,55,KG,
-74,Geodude,Rock,Ground,Rock Pokémon,Rock Head,Sturdy,Sand Veil,1,0.4,M,20,KG,
-75,Graveler,Rock,Electric,Rock Pokémon,Magnet Pull,Sturdy,Galvanize,1,1,M,110,KG,
-76,Golem,Rock,Ground,Megaton Pokémon,Rock Head,Sturdy,Sand Veil,1,1.4,M,300,KG,
-77,Ponyta,Psychic,,Unique Horn Pokémon,Run Away,Pastel Veil,Anticipation,1,0.8,M,24,KG,
-78,Rapidash,Fire,,Fire Horse Pokémon,Run Away,Flash Fire,Flame Body,1,1.7,M,95,KG,
-79,Slowpoke,Water,Psychic,Dopey Pokémon,Oblivious,Own Tempo,Regenerator,1,1.2,M,36,KG,
-80,Slowbro,Water,Psychic,Hermit Crab Pokémon,Oblivious,Own Tempo,Regenerator,1,1.6,M,78.5,KG,
-81,Magnemite,Electric,Steel,Magnet Pokémon,Magnet Pull,Sturdy,Analytic,1,0.3,M,6,KG,
-82,Magneton,Electric,Steel,Magnet Pokémon,Magnet Pull,Sturdy,Analytic,1,1,M,60,KG,
-83,Farfetch'd,Normal,Flying,Wild Duck Pokémon,Keen Eye,Inner Focus,Defiant,1,0.8,M,15,KG,
-84,Doduo,Normal,Flying,Twin Bird Pokémon,Run Away,Early Bird,Tangled Feet,1,1.4,M,39.2,KG,
-85,Dodrio,Normal,Flying,Triple Bird Pokémon,Run Away,Early Bird,Tangled Feet,1,1.8,M,85.2,KG,
-86,Seel,Water,,Sea Lion Pokémon,Thick Fat,Hydration,Ice Body,1,1.1,M,90,KG,
-87,Dewgong,Water,Ice,Sea Lion Pokémon,Thick Fat,Hydration,Ice Body,1,1.7,M,120,KG,
-88,Grimer,Poison,,Sludge Pokémon,Stench,Sticky Hold,Poison Touch,1,0.9,M,30,KG,
-89,Muk,Poison,Dark,Sludge Pokémon,Poison Touch,Gluttony,Power of Alchemy,1,1,M,52,KG,
-90,Shellder,Water,,Bivalve Pokémon,Shell Armor,Skill Link,Overcoat,1,0.3,M,4,KG,
-91,Cloyster,Water,Ice,Bivalve Pokémon,Shell Armor,Skill Link,Overcoat,1,1.5,M,132.5,KG,
-92,Gastly,Ghost,Poison,Gas Pokémon,Levitate,,,1,1.3,M,0.1,KG,
-93,Haunter,Ghost,Poison,Gas Pokémon,Levitate,,,1,1.6,M,0.1,KG,
-94,Gengar,Ghost,Poison,Shadow Pokémon,Cursed Body,,,1,1.5,M,40.5,KG,
-95,Onix,Rock,Ground,Rock Snake Pokémon,Rock Head,Sturdy,Weak Armor,1,8.8,M,210,KG,
-96,Drowzee,Psychic,,Hypnosis Pokémon,Insomnia,Forewarn,Inner Focus,1,1,M,32.4,KG,
-97,Hypno,Psychic,,Hypnosis Pokémon,Insomnia,Forewarn,Inner Focus,1,1.6,M,75.6,KG,
-98,Krabby,Water,,River Crab Pokémon,Hyper Cutter,Shell Armor,Sheer Force,1,0.4,M,6.5,KG,
-99,Kingler,Water,,Pincer Pokémon,Hyper Cutter,Shell Armor,Sheer Force,1,1.3,M,60,KG,
-100,Voltorb,Electric,,Ball Pokémon,Soundproof,Static,Aftermath,1,0.5,M,10.5,KG,
-101,Electrode,Electric,,Ball Pokémon,Soundproof,Static,Aftermath,1,1.2,M,66.6,KG,
-102,Exeggcute,Grass,Psychic,Egg Pokémon,Chlorophyll,,Harvest,1,0.4,M,2.5,KG,
-103,Exeggutor,Grass,Psychic,Coconut Pokémon,Chlorophyll,,Harvest,1,2,M,120,KG,
-104,Cubone,Ground,,Lonely Pokémon,Rock Head,Lightning Rod,Battle Armor,1,0.4,M,6.5,KG,
-105,Marowak,Ground,,Bone Keeper Pokémon,Rock Head,Lightning Rod,Battle Armor,1,1,M,45,KG,
-106,Hitmonlee,Fighting,,Kicking Pokémon,Limber,Reckless,Unburden,1,1.5,M,49.8,KG,
-107,Hitmonchan,Fighting,,Punching Pokémon,Keen Eye,Iron Fist,Inner Focus,1,1.4,M,50.2,KG,
-108,Lickitung,Normal,,Licking Pokémon,Own Tempo,Oblivious,Cloud Nine,1,1.2,M,65.5,KG,
-109,Koffing,Poison,,Poison Gas Pokémon,Levitate,Neutralizing Gas,Stench,1,0.6,M,1,KG,
-110,Weezing,Poison,,Poison Gas Pokémon,Levitate,Neutralizing Gas,Stench,1,1.2,M,9.5,KG,
-111,Rhyhorn,Ground,Rock,Spikes Pokémon,Lightning Rod,Rock Head,Reckless,1,1,M,115,KG,
-112,Rhydon,Ground,Rock,Drill Pokémon,Lightning Rod,Rock Head,Reckless,1,1.9,M,120,KG,
-113,Chansey,Normal,,Egg Pokémon,Natural Cure,Serene Grace,Healer,1,1.1,M,34.6,KG,
-114,Tangela,Grass,,Vine Pokémon,Chlorophyll,Leaf Guard,Regenerator,1,1,M,35,KG,
-115,Kangaskhan,Normal,,Parent Pokémon,Early Bird,Scrappy,Inner Focus,1,2.2,M,80,KG,
-116,Horsea,Water,,Dragon Pokémon,Swift Swim,Sniper,Damp,1,0.4,M,8,KG,
-117,Seadra,Water,,Dragon Pokémon,Poison Point,Sniper,Damp,1,1.2,M,25,KG,
-118,Goldeen,Water,,Goldfish Pokémon,Swift Swim,Water Veil,Lightning Rod,1,0.6,M,15,KG,
-119,Seaking,Water,,Goldfish Pokémon,Swift Swim,Water Veil,Lightning Rod,1,1.3,M,39,KG,
-120,Staryu,Water,,Star Shape Pokémon,Illuminate,Natural Cure,Analytic,1,0.8,M,34.5,KG,
-121,Starmie,Water,Psychic,Mysterious Pokémon,Illuminate,Natural Cure,Analytic,1,1.1,M,80,KG,
-122,Mr. Mime,Psychic,Fairy,Barrier Pokémon,Soundproof,Filter,Technician,1,1.3,M,54.5,KG,
-123,Scyther,Bug,Flying,Mantis Pokémon,Swarm,Technician,Steadfast,1,1.5,M,56,KG,
-124,Jynx,Ice,Psychic,Human Shape Pokémon,Oblivious,Forewarn,Dry Skin,1,1.4,M,40.6,KG,
-125,Electabuzz,Electric,,Electric Pokémon,Static,,Vital Spirit,1,1.1,M,30,KG,
-126,Magmar,Fire,,Spitfire Pokémon,Flame Body,,Vital Spirit,1,1.3,M,44.5,KG,
-127,Pinsir,Bug,,Stag Beetle Pokémon,Hyper Cutter,Mold Breaker,Moxie,1,1.5,M,55,KG,
-128,Tauros,Normal,,Wild Bull Pokémon,Intimidate,Anger Point,Sheer Force,1,1.4,M,88.4,KG,
-129,Magikarp,Water,,Fish Pokémon,Swift Swim,,Rattled,1,0.9,M,10,KG,
-130,Gyarados,Water,Flying,Atrocious Pokémon,Intimidate,,Moxie,1,6.5,M,235,KG,
-131,Lapras,Water,Ice,Transport Pokémon,Water Absorb,Shell Armor,Hydration,1,2.5,M,220,KG,
-132,Ditto,Normal,,Transform Pokémon,Limber,,Imposter,1,0.3,M,4,KG,
-133,Eevee,Normal,,Evolution Pokémon,Run Away,Adaptability,Anticipation,1,0.3,M,6.5,KG,
-134,Vaporeon,Water,,Bubble Jet Pokémon,Water Absorb,,Hydration,1,1,M,29,KG,
-135,Jolteon,Electric,,Lightning Pokémon,Volt Absorb,,Quick Feet,1,0.8,M,24.5,KG,
-136,Flareon,Fire,,Flame Pokémon,Flash Fire,,Guts,1,0.9,M,25,KG,
-137,Porygon,Normal,,Virtual Pokémon,Trace,Download,Analytic,1,0.8,M,36.5,KG,
-138,Omanyte,Rock,Water,Spiral Pokémon,Swift Swim,Shell Armor,Weak Armor,1,0.4,M,7.5,KG,
-139,Omastar,Rock,Water,Spiral Pokémon,Swift Swim,Shell Armor,Weak Armor,1,1,M,35,KG,
-140,Kabuto,Rock,Water,Shellfish Pokémon,Swift Swim,Battle Armor,Weak Armor,1,0.5,M,11.5,KG,
-141,Kabutops,Rock,Water,Shellfish Pokémon,Swift Swim,Battle Armor,Weak Armor,1,1.3,M,40.5,KG,
-142,Aerodactyl,Rock,Flying,Fossil Pokémon,Rock Head,Pressure,Unnerve,1,1.8,M,59,KG,
-143,Snorlax,Normal,,Sleeping Pokémon,Immunity,Thick Fat,Gluttony,1,2.1,M,460,KG,
-144,Articuno,Ice,Flying,Freeze Pokémon,Pressure,,Snow Cloak,1,1.7,M,55.4,KG,
-145,Zapdos,Electric,Flying,Electric Pokémon,Pressure,,Static,1,1.6,M,52.6,KG,
-146,Moltres,Fire,Flying,Flame Pokémon,Pressure,,Flame Body,1,2,M,60,KG,
-147,Dratini,Dragon,,Dragon Pokémon,Shed Skin,,Marvel Scale,1,1.8,M,3.3,KG,
-148,Dragonair,Dragon,,Dragon Pokémon,Shed Skin,,Marvel Scale,1,4,M,16.5,KG,
-149,Dragonite,Dragon,Flying,Dragon Pokémon,Inner Focus,,Multiscale,1,2.2,M,210,KG,
-150,Mewtwo,Psychic,,Genetic Pokémon,Pressure,,Unnerve,1,2,M,122,KG,
-151,Mew,Psychic,,New Species Pokémon,Synchronize,,,1,0.4,M,4,KG,
-152,Chikorita,Grass,,Leaf Pokémon,Overgrow,,Leaf Guard,2,0.9,M,6.4,KG,
-153,Bayleef,Grass,,Leaf Pokémon,Overgrow,,Leaf Guard,2,1.2,M,15.8,KG,
-154,Meganium,Grass,,Herb Pokémon,Overgrow,,Leaf Guard,2,1.8,M,100.5,KG,
-155,Cyndaquil,Fire,,Fire Mouse Pokémon,Blaze,,Flash Fire,2,0.5,M,7.9,KG,
-156,Quilava,Fire,,Volcano Pokémon,Blaze,,Flash Fire,2,0.9,M,19,KG,
-157,Typhlosion,Fire,,Volcano Pokémon,Blaze,,Flash Fire,2,1.7,M,79.5,KG,
-158,Totodile,Water,,Big Jaw Pokémon,Torrent,,Sheer Force,2,0.6,M,9.5,KG,
-159,Croconaw,Water,,Big Jaw Pokémon,Torrent,,Sheer Force,2,1.1,M,25,KG,
-160,Feraligatr,Water,,Big Jaw Pokémon,Torrent,,Sheer Force,2,2.3,M,88.8,KG,
-161,Sentret,Normal,,Scout Pokémon,Run Away,Keen Eye,Frisk,2,0.8,M,6,KG,
-162,Furret,Normal,,Long Body Pokémon,Run Away,Keen Eye,Frisk,2,1.8,M,32.5,KG,
-163,Hoothoot,Normal,Flying,Owl Pokémon,Insomnia,Keen Eye,Tinted Lens,2,0.7,M,21.2,KG,
-164,Noctowl,Normal,Flying,Owl Pokémon,Insomnia,Keen Eye,Tinted Lens,2,1.6,M,40.8,KG,
-165,Ledyba,Bug,Flying,Five Star Pokémon,Swarm,Early Bird,Rattled,2,1,M,10.8,KG,
-166,Ledian,Bug,Flying,Five Star Pokémon,Swarm,Early Bird,Iron Fist,2,1.4,M,35.6,KG,
-167,Spinarak,Bug,Poison,String Spit Pokémon,Swarm,Insomnia,Sniper,2,0.5,M,8.5,KG,
-168,Ariados,Bug,Poison,Long Leg Pokémon,Swarm,Insomnia,Sniper,2,1.1,M,33.5,KG,
-169,Crobat,Poison,Flying,Bat Pokémon,Inner Focus,,Infiltrator,2,1.8,M,75,KG,
-170,Chinchou,Water,Electric,Angler Pokémon,Volt Absorb,Illuminate,Water Absorb,2,0.5,M,12,KG,
-171,Lanturn,Water,Electric,Light Pokémon,Volt Absorb,Illuminate,Water Absorb,2,1.2,M,22.5,KG,
-172,Pichu,Electric,,Tiny Mouse Pokémon,Static,,Lightning Rod,2,0.3,M,2,KG,
-173,Cleffa,Fairy,,Star Shape Pokémon,Cute Charm,Magic Bounce,Friend Guard,2,0.3,M,3,KG,
-174,Igglybuff,Normal,Fairy,Balloon Pokémon,Cute Charm,Competitive,Friend Guard,2,0.3,M,1,KG,
-175,Togepi,Fairy,,Spike Ball Pokémon,Hustle,Serene Grace,Super Luck,2,0.3,M,1.5,KG,
-176,Togetic,Fairy,Flying,Happiness Pokémon,Hustle,Serene Grace,Super Luck,2,0.6,M,3.2,KG,
-177,Natu,Psychic,Flying,Tiny Bird Pokémon,Synchronize,Early Bird,Magic Bounce,2,0.2,M,2,KG,
-178,Xatu,Psychic,Flying,Mystic Pokémon,Synchronize,Early Bird,Magic Bounce,2,1.5,M,15,KG,
-179,Mareep,Electric,,Wool Pokémon,Static,,Plus,2,0.6,M,7.8,KG,
-180,Flaaffy,Electric,,Wool Pokémon,Static,,Plus,2,0.8,M,13.3,KG,
-181,Ampharos,Electric,,Light Pokémon,Static,,Plus,2,1.4,M,61.5,KG,
-182,Bellossom,Grass,,Flower Pokémon,Chlorophyll,,Healer,2,0.4,M,5.8,KG,
-183,Marill,Water,Fairy,Aqua Mouse Pokémon,Thick Fat,Huge Power,Sap Sipper,2,0.4,M,8.5,KG,
-184,Azumarill,Water,Fairy,Aqua Rabbit Pokémon,Thick Fat,Huge Power,Sap Sipper,2,0.8,M,28.5,KG,
-185,Sudowoodo,Rock,,Imitation Pokémon,Sturdy,Rock Head,Rattled,2,1.2,M,38,KG,
-186,Politoed,Water,,Frog Pokémon,Water Absorb,Damp,Drizzle,2,1.1,M,33.9,KG,
-187,Hoppip,Grass,Flying,Cottonweed Pokémon,Chlorophyll,Leaf Guard,Infiltrator,2,0.4,M,0.5,KG,
-188,Skiploom,Grass,Flying,Cottonweed Pokémon,Chlorophyll,Leaf Guard,Infiltrator,2,0.6,M,1,KG,
-189,Jumpluff,Grass,Flying,Cottonweed Pokémon,Chlorophyll,Leaf Guard,Infiltrator,2,0.8,M,3,KG,
-190,Aipom,Normal,,Long Tail Pokémon,Run Away,Pickup,Skill Link,2,0.8,M,11.5,KG,
-191,Sunkern,Grass,,Seed Pokémon,Chlorophyll,Solar Power,Early Bird,2,0.3,M,1.8,KG,
-192,Sunflora,Grass,,Sun Pokémon,Chlorophyll,Solar Power,Early Bird,2,0.8,M,8.5,KG,
-193,Yanma,Bug,Flying,Clear Wing Pokémon,Speed Boost,Compound Eyes,Frisk,2,1.2,M,38,KG,
-194,Wooper,Water,Ground,Water Fish Pokémon,Damp,Water Absorb,Unaware,2,0.4,M,8.5,KG,
-195,Quagsire,Water,Ground,Water Fish Pokémon,Damp,Water Absorb,Unaware,2,1.4,M,75,KG,
-196,Espeon,Psychic,,Sun Pokémon,Synchronize,,Magic Bounce,2,0.9,M,26.5,KG,
-197,Umbreon,Dark,,Moonlight Pokémon,Synchronize,,Inner Focus,2,1,M,27,KG,
-198,Murkrow,Dark,Flying,Darkness Pokémon,Insomnia,Super Luck,Prankster,2,0.5,M,2.1,KG,
-199,Slowking,Water,Psychic,Royal Pokémon,Oblivious,Own Tempo,Regenerator,2,2,M,79.5,KG,
-200,Misdreavus,Ghost,,Screech Pokémon,Levitate,,,2,0.7,M,1,KG,
-201,Unown,Psychic,,Symbol Pokémon,Levitate,,,2,0.5,M,5,KG,
-202,Wobbuffet,Psychic,,Patient Pokémon,Shadow Tag,,Telepathy,2,1.3,M,28.5,KG,
-203,Girafarig,Normal,Psychic,Long Neck Pokémon,Inner Focus,Early Bird,Sap Sipper,2,1.5,M,41.5,KG,
-204,Pineco,Bug,,Bagworm Pokémon,Sturdy,,Overcoat,2,0.6,M,7.2,KG,
-205,Forretress,Bug,Steel,Bagworm Pokémon,Sturdy,,Overcoat,2,1.2,M,125.8,KG,
-206,Dunsparce,Normal,,Land Snake Pokémon,Serene Grace,Run Away,Rattled,2,1.5,M,14,KG,
-207,Gligar,Ground,Flying,Fly Scorpion Pokémon,Hyper Cutter,Sand Veil,Immunity,2,1.1,M,64.8,KG,
-208,Steelix,Steel,Ground,Iron Snake Pokémon,Rock Head,Sturdy,Sheer Force,2,9.2,M,400,KG,
-209,Snubbull,Fairy,,Fairy Pokémon,Intimidate,Run Away,Rattled,2,0.6,M,7.8,KG,
-210,Granbull,Fairy,,Fairy Pokémon,Intimidate,Quick Feet,Rattled,2,1.4,M,48.7,KG,
-211,Qwilfish,Water,Poison,Balloon Pokémon,Poison Point,Swift Swim,Intimidate,2,0.5,M,3.9,KG,
-212,Scizor,Bug,Steel,Pincer Pokémon,Swarm,Technician,Light Metal,2,1.8,M,118,KG,
-213,Shuckle,Bug,Rock,Mold Pokémon,Sturdy,Gluttony,Contrary,2,0.6,M,20.5,KG,
-214,Heracross,Bug,Fighting,Single Horn Pokémon,Swarm,Guts,Moxie,2,1.5,M,54,KG,
-215,Sneasel,Dark,Ice,Sharp Claw Pokémon,Inner Focus,Keen Eye,Pickpocket,2,0.9,M,28,KG,
-216,Teddiursa,Normal,,Little Bear Pokémon,Pickup,Quick Feet,Honey Gather,2,0.6,M,8.8,KG,
-217,Ursaring,Normal,,Hibernator Pokémon,Guts,Quick Feet,Unnerve,2,1.8,M,125.8,KG,
-218,Slugma,Fire,,Lava Pokémon,Magma Armor,Flame Body,Weak Armor,2,0.7,M,35,KG,
-219,Magcargo,Fire,Rock,Lava Pokémon,Magma Armor,Flame Body,Weak Armor,2,0.8,M,55,KG,
-220,Swinub,Ice,Ground,Pig Pokémon,Oblivious,Snow Cloak,Thick Fat,2,0.4,M,6.5,KG,
-221,Piloswine,Ice,Ground,Swine Pokémon,Oblivious,Snow Cloak,Thick Fat,2,1.1,M,55.8,KG,
-222,Corsola,Water,Rock,Coral Pokémon,Hustle,Natural Cure,Regenerator,2,0.6,M,5,KG,
-223,Remoraid,Water,,Jet Pokémon,Hustle,Sniper,Moody,2,0.6,M,12,KG,
-224,Octillery,Water,,Jet Pokémon,Suction Cups,Sniper,Moody,2,0.9,M,28.5,KG,
-225,Delibird,Ice,Flying,Delivery Pokémon,Vital Spirit,,Insomnia,2,0.9,M,16,KG,
-226,Mantine,Water,Flying,Kite Pokémon,Swift Swim,Water Absorb,Water Veil,2,2.1,M,220,KG,
-227,Skarmory,Steel,Flying,Armor Bird Pokémon,Keen Eye,Sturdy,Weak Armor,2,1.7,M,50.5,KG,
-228,Houndour,Dark,Fire,Dark Pokémon,Early Bird,Flash Fire,Unnerve,2,0.6,M,10.8,KG,
-229,Houndoom,Dark,Fire,Dark Pokémon,Early Bird,Flash Fire,Unnerve,2,1.4,M,35,KG,
-230,Kingdra,Water,Dragon,Dragon Pokémon,Swift Swim,Sniper,Damp,2,1.8,M,152,KG,
-231,Phanpy,Ground,,Long Nose Pokémon,Pickup,,Sand Veil,2,0.5,M,33.5,KG,
-232,Donphan,Ground,,Armor Pokémon,Sturdy,,Sand Veil,2,1.1,M,120,KG,
-233,Porygon2,Normal,,Virtual Pokémon,Trace,Download,Analytic,2,0.6,M,32.5,KG,
-234,Stantler,Normal,,Big Horn Pokémon,Intimidate,Frisk,Sap Sipper,2,1.4,M,71.2,KG,
-235,Smeargle,Normal,,Painter Pokémon,Own Tempo,Technician,Moody,2,1.2,M,58,KG,
-236,Tyrogue,Fighting,,Scuffle Pokémon,Guts,Steadfast,Vital Spirit,2,0.7,M,21,KG,
-237,Hitmontop,Fighting,,Handstand Pokémon,Intimidate,Technician,Steadfast,2,1.4,M,48,KG,
-238,Smoochum,Ice,Psychic,Kiss Pokémon,Oblivious,Forewarn,Hydration,2,0.4,M,6,KG,
-239,Elekid,Electric,,Electric Pokémon,Static,,Vital Spirit,2,0.6,M,23.5,KG,
-240,Magby,Fire,,Live Coal Pokémon,Flame Body,,Vital Spirit,2,0.7,M,21.4,KG,
-241,Miltank,Normal,,Milk Cow Pokémon,Thick Fat,Scrappy,Sap Sipper,2,1.2,M,75.5,KG,
-242,Blissey,Normal,,Happiness Pokémon,Natural Cure,Serene Grace,Healer,2,1.5,M,46.8,KG,
-243,Raikou,Electric,,Thunder Pokémon,Pressure,,Inner Focus,2,1.9,M,178,KG,
-244,Entei,Fire,,Volcano Pokémon,Pressure,,Inner Focus,2,2.1,M,198,KG,
-245,Suicune,Water,,Aurora Pokémon,Pressure,,Inner Focus,2,2,M,187,KG,
-246,Larvitar,Rock,Ground,Rock Skin Pokémon,Guts,,Sand Veil,2,0.6,M,72,KG,
-247,Pupitar,Rock,Ground,Hard Shell Pokémon,Shed Skin,,,2,1.2,M,152,KG,
-248,Tyranitar,Rock,Dark,Armor Pokémon,Sand Stream,,Unnerve,2,2,M,202,KG,
-249,Lugia,Psychic,Flying,Diving Pokémon,Pressure,,Multiscale,2,5.2,M,216,KG,
-250,Ho-Oh,Fire,Flying,Rainbow Pokémon,Pressure,,Regenerator,2,3.8,M,199,KG,
-251,Celebi,Psychic,Grass,Time Travel Pokémon,Natural Cure,,,2,0.6,M,5,KG,
-252,Treecko,Grass,,Wood Gecko Pokémon,Overgrow,,Unburden,3,0.5,M,5,KG,
-253,Grovyle,Grass,,Wood Gecko Pokémon,Overgrow,,Unburden,3,0.9,M,21.6,KG,
-254,Sceptile,Grass,,Forest Pokémon,Overgrow,,Unburden,3,1.7,M,52.2,KG,
-255,Torchic,Fire,,Chick Pokémon,Blaze,,Speed Boost,3,0.4,M,2.5,KG,
-256,Combusken,Fire,Fighting,Young Fowl Pokémon,Blaze,,Speed Boost,3,0.9,M,19.5,KG,
-257,Blaziken,Fire,Fighting,Blaze Pokémon,Blaze,,Speed Boost,3,1.9,M,52,KG,
-258,Mudkip,Water,,Mud Fish Pokémon,Torrent,,Damp,3,0.4,M,7.6,KG,
-259,Marshtomp,Water,Ground,Mud Fish Pokémon,Torrent,,Damp,3,0.7,M,28,KG,
-260,Swampert,Water,Ground,Mud Fish Pokémon,Torrent,,Damp,3,1.5,M,81.9,KG,
-261,Poochyena,Dark,,Bite Pokémon,Run Away,Quick Feet,Rattled,3,0.5,M,13.6,KG,
-262,Mightyena,Dark,,Bite Pokémon,Intimidate,Quick Feet,Moxie,3,1,M,37,KG,
-263,Zigzagoon,Normal,,Tiny Raccoon Pokémon,Pickup,Gluttony,Quick Feet,3,0.4,M,17.5,KG,
-264,Linoone,Normal,,Rushing Pokémon,Pickup,Gluttony,Quick Feet,3,0.5,M,32.5,KG,
-265,Wurmple,Bug,,Worm Pokémon,Shield Dust,,Run Away,3,0.3,M,3.6,KG,
-266,Silcoon,Bug,,Cocoon Pokémon,Shed Skin,,,3,0.6,M,10,KG,
-267,Beautifly,Bug,Flying,Butterfly Pokémon,Swarm,,Rivalry,3,1,M,28.4,KG,
-268,Cascoon,Bug,,Cocoon Pokémon,Shed Skin,,,3,0.7,M,11.5,KG,
-269,Dustox,Bug,Poison,Poison Moth Pokémon,Shield Dust,,Compound Eyes,3,1.2,M,31.6,KG,
-270,Lotad,Water,Grass,Water Weed Pokémon,Swift Swim,Rain Dish,Own Tempo,3,0.5,M,2.6,KG,
-271,Lombre,Water,Grass,Jolly Pokémon,Swift Swim,Rain Dish,Own Tempo,3,1.2,M,32.5,KG,
-272,Ludicolo,Water,Grass,Carefree Pokémon,Swift Swim,Rain Dish,Own Tempo,3,1.5,M,55,KG,
-273,Seedot,Grass,,Acorn Pokémon,Chlorophyll,Early Bird,Pickpocket,3,0.5,M,4,KG,
-274,Nuzleaf,Grass,Dark,Wily Pokémon,Chlorophyll,Early Bird,Pickpocket,3,1,M,28,KG,
-275,Shiftry,Grass,Dark,Wicked Pokémon,Chlorophyll,Wind Rider,Pickpocket,3,1.3,M,59.6,KG,
-276,Taillow,Normal,Flying,Tiny Swallow Pokémon,Guts,,Scrappy,3,0.3,M,2.3,KG,
-277,Swellow,Normal,Flying,Swallow Pokémon,Guts,,Scrappy,3,0.7,M,19.8,KG,
-278,Wingull,Water,Flying,Seagull Pokémon,Keen Eye,Hydration,Rain Dish,3,0.6,M,9.5,KG,
-279,Pelipper,Water,Flying,Water Bird Pokémon,Keen Eye,Drizzle,Rain Dish,3,1.2,M,28,KG,
-280,Ralts,Psychic,Fairy,Feeling Pokémon,Synchronize,Trace,Telepathy,3,0.4,M,6.6,KG,
-281,Kirlia,Psychic,Fairy,Emotion Pokémon,Synchronize,Trace,Telepathy,3,0.8,M,20.2,KG,
-282,Gardevoir,Psychic,Fairy,Embrace Pokémon,Synchronize,Trace,Telepathy,3,1.6,M,48.4,KG,
-283,Surskit,Bug,Water,Pond Skater Pokémon,Swift Swim,,Rain Dish,3,0.5,M,1.7,KG,
-284,Masquerain,Bug,Flying,Eyeball Pokémon,Intimidate,,Unnerve,3,0.8,M,3.6,KG,
-285,Shroomish,Grass,,Mushroom Pokémon,Effect Spore,Poison Heal,Quick Feet,3,0.4,M,4.5,KG,
-286,Breloom,Grass,Fighting,Mushroom Pokémon,Effect Spore,Poison Heal,Technician,3,1.2,M,39.2,KG,
-287,Slakoth,Normal,,Slacker Pokémon,Truant,,,3,0.8,M,24,KG,
-288,Vigoroth,Normal,,Wild Monkey Pokémon,Vital Spirit,,,3,1.4,M,46.5,KG,
-289,Slaking,Normal,,Lazy Pokémon,Truant,,,3,2,M,130.5,KG,
-290,Nincada,Bug,Ground,Trainee Pokémon,Compound Eyes,,Run Away,3,0.5,M,5.5,KG,
-291,Ninjask,Bug,Flying,Ninja Pokémon,Speed Boost,,Infiltrator,3,0.8,M,12,KG,
-292,Shedinja,Bug,Ghost,Shed Pokémon,Wonder Guard,,,3,0.8,M,1.2,KG,
-293,Whismur,Normal,,Whisper Pokémon,Soundproof,,Rattled,3,0.6,M,16.3,KG,
-294,Loudred,Normal,,Big Voice Pokémon,Soundproof,,Scrappy,3,1,M,40.5,KG,
-295,Exploud,Normal,,Loud Noise Pokémon,Soundproof,,Scrappy,3,1.5,M,84,KG,
-296,Makuhita,Fighting,,Guts Pokémon,Thick Fat,Guts,Sheer Force,3,1,M,86.4,KG,
-297,Hariyama,Fighting,,Arm Thrust Pokémon,Thick Fat,Guts,Sheer Force,3,2.3,M,253.8,KG,
-298,Azurill,Normal,Fairy,Polka Dot Pokémon,Thick Fat,Huge Power,Sap Sipper,3,0.2,M,2,KG,
-299,Nosepass,Rock,,Compass Pokémon,Sturdy,Magnet Pull,Sand Force,3,1,M,97,KG,
-300,Skitty,Normal,,Kitten Pokémon,Cute Charm,Normalize,Wonder Skin,3,0.6,M,11,KG,
-301,Delcatty,Normal,,Prim Pokémon,Cute Charm,Normalize,Wonder Skin,3,1.1,M,32.6,KG,
-302,Sableye,Dark,Ghost,Darkness Pokémon,Keen Eye,Stall,Prankster,3,0.5,M,11,KG,
-303,Mawile,Steel,Fairy,Deceiver Pokémon,Hyper Cutter,Intimidate,Sheer Force,3,0.6,M,11.5,KG,
-304,Aron,Steel,Rock,Iron Armor Pokémon,Sturdy,Rock Head,Heavy Metal,3,0.4,M,60,KG,
-305,Lairon,Steel,Rock,Iron Armor Pokémon,Sturdy,Rock Head,Heavy Metal,3,0.9,M,120,KG,
-306,Aggron,Steel,Rock,Iron Armor Pokémon,Sturdy,Rock Head,Heavy Metal,3,2.1,M,360,KG,
-307,Meditite,Fighting,Psychic,Meditate Pokémon,Pure Power,,Telepathy,3,0.6,M,11.2,KG,
-308,Medicham,Fighting,Psychic,Meditate Pokémon,Pure Power,,Telepathy,3,1.3,M,31.5,KG,
-309,Electrike,Electric,,Lightning Pokémon,Static,Lightning Rod,Minus,3,0.6,M,15.2,KG,
-310,Manectric,Electric,,Discharge Pokémon,Static,Lightning Rod,Minus,3,1.5,M,40.2,KG,
-311,Plusle,Electric,,Cheering Pokémon,Plus,,Lightning Rod,3,0.4,M,4.2,KG,
-312,Minun,Electric,,Cheering Pokémon,Minus,,Volt Absorb,3,0.4,M,4.2,KG,
-313,Volbeat,Bug,,Firefly Pokémon,Illuminate,Swarm,Prankster,3,0.7,M,17.7,KG,
-314,Illumise,Bug,,Firefly Pokémon,Oblivious,Tinted Lens,Prankster,3,0.6,M,17.7,KG,
-315,Roselia,Grass,Poison,Thorn Pokémon,Natural Cure,Poison Point,Leaf Guard,3,0.3,M,2,KG,
-316,Gulpin,Poison,,Stomach Pokémon,Liquid Ooze,Sticky Hold,Gluttony,3,0.4,M,10.3,KG,
-317,Swalot,Poison,,Poison Bag Pokémon,Liquid Ooze,Sticky Hold,Gluttony,3,1.7,M,80,KG,
-318,Carvanha,Water,Dark,Savage Pokémon,Rough Skin,,Speed Boost,3,0.8,M,20.8,KG,
-319,Sharpedo,Water,Dark,Brutal Pokémon,Rough Skin,,Speed Boost,3,1.8,M,88.8,KG,
-320,Wailmer,Water,,Ball Whale Pokémon,Water Veil,Oblivious,Pressure,3,2,M,130,KG,
-321,Wailord,Water,,Float Whale Pokémon,Water Veil,Oblivious,Pressure,3,14.5,M,398,KG,
-322,Numel,Fire,Ground,Numb Pokémon,Oblivious,Simple,Own Tempo,3,0.7,M,24,KG,
-323,Camerupt,Fire,Ground,Eruption Pokémon,Magma Armor,Solid Rock,Anger Point,3,1.9,M,220,KG,
-324,Torkoal,Fire,,Coal Pokémon,White Smoke,Drought,Shell Armor,3,0.5,M,80.4,KG,
-325,Spoink,Psychic,,Bounce Pokémon,Thick Fat,Own Tempo,Gluttony,3,0.7,M,30.6,KG,
-326,Grumpig,Psychic,,Manipulate Pokémon,Thick Fat,Own Tempo,Gluttony,3,0.9,M,71.5,KG,
-327,Spinda,Normal,,Spot Panda Pokémon,Own Tempo,Tangled Feet,Contrary,3,1.1,M,5,KG,
-328,Trapinch,Ground,,Ant Pit Pokémon,Hyper Cutter,Arena Trap,Sheer Force,3,0.7,M,15,KG,
-329,Vibrava,Ground,Dragon,Vibration Pokémon,Levitate,,,3,1.1,M,15.3,KG,
-330,Flygon,Ground,Dragon,Mystic Pokémon,Levitate,,,3,2,M,82,KG,
-331,Cacnea,Grass,,Cactus Pokémon,Sand Veil,,Water Absorb,3,0.4,M,51.3,KG,
-332,Cacturne,Grass,Dark,Scarecrow Pokémon,Sand Veil,,Water Absorb,3,1.3,M,77.4,KG,
-333,Swablu,Normal,Flying,Cotton Bird Pokémon,Natural Cure,,Cloud Nine,3,0.4,M,1.2,KG,
-334,Altaria,Dragon,Flying,Humming Pokémon,Natural Cure,,Cloud Nine,3,1.1,M,20.6,KG,
-335,Zangoose,Normal,,Cat Ferret Pokémon,Immunity,,Toxic Boost,3,1.3,M,40.3,KG,
-336,Seviper,Poison,,Fang Snake Pokémon,Shed Skin,,Infiltrator,3,2.7,M,52.5,KG,
-337,Lunatone,Rock,Psychic,Meteorite Pokémon,Levitate,,,3,1,M,168,KG,
-338,Solrock,Rock,Psychic,Meteorite Pokémon,Levitate,,,3,1.2,M,154,KG,
-339,Barboach,Water,Ground,Whiskers Pokémon,Oblivious,Anticipation,Hydration,3,0.4,M,1.9,KG,
-340,Whiscash,Water,Ground,Whiskers Pokémon,Oblivious,Anticipation,Hydration,3,0.9,M,23.6,KG,
-341,Corphish,Water,,Ruffian Pokémon,Hyper Cutter,Shell Armor,Adaptability,3,0.6,M,11.5,KG,
-342,Crawdaunt,Water,Dark,Rogue Pokémon,Hyper Cutter,Shell Armor,Adaptability,3,1.1,M,32.8,KG,
-343,Baltoy,Ground,Psychic,Clay Doll Pokémon,Levitate,,,3,0.5,M,21.5,KG,
-344,Claydol,Ground,Psychic,Clay Doll Pokémon,Levitate,,,3,1.5,M,107.9,KG,
-345,Lileep,Rock,Grass,Sea Lily Pokémon,Suction Cups,,Storm Drain,3,1,M,23.8,KG,
-346,Cradily,Rock,Grass,Barnacle Pokémon,Suction Cups,,Storm Drain,3,1.5,M,60.4,KG,
-347,Anorith,Rock,Bug,Old Shrimp Pokémon,Battle Armor,,Swift Swim,3,0.7,M,12.5,KG,
-348,Armaldo,Rock,Bug,Plate Pokémon,Battle Armor,,Swift Swim,3,1.5,M,68.2,KG,
-349,Feebas,Water,,Fish Pokémon,Swift Swim,Oblivious,Adaptability,3,0.6,M,7.4,KG,
-350,Milotic,Water,,Tender Pokémon,Marvel Scale,Competitive,Cute Charm,3,6.2,M,162,KG,
-351,Castform,Normal,,Weather Pokémon,Forecast,,,3,0.3,M,0.8,KG,
-352,Kecleon,Normal,,Color Swap Pokémon,Color Change,,Protean,3,1,M,22,KG,
-353,Shuppet,Ghost,,Puppet Pokémon,Insomnia,Frisk,Cursed Body,3,0.6,M,2.3,KG,
-354,Banette,Ghost,,Marionette Pokémon,Insomnia,Frisk,Cursed Body,3,1.1,M,12.5,KG,
-355,Duskull,Ghost,,Requiem Pokémon,Levitate,,Frisk,3,0.8,M,15,KG,
-356,Dusclops,Ghost,,Beckon Pokémon,Pressure,,Frisk,3,1.6,M,30.6,KG,
-357,Tropius,Grass,Flying,Fruit Pokémon,Chlorophyll,Solar Power,Harvest,3,2,M,100,KG,
-358,Chimecho,Psychic,,Wind Chime Pokémon,Levitate,,,3,0.6,M,1,KG,
-359,Absol,Dark,,Disaster Pokémon,Pressure,Super Luck,Justified,3,1.2,M,47,KG,
-360,Wynaut,Psychic,,Bright Pokémon,Shadow Tag,,Telepathy,3,0.6,M,14,KG,
-361,Snorunt,Ice,,Snow Hat Pokémon,Inner Focus,Ice Body,Moody,3,0.7,M,16.8,KG,
-362,Glalie,Ice,,Face Pokémon,Inner Focus,Ice Body,Moody,3,1.5,M,256.5,KG,
-363,Spheal,Ice,Water,Clap Pokémon,Thick Fat,Ice Body,Oblivious,3,0.8,M,39.5,KG,
-364,Sealeo,Ice,Water,Ball Roll Pokémon,Thick Fat,Ice Body,Oblivious,3,1.1,M,87.6,KG,
-365,Walrein,Ice,Water,Ice Break Pokémon,Thick Fat,Ice Body,Oblivious,3,1.4,M,150.6,KG,
-366,Clamperl,Water,,Bivalve Pokémon,Shell Armor,,Rattled,3,0.4,M,52.5,KG,
-367,Huntail,Water,,Deep Sea Pokémon,Swift Swim,,Water Veil,3,1.7,M,27,KG,
-368,Gorebyss,Water,,South Sea Pokémon,Swift Swim,,Hydration,3,1.8,M,22.6,KG,
-369,Relicanth,Water,Rock,Longevity Pokémon,Swift Swim,Rock Head,Sturdy,3,1,M,23.4,KG,
-370,Luvdisc,Water,,Rendezvous Pokémon,Swift Swim,,Hydration,3,0.6,M,8.7,KG,
-371,Bagon,Dragon,,Rock Head Pokémon,Rock Head,,Sheer Force,3,0.6,M,42.1,KG,
-372,Shelgon,Dragon,,Endurance Pokémon,Rock Head,,Overcoat,3,1.1,M,110.5,KG,
-373,Salamence,Dragon,Flying,Dragon Pokémon,Intimidate,,Moxie,3,1.5,M,102.6,KG,
-374,Beldum,Steel,Psychic,Iron Ball Pokémon,Clear Body,,Light Metal,3,0.6,M,95.2,KG,
-375,Metang,Steel,Psychic,Iron Claw Pokémon,Clear Body,,Light Metal,3,1.2,M,202.5,KG,
-376,Metagross,Steel,Psychic,Iron Leg Pokémon,Clear Body,,Light Metal,3,1.6,M,550,KG,
-377,Regirock,Rock,,Rock Peak Pokémon,Clear Body,,Sturdy,3,1.7,M,230,KG,
-378,Regice,Ice,,Iceberg Pokémon,Clear Body,,Ice Body,3,1.8,M,175,KG,
-379,Registeel,Steel,,Iron Pokémon,Clear Body,,Light Metal,3,1.9,M,205,KG,
-380,Latias,Dragon,Psychic,Eon Pokémon,Levitate,,,3,1.4,M,40,KG,
-381,Latios,Dragon,Psychic,Eon Pokémon,Levitate,,,3,2,M,60,KG,
-382,Kyogre,Water,,Sea Basin Pokémon,Drizzle,,,3,4.5,M,352,KG,
-383,Groudon,Ground,,Continent Pokémon,Drought,,,3,3.5,M,950,KG,
-384,Rayquaza,Dragon,Flying,Sky High Pokémon,Air Lock,,,3,7,M,206.5,KG,
-385,Jirachi,Steel,Psychic,Wish Pokémon,Serene Grace,,,3,0.3,M,1.1,KG,
-386,Deoxys,Psychic,,DNA Pokémon,Pressure,,,3,1.7,M,60.8,KG,
-387,Turtwig,Grass,,Tiny Leaf Pokémon,Overgrow,,Shell Armor,4,0.4,M,10.2,KG,
-388,Grotle,Grass,,Grove Pokémon,Overgrow,,Shell Armor,4,1.1,M,97,KG,
-389,Torterra,Grass,Ground,Continent Pokémon,Overgrow,,Shell Armor,4,2.2,M,310,KG,
-390,Chimchar,Fire,,Chimp Pokémon,Blaze,,Iron Fist,4,0.5,M,6.2,KG,
-391,Monferno,Fire,Fighting,Playful Pokémon,Blaze,,Iron Fist,4,0.9,M,22,KG,
-392,Infernape,Fire,Fighting,Flame Pokémon,Blaze,,Iron Fist,4,1.2,M,55,KG,
-393,Piplup,Water,,Penguin Pokémon,Torrent,,Competitive,4,0.4,M,5.2,KG,
-394,Prinplup,Water,,Penguin Pokémon,Torrent,,Competitive,4,0.8,M,23,KG,
-395,Empoleon,Water,Steel,Emperor Pokémon,Torrent,,Competitive,4,1.7,M,84.5,KG,
-396,Starly,Normal,Flying,Starling Pokémon,Keen Eye,,Reckless,4,0.3,M,2,KG,
-397,Staravia,Normal,Flying,Starling Pokémon,Intimidate,,Reckless,4,0.6,M,15.5,KG,
-398,Staraptor,Normal,Flying,Predator Pokémon,Intimidate,,Reckless,4,1.2,M,24.9,KG,
-399,Bidoof,Normal,,Plump Mouse Pokémon,Simple,Unaware,Moody,4,0.5,M,20,KG,
-400,Bibarel,Normal,Water,Beaver Pokémon,Simple,Unaware,Moody,4,1,M,31.5,KG,
-401,Kricketot,Bug,,Cricket Pokémon,Shed Skin,,Run Away,4,0.3,M,2.2,KG,
-402,Kricketune,Bug,,Cricket Pokémon,Swarm,,Technician,4,1,M,25.5,KG,
-403,Shinx,Electric,,Flash Pokémon,Rivalry,Intimidate,Guts,4,0.5,M,9.5,KG,
-404,Luxio,Electric,,Spark Pokémon,Rivalry,Intimidate,Guts,4,0.9,M,30.5,KG,
-405,Luxray,Electric,,Gleam Eyes Pokémon,Rivalry,Intimidate,Guts,4,1.4,M,42,KG,
-406,Budew,Grass,Poison,Bud Pokémon,Natural Cure,Poison Point,Leaf Guard,4,0.2,M,1.2,KG,
-407,Roserade,Grass,Poison,Bouquet Pokémon,Natural Cure,Poison Point,Technician,4,0.9,M,14.5,KG,
-408,Cranidos,Rock,,Head Butt Pokémon,Mold Breaker,,Sheer Force,4,0.9,M,31.5,KG,
-409,Rampardos,Rock,,Head Butt Pokémon,Mold Breaker,,Sheer Force,4,1.6,M,102.5,KG,
-410,Shieldon,Rock,Steel,Shield Pokémon,Sturdy,,Soundproof,4,0.5,M,57,KG,
-411,Bastiodon,Rock,Steel,Shield Pokémon,Sturdy,,Soundproof,4,1.3,M,149.5,KG,
-412,Burmy,Bug,,Bagworm Pokémon,Shed Skin,,Overcoat,4,0.2,M,3.4,KG,
-413,Wormadam,Bug,Grass,Bagworm Pokémon,Anticipation,,Overcoat,4,0.5,M,6.5,KG,
-414,Mothim,Bug,Flying,Moth Pokémon,Swarm,,Tinted Lens,4,0.9,M,23.3,KG,
-415,Combee,Bug,Flying,Tiny Bee Pokémon,Honey Gather,,Hustle,4,0.3,M,5.5,KG,
-416,Vespiquen,Bug,Flying,Beehive Pokémon,Pressure,,Unnerve,4,1.2,M,38.5,KG,
-417,Pachirisu,Electric,,EleSquirrel Pokémon,Run Away,Pickup,Volt Absorb,4,0.4,M,3.9,KG,
-418,Buizel,Water,,Sea Weasel Pokémon,Swift Swim,,Water Veil,4,0.7,M,29.5,KG,
-419,Floatzel,Water,,Sea Weasel Pokémon,Swift Swim,,Water Veil,4,1.1,M,33.5,KG,
-420,Cherubi,Grass,,Cherry Pokémon,Chlorophyll,,,4,0.4,M,3.3,KG,
-421,Cherrim,Grass,,Blossom Pokémon,Flower Gift,,,4,0.5,M,9.3,KG,
-422,Shellos,Water,,Sea Slug Pokémon,Sticky Hold,Storm Drain,Sand Force,4,0.3,M,6.3,KG,
-423,Gastrodon,Water,Ground,Sea Slug Pokémon,Sticky Hold,Storm Drain,Sand Force,4,0.9,M,29.9,KG,
-424,Ambipom,Normal,,Long Tail Pokémon,Technician,Pickup,Skill Link,4,1.2,M,20.3,KG,
-425,Drifloon,Ghost,Flying,Balloon Pokémon,Aftermath,Unburden,Flare Boost,4,0.4,M,1.2,KG,
-426,Drifblim,Ghost,Flying,Blimp Pokémon,Aftermath,Unburden,Flare Boost,4,1.2,M,15,KG,
-427,Buneary,Normal,,Rabbit Pokémon,Run Away,Klutz,Limber,4,0.4,M,5.5,KG,
-428,Lopunny,Normal,,Rabbit Pokémon,Cute Charm,Klutz,Limber,4,1.2,M,33.3,KG,
-429,Mismagius,Ghost,,Magical Pokémon,Levitate,,,4,0.9,M,4.4,KG,
-430,Honchkrow,Dark,Flying,Big Boss Pokémon,Insomnia,Super Luck,Moxie,4,0.9,M,27.3,KG,
-431,Glameow,Normal,,Catty Pokémon,Limber,Own Tempo,Keen Eye,4,0.5,M,3.9,KG,
-432,Purugly,Normal,,Tiger Cat Pokémon,Thick Fat,Own Tempo,Defiant,4,1,M,43.8,KG,
-433,Chingling,Psychic,,Bell Pokémon,Levitate,,,4,0.2,M,0.6,KG,
-434,Stunky,Poison,Dark,Skunk Pokémon,Stench,Aftermath,Keen Eye,4,0.4,M,19.2,KG,
-435,Skuntank,Poison,Dark,Skunk Pokémon,Stench,Aftermath,Keen Eye,4,1,M,38,KG,
-436,Bronzor,Steel,Psychic,Bronze Pokémon,Levitate,Heatproof,Heavy Metal,4,0.5,M,60.5,KG,
-437,Bronzong,Steel,Psychic,Bronze Bell Pokémon,Levitate,Heatproof,Heavy Metal,4,1.3,M,187,KG,
-438,Bonsly,Rock,,Bonsai Pokémon,Sturdy,Rock Head,Rattled,4,0.5,M,15,KG,
-439,Mime Jr.,Psychic,Fairy,Mime Pokémon,Soundproof,Filter,Technician,4,0.6,M,13,KG,
-440,Happiny,Normal,,Playhouse Pokémon,Natural Cure,Serene Grace,Friend Guard,4,0.6,M,24.4,KG,
-441,Chatot,Normal,Flying,Music Note Pokémon,Keen Eye,Tangled Feet,Big Pecks,4,0.5,M,1.9,KG,
-442,Spiritomb,Ghost,Dark,Forbidden Pokémon,Pressure,,Infiltrator,4,1,M,108,KG,
-443,Gible,Dragon,Ground,Land Shark Pokémon,Sand Veil,,Rough Skin,4,0.7,M,20.5,KG,
-444,Gabite,Dragon,Ground,Cave Pokémon,Sand Veil,,Rough Skin,4,1.4,M,56,KG,
-445,Garchomp,Dragon,Ground,Mach Pokémon,Sand Veil,,Rough Skin,4,1.9,M,95,KG,
-446,Munchlax,Normal,,Big Eater Pokémon,Pickup,Thick Fat,Gluttony,4,0.6,M,105,KG,
-447,Riolu,Fighting,,Emanation Pokémon,Steadfast,Inner Focus,Prankster,4,0.7,M,20.2,KG,
-448,Lucario,Fighting,Steel,Aura Pokémon,Steadfast,Inner Focus,Justified,4,1.2,M,54,KG,
-449,Hippopotas,Ground,,Hippo Pokémon,Sand Stream,,Sand Force,4,0.8,M,49.5,KG,
-450,Hippowdon,Ground,,Heavyweight Pokémon,Sand Stream,,Sand Force,4,2,M,300,KG,
-451,Skorupi,Poison,Bug,Scorpion Pokémon,Battle Armor,Sniper,Keen Eye,4,0.8,M,12,KG,
-452,Drapion,Poison,Dark,Ogre Scorpion Pokémon,Battle Armor,Sniper,Keen Eye,4,1.3,M,61.5,KG,
-453,Croagunk,Poison,Fighting,Toxic Mouth Pokémon,Anticipation,Dry Skin,Poison Touch,4,0.7,M,23,KG,
-454,Toxicroak,Poison,Fighting,Toxic Mouth Pokémon,Anticipation,Dry Skin,Poison Touch,4,1.3,M,44.4,KG,
-455,Carnivine,Grass,,Bug Catcher Pokémon,Levitate,,,4,1.4,M,27,KG,
-456,Finneon,Water,,Wing Fish Pokémon,Swift Swim,Storm Drain,Water Veil,4,0.4,M,7,KG,
-457,Lumineon,Water,,Neon Pokémon,Swift Swim,Storm Drain,Water Veil,4,1.2,M,24,KG,
-458,Mantyke,Water,Flying,Kite Pokémon,Swift Swim,Water Absorb,Water Veil,4,1,M,65,KG,
-459,Snover,Grass,Ice,Frost Tree Pokémon,Snow Warning,,Soundproof,4,1,M,50.5,KG,
-460,Abomasnow,Grass,Ice,Frost Tree Pokémon,Snow Warning,,Soundproof,4,2.2,M,135.5,KG,
-461,Weavile,Dark,Ice,Sharp Claw Pokémon,Pressure,,Pickpocket,4,1.1,M,34,KG,
-462,Magnezone,Electric,Steel,Magnet Area Pokémon,Magnet Pull,Sturdy,Analytic,4,1.2,M,180,KG,
-463,Lickilicky,Normal,,Licking Pokémon,Own Tempo,Oblivious,Cloud Nine,4,1.7,M,140,KG,
-464,Rhyperior,Ground,Rock,Drill Pokémon,Lightning Rod,Solid Rock,Reckless,4,2.4,M,282.8,KG,
-465,Tangrowth,Grass,,Vine Pokémon,Chlorophyll,Leaf Guard,Regenerator,4,2,M,128.6,KG,
-466,Electivire,Electric,,Thunderbolt Pokémon,Motor Drive,,Vital Spirit,4,1.8,M,138.6,KG,
-467,Magmortar,Fire,,Blast Pokémon,Flame Body,,Vital Spirit,4,1.6,M,68,KG,
-468,Togekiss,Fairy,Flying,Jubilee Pokémon,Hustle,Serene Grace,Super Luck,4,1.5,M,38,KG,
-469,Yanmega,Bug,Flying,Ogre Darner Pokémon,Speed Boost,Tinted Lens,Frisk,4,1.9,M,51.5,KG,
-470,Leafeon,Grass,,Verdant Pokémon,Leaf Guard,,Chlorophyll,4,1,M,25.5,KG,
-471,Glaceon,Ice,,Fresh Snow Pokémon,Snow Cloak,,Ice Body,4,0.8,M,25.9,KG,
-472,Gliscor,Ground,Flying,Fang Scorpion Pokémon,Hyper Cutter,Sand Veil,Poison Heal,4,2,M,42.5,KG,
-473,Mamoswine,Ice,Ground,Twin Tusk Pokémon,Oblivious,Snow Cloak,Thick Fat,4,2.5,M,291,KG,
-474,Porygon-Z,Normal,,Virtual Pokémon,Adaptability,Download,Analytic,4,0.9,M,34,KG,
-475,Gallade,Psychic,Fighting,Blade Pokémon,Steadfast,Sharpness,Justified,4,1.6,M,52,KG,
-476,Probopass,Rock,Steel,Compass Pokémon,Sturdy,Magnet Pull,Sand Force,4,1.4,M,340,KG,
-477,Dusknoir,Ghost,,Gripper Pokémon,Pressure,,Frisk,4,2.2,M,106.6,KG,
-478,Froslass,Ice,Ghost,Snow Land Pokémon,Snow Cloak,,Cursed Body,4,1.3,M,26.6,KG,
-479,Rotom,Electric,Ghost,Plasma Pokémon,Levitate,,,4,0.3,M,0.3,KG,
-480,Uxie,Psychic,,Knowledge Pokémon,Levitate,,,4,0.3,M,0.3,KG,
-481,Mesprit,Psychic,,Emotion Pokémon,Levitate,,,4,0.3,M,0.3,KG,
-482,Azelf,Psychic,,Willpower Pokémon,Levitate,,,4,0.3,M,0.3,KG,
-483,Dialga,Steel,Dragon,Temporal Pokémon,Pressure,,Telepathy,4,5.4,M,683,KG,
-484,Palkia,Water,Dragon,Spatial Pokémon,Pressure,,Telepathy,4,4.2,M,336,KG,
-485,Heatran,Fire,Steel,Lava Dome Pokémon,Flash Fire,,Flame Body,4,1.7,M,430,KG,
-486,Regigigas,Normal,,Colossal Pokémon,Slow Start,,,4,3.7,M,420,KG,
-487,Giratina,Ghost,Dragon,Renegade Pokémon,Pressure,,Telepathy,4,4.5,M,750,KG,
-488,Cresselia,Psychic,,Lunar Pokémon,Levitate,,,4,1.5,M,85.6,KG,
-489,Phione,Water,,Sea Drifter Pokémon,Hydration,,,4,0.4,M,3.1,KG,
-490,Manaphy,Water,,Seafaring Pokémon,Hydration,,,4,0.3,M,1.4,KG,
-491,Darkrai,Dark,,Pitch-Black Pokémon,Bad Dreams,,,4,1.5,M,50.5,KG,
-492,Shaymin,Grass,,Gratitude Pokémon,Natural Cure,,,4,0.2,M,2.1,KG,
-493,Arceus,Normal,,Alpha Pokémon,Multitype,,,4,3.2,M,320,KG,
-494,Victini,Psychic,Fire,Victory Pokémon,Victory Star,,,5,0.4,M,4,KG,
-495,Snivy,Grass,,Grass Snake Pokémon,Overgrow,,Contrary,5,0.6,M,8.1,KG,
-496,Servine,Grass,,Grass Snake Pokémon,Overgrow,,Contrary,5,0.8,M,16,KG,
-497,Serperior,Grass,,Regal Pokémon,Overgrow,,Contrary,5,3.3,M,63,KG,
-498,Tepig,Fire,,Fire Pig Pokémon,Blaze,,Thick Fat,5,0.5,M,9.9,KG,
-499,Pignite,Fire,Fighting,Fire Pig Pokémon,Blaze,,Thick Fat,5,1,M,55.5,KG,
-500,Emboar,Fire,Fighting,Mega Fire Pig Pokémon,Blaze,,Reckless,5,1.6,M,150,KG,
-501,Oshawott,Water,,Sea Otter Pokémon,Torrent,,Shell Armor,5,0.5,M,5.9,KG,
-502,Dewott,Water,,Discipline Pokémon,Torrent,,Shell Armor,5,0.8,M,24.5,KG,
-503,Samurott,Water,,Formidable Pokémon,Torrent,,Shell Armor,5,1.5,M,94.6,KG,
-504,Patrat,Normal,,Scout Pokémon,Run Away,Keen Eye,Analytic,5,0.5,M,11.6,KG,
-505,Watchog,Normal,,Lookout Pokémon,Illuminate,Keen Eye,Analytic,5,1.1,M,27,KG,
-506,Lillipup,Normal,,Puppy Pokémon,Vital Spirit,Pickup,Run Away,5,0.4,M,4.1,KG,
-507,Herdier,Normal,,Loyal Dog Pokémon,Intimidate,Sand Rush,Scrappy,5,0.9,M,14.7,KG,
-508,Stoutland,Normal,,Big-Hearted Pokémon,Intimidate,Sand Rush,Scrappy,5,1.2,M,61,KG,
-509,Purrloin,Dark,,Devious Pokémon,Limber,Unburden,Prankster,5,0.4,M,10.1,KG,
-510,Liepard,Dark,,Cruel Pokémon,Limber,Unburden,Prankster,5,1.1,M,37.5,KG,
-511,Pansage,Grass,,Grass Monkey Pokémon,Gluttony,,Overgrow,5,0.6,M,10.5,KG,
-512,Simisage,Grass,,Thorn Monkey Pokémon,Gluttony,,Overgrow,5,1.1,M,30.5,KG,
-513,Pansear,Fire,,High Temp Pokémon,Gluttony,,Blaze,5,0.6,M,11,KG,
-514,Simisear,Fire,,Ember Pokémon,Gluttony,,Blaze,5,1,M,28,KG,
-515,Panpour,Water,,Spray Pokémon,Gluttony,,Torrent,5,0.6,M,13.5,KG,
-516,Simipour,Water,,Geyser Pokémon,Gluttony,,Torrent,5,1,M,29,KG,
-517,Munna,Psychic,,Dream Eater Pokémon,Forewarn,Synchronize,Telepathy,5,0.6,M,23.3,KG,
-518,Musharna,Psychic,,Drowsing Pokémon,Forewarn,Synchronize,Telepathy,5,1.1,M,60.5,KG,
-519,Pidove,Normal,Flying,Tiny Pigeon Pokémon,Big Pecks,Super Luck,Rivalry,5,0.3,M,2.1,KG,
-520,Tranquill,Normal,Flying,Wild Pigeon Pokémon,Big Pecks,Super Luck,Rivalry,5,0.6,M,15,KG,
-521,Unfezant,Normal,Flying,Proud Pokémon,Big Pecks,Super Luck,Rivalry,5,1.2,M,29,KG,
-522,Blitzle,Electric,,Electrified Pokémon,Lightning Rod,Motor Drive,Sap Sipper,5,0.8,M,29.8,KG,
-523,Zebstrika,Electric,,Thunderbolt Pokémon,Lightning Rod,Motor Drive,Sap Sipper,5,1.6,M,79.5,KG,
-524,Roggenrola,Rock,,Mantle Pokémon,Sturdy,Weak Armor,Sand Force,5,0.4,M,18,KG,
-525,Boldore,Rock,,Ore Pokémon,Sturdy,Weak Armor,Sand Force,5,0.9,M,102,KG,
-526,Gigalith,Rock,,Compressed Pokémon,Sturdy,Sand Stream,Sand Force,5,1.7,M,260,KG,
-527,Woobat,Psychic,Flying,Bat Pokémon,Unaware,Klutz,Simple,5,0.4,M,2.1,KG,
-528,Swoobat,Psychic,Flying,Courting Pokémon,Unaware,Klutz,Simple,5,0.9,M,10.5,KG,
-529,Drilbur,Ground,,Mole Pokémon,Sand Rush,Sand Force,Mold Breaker,5,0.3,M,8.5,KG,
-530,Excadrill,Ground,Steel,Subterrene Pokémon,Sand Rush,Sand Force,Mold Breaker,5,0.7,M,40.4,KG,
-531,Audino,Normal,,Hearing Pokémon,Healer,Regenerator,Klutz,5,1.1,M,31,KG,
-532,Timburr,Fighting,,Muscular Pokémon,Guts,Sheer Force,Iron Fist,5,0.6,M,12.5,KG,
-533,Gurdurr,Fighting,,Muscular Pokémon,Guts,Sheer Force,Iron Fist,5,1.2,M,40,KG,
-534,Conkeldurr,Fighting,,Muscular Pokémon,Guts,Sheer Force,Iron Fist,5,1.4,M,87,KG,
-535,Tympole,Water,,Tadpole Pokémon,Swift Swim,Hydration,Water Absorb,5,0.5,M,4.5,KG,
-536,Palpitoad,Water,Ground,Vibration Pokémon,Swift Swim,Hydration,Water Absorb,5,0.8,M,17,KG,
-537,Seismitoad,Water,Ground,Vibration Pokémon,Swift Swim,Poison Touch,Water Absorb,5,1.5,M,62,KG,
-538,Throh,Fighting,,Judo Pokémon,Guts,Inner Focus,Mold Breaker,5,1.3,M,55.5,KG,
-539,Sawk,Fighting,,Karate Pokémon,Sturdy,Inner Focus,Mold Breaker,5,1.4,M,41,KG,
-540,Sewaddle,Bug,Grass,Sewing Pokémon,Swarm,Chlorophyll,Overcoat,5,0.3,M,2.5,KG,
-541,Swadloon,Bug,Grass,Leaf-Wrapped Pokémon,Leaf Guard,Chlorophyll,Overcoat,5,0.5,M,7.3,KG,
-542,Leavanny,Bug,Grass,Nurturing Pokémon,Swarm,Chlorophyll,Overcoat,5,1.2,M,20.5,KG,
-543,Venipede,Bug,Poison,Centipede Pokémon,Poison Point,Swarm,Speed Boost,5,0.4,M,5.3,KG,
-544,Whirlipede,Bug,Poison,Curlipede Pokémon,Poison Point,Swarm,Speed Boost,5,1.2,M,58.5,KG,
-545,Scolipede,Bug,Poison,Megapede Pokémon,Poison Point,Swarm,Speed Boost,5,2.5,M,200.5,KG,
-546,Cottonee,Grass,Fairy,Cotton Puff Pokémon,Prankster,Infiltrator,Chlorophyll,5,0.3,M,0.6,KG,
-547,Whimsicott,Grass,Fairy,Windveiled Pokémon,Prankster,Infiltrator,Chlorophyll,5,0.7,M,6.6,KG,
-548,Petilil,Grass,,Bulb Pokémon,Chlorophyll,Own Tempo,Leaf Guard,5,0.5,M,6.6,KG,
-549,Lilligant,Grass,,Flowering Pokémon,Chlorophyll,Own Tempo,Leaf Guard,5,1.1,M,16.3,KG,
-550,Basculin,Water,,Hostile Pokémon,Reckless,Adaptability,Mold Breaker,5,1,M,18,KG,
-551,Sandile,Ground,Dark,Desert Croc Pokémon,Intimidate,Moxie,Anger Point,5,0.7,M,15.2,KG,
-552,Krokorok,Ground,Dark,Desert Croc Pokémon,Intimidate,Moxie,Anger Point,5,1,M,33.4,KG,
-553,Krookodile,Ground,Dark,Intimidation Pokémon,Intimidate,Moxie,Anger Point,5,1.5,M,96.3,KG,
-554,Darumaka,Fire,,Zen Charm Pokémon,Hustle,,Inner Focus,5,0.6,M,37.5,KG,
-555,Darmanitan,Fire,,Blazing Pokémon,Sheer Force,,Zen Mode,5,1.3,M,92.9,KG,
-556,Maractus,Grass,,Cactus Pokémon,Water Absorb,Chlorophyll,Storm Drain,5,1,M,28,KG,
-557,Dwebble,Bug,Rock,Rock Inn Pokémon,Sturdy,Shell Armor,Weak Armor,5,0.3,M,14.5,KG,
-558,Crustle,Bug,Rock,Stone Home Pokémon,Sturdy,Shell Armor,Weak Armor,5,1.4,M,200,KG,
-559,Scraggy,Dark,Fighting,Shedding Pokémon,Shed Skin,Moxie,Intimidate,5,0.6,M,11.8,KG,
-560,Scrafty,Dark,Fighting,Hoodlum Pokémon,Shed Skin,Moxie,Intimidate,5,1.1,M,30,KG,
-561,Sigilyph,Psychic,Flying,Avianoid Pokémon,Wonder Skin,Magic Guard,Tinted Lens,5,1.4,M,14,KG,
-562,Yamask,Ghost,,Spirit Pokémon,Mummy,,,5,0.5,M,1.5,KG,
-563,Cofagrigus,Ghost,,Coffin Pokémon,Mummy,,,5,1.7,M,76.5,KG,
-564,Tirtouga,Water,Rock,Prototurtle Pokémon,Solid Rock,Sturdy,Swift Swim,5,0.7,M,16.5,KG,
-565,Carracosta,Water,Rock,Prototurtle Pokémon,Solid Rock,Sturdy,Swift Swim,5,1.2,M,81,KG,
-566,Archen,Rock,Flying,First Bird Pokémon,Defeatist,,,5,0.5,M,9.5,KG,
-567,Archeops,Rock,Flying,First Bird Pokémon,Defeatist,,,5,1.4,M,32,KG,
-568,Trubbish,Poison,,Trash Bag Pokémon,Stench,Sticky Hold,Aftermath,5,0.6,M,31,KG,
-569,Garbodor,Poison,,Trash Heap Pokémon,Stench,Weak Armor,Aftermath,5,1.9,M,107.3,KG,
-570,Zorua,Dark,,Tricky Fox Pokémon,Illusion,,,5,0.7,M,12.5,KG,
-571,Zoroark,Dark,,Illusion Fox Pokémon,Illusion,,,5,1.6,M,81.1,KG,
-572,Minccino,Normal,,Chinchilla Pokémon,Cute Charm,Technician,Skill Link,5,0.4,M,5.8,KG,
-573,Cinccino,Normal,,Scarf Pokémon,Cute Charm,Technician,Skill Link,5,0.5,M,7.5,KG,
-574,Gothita,Psychic,,Fixation Pokémon,Frisk,Competitive,Shadow Tag,5,0.4,M,5.8,KG,
-575,Gothorita,Psychic,,Manipulate Pokémon,Frisk,Competitive,Shadow Tag,5,0.7,M,18,KG,
-576,Gothitelle,Psychic,,Astral Body Pokémon,Frisk,Competitive,Shadow Tag,5,1.5,M,44,KG,
-577,Solosis,Psychic,,Cell Pokémon,Overcoat,Magic Guard,Regenerator,5,0.3,M,1,KG,
-578,Duosion,Psychic,,Mitosis Pokémon,Overcoat,Magic Guard,Regenerator,5,0.6,M,8,KG,
-579,Reuniclus,Psychic,,Multiplying Pokémon,Overcoat,Magic Guard,Regenerator,5,1,M,20.1,KG,
-580,Ducklett,Water,Flying,Water Bird Pokémon,Keen Eye,Big Pecks,Hydration,5,0.5,M,5.5,KG,
-581,Swanna,Water,Flying,White Bird Pokémon,Keen Eye,Big Pecks,Hydration,5,1.3,M,24.2,KG,
-582,Vanillite,Ice,,Fresh Snow Pokémon,Ice Body,Snow Cloak,Weak Armor,5,0.4,M,5.7,KG,
-583,Vanillish,Ice,,Icy Snow Pokémon,Ice Body,Snow Cloak,Weak Armor,5,1.1,M,41,KG,
-584,Vanilluxe,Ice,,Snowstorm Pokémon,Ice Body,Snow Warning,Weak Armor,5,1.3,M,57.5,KG,
-585,Deerling,Normal,Grass,Season Pokémon,Chlorophyll,Sap Sipper,Serene Grace,5,0.6,M,19.5,KG,
-586,Sawsbuck,Normal,Grass,Season Pokémon,Chlorophyll,Sap Sipper,Serene Grace,5,1.9,M,92.5,KG,
-587,Emolga,Electric,Flying,Sky Squirrel Pokémon,Static,,Motor Drive,5,0.4,M,5,KG,
-588,Karrablast,Bug,,Clamping Pokémon,Swarm,Shed Skin,No Guard,5,0.5,M,5.9,KG,
-589,Escavalier,Bug,Steel,Cavalry Pokémon,Swarm,Shell Armor,Overcoat,5,1,M,33,KG,
-590,Foongus,Grass,Poison,Mushroom Pokémon,Effect Spore,,Regenerator,5,0.2,M,1,KG,
-591,Amoonguss,Grass,Poison,Mushroom Pokémon,Effect Spore,,Regenerator,5,0.6,M,10.5,KG,
-592,Frillish,Water,Ghost,Floating Pokémon,Water Absorb,Cursed Body,Damp,5,1.2,M,33,KG,
-593,Jellicent,Water,Ghost,Floating Pokémon,Water Absorb,Cursed Body,Damp,5,2.2,M,135,KG,
-594,Alomomola,Water,,Caring Pokémon,Healer,Hydration,Regenerator,5,1.2,M,31.6,KG,
-595,Joltik,Bug,Electric,Attaching Pokémon,Compound Eyes,Unnerve,Swarm,5,0.1,M,0.6,KG,
-596,Galvantula,Bug,Electric,EleSpider Pokémon,Compound Eyes,Unnerve,Swarm,5,0.8,M,14.3,KG,
-597,Ferroseed,Grass,Steel,Thorn Seed Pokémon,Iron Barbs,,,5,0.6,M,18.8,KG,
-598,Ferrothorn,Grass,Steel,Thorn Pod Pokémon,Iron Barbs,,Anticipation,5,1,M,110,KG,
-599,Klink,Steel,,Gear Pokémon,Plus,Minus,Clear Body,5,0.3,M,21,KG,
-600,Klang,Steel,,Gear Pokémon,Plus,Minus,Clear Body,5,0.6,M,51,KG,
-601,Klinklang,Steel,,Gear Pokémon,Plus,Minus,Clear Body,5,0.6,M,81,KG,
-602,Tynamo,Electric,,EleFish Pokémon,Levitate,,,5,0.2,M,0.3,KG,
-603,Eelektrik,Electric,,EleFish Pokémon,Levitate,,,5,1.2,M,22,KG,
-604,Eelektross,Electric,,EleFish Pokémon,Levitate,,,5,2.1,M,80.5,KG,
-605,Elgyem,Psychic,,Cerebral Pokémon,Telepathy,Synchronize,Analytic,5,0.5,M,9,KG,
-606,Beheeyem,Psychic,,Cerebral Pokémon,Telepathy,Synchronize,Analytic,5,1,M,34.5,KG,
-607,Litwick,Ghost,Fire,Candle Pokémon,Flash Fire,Flame Body,Infiltrator,5,0.3,M,3.1,KG,
-608,Lampent,Ghost,Fire,Lamp Pokémon,Flash Fire,Flame Body,Infiltrator,5,0.6,M,13,KG,
-609,Chandelure,Ghost,Fire,Luring Pokémon,Flash Fire,Flame Body,Infiltrator,5,1,M,34.3,KG,
-610,Axew,Dragon,,Tusk Pokémon,Rivalry,Mold Breaker,Unnerve,5,0.6,M,18,KG,
-611,Fraxure,Dragon,,Axe Jaw Pokémon,Rivalry,Mold Breaker,Unnerve,5,1,M,36,KG,
-612,Haxorus,Dragon,,Axe Jaw Pokémon,Rivalry,Mold Breaker,Unnerve,5,1.8,M,105.5,KG,
-613,Cubchoo,Ice,,Chill Pokémon,Snow Cloak,Slush Rush,Rattled,5,0.5,M,8.5,KG,
-614,Beartic,Ice,,Freezing Pokémon,Snow Cloak,Slush Rush,Swift Swim,5,2.6,M,260,KG,
-615,Cryogonal,Ice,,Crystallizing Pokémon,Levitate,,,5,1.1,M,148,KG,
-616,Shelmet,Bug,,Snail Pokémon,Hydration,Shell Armor,Overcoat,5,0.4,M,7.7,KG,
-617,Accelgor,Bug,,Shell Out Pokémon,Hydration,Sticky Hold,Unburden,5,0.8,M,25.3,KG,
-618,Stunfisk,Ground,Electric,Trap Pokémon,Static,Limber,Sand Veil,5,0.7,M,11,KG,
-619,Mienfoo,Fighting,,Martial Arts Pokémon,Inner Focus,Regenerator,Reckless,5,0.9,M,20,KG,
-620,Mienshao,Fighting,,Martial Arts Pokémon,Inner Focus,Regenerator,Reckless,5,1.4,M,35.5,KG,
-621,Druddigon,Dragon,,Cave Pokémon,Rough Skin,Sheer Force,Mold Breaker,5,1.6,M,139,KG,
-622,Golett,Ground,Ghost,Automaton Pokémon,Iron Fist,Klutz,No Guard,5,1,M,92,KG,
-623,Golurk,Ground,Ghost,Automaton Pokémon,Iron Fist,Klutz,No Guard,5,2.8,M,330,KG,
-624,Pawniard,Dark,Steel,Sharp Blade Pokémon,Defiant,Inner Focus,Pressure,5,0.5,M,10.2,KG,
-625,Bisharp,Dark,Steel,Sword Blade Pokémon,Defiant,Inner Focus,Pressure,5,1.6,M,70,KG,
-626,Bouffalant,Normal,,Bash Buffalo Pokémon,Reckless,Sap Sipper,Soundproof,5,1.6,M,94.5,KG,
-627,Rufflet,Normal,Flying,Eaglet Pokémon,Keen Eye,Sheer Force,Hustle,5,0.5,M,10.5,KG,
-628,Braviary,Normal,Flying,Valiant Pokémon,Keen Eye,Sheer Force,Defiant,5,1.5,M,41,KG,
-629,Vullaby,Dark,Flying,Diapered Pokémon,Big Pecks,Overcoat,Weak Armor,5,0.5,M,9,KG,
-630,Mandibuzz,Dark,Flying,Bone Vulture Pokémon,Big Pecks,Overcoat,Weak Armor,5,1.2,M,39.5,KG,
-631,Heatmor,Fire,,Anteater Pokémon,Gluttony,Flash Fire,White Smoke,5,1.4,M,58,KG,
-632,Durant,Bug,Steel,Iron Ant Pokémon,Swarm,Hustle,Truant,5,0.3,M,33,KG,
-633,Deino,Dark,Dragon,Irate Pokémon,Hustle,,,5,0.8,M,17.3,KG,
-634,Zweilous,Dark,Dragon,Hostile Pokémon,Hustle,,,5,1.4,M,50,KG,
-635,Hydreigon,Dark,Dragon,Brutal Pokémon,Levitate,,,5,1.8,M,160,KG,
-636,Larvesta,Bug,Fire,Torch Pokémon,Flame Body,,Swarm,5,1.1,M,28.8,KG,
-637,Volcarona,Bug,Fire,Sun Pokémon,Flame Body,,Swarm,5,1.6,M,46,KG,
-638,Cobalion,Steel,Fighting,Iron Will Pokémon,Justified,,,5,2.1,M,250,KG,
-639,Terrakion,Rock,Fighting,Cavern Pokémon,Justified,,,5,1.9,M,260,KG,
-640,Virizion,Grass,Fighting,Grassland Pokémon,Justified,,,5,2,M,200,KG,
-641,Tornadus,Flying,,Cyclone Pokémon,Prankster,,Defiant,5,1.5,M,63,KG,
-642,Thundurus,Electric,Flying,Bolt Strike Pokémon,Prankster,,Defiant,5,1.5,M,61,KG,
-643,Reshiram,Dragon,Fire,Vast White Pokémon,Turboblaze,,,5,3.2,M,330,KG,
-644,Zekrom,Dragon,Electric,Deep Black Pokémon,Teravolt,,,5,2.9,M,345,KG,
-645,Landorus,Ground,Flying,Abundance Pokémon,Sand Force,,Sheer Force,5,1.5,M,68,KG,
-646,Kyurem,Dragon,Ice,Boundary Pokémon,Pressure,,,5,3,M,325,KG,
-647,Keldeo,Water,Fighting,Colt Pokémon,Justified,,,5,1.4,M,48.5,KG,
-648,Meloetta,Normal,Psychic,Melody Pokémon,Serene Grace,,,5,0.6,M,6.5,KG,
-649,Genesect,Bug,Steel,Paleozoic Pokémon,Download,,,5,1.5,M,82.5,KG,
-650,Chespin,Grass,,Spiky Nut Pokémon,Overgrow,,Bulletproof,6,0.4,M,9,KG,
-651,Quilladin,Grass,,Spiky Armor Pokémon,Overgrow,,Bulletproof,6,0.7,M,29,KG,
-652,Chesnaught,Grass,Fighting,Spiky Armor Pokémon,Overgrow,,Bulletproof,6,1.6,M,90,KG,
-653,Fennekin,Fire,,Fox Pokémon,Blaze,,Magician,6,0.4,M,9.4,KG,
-654,Braixen,Fire,,Fox Pokémon,Blaze,,Magician,6,1,M,14.5,KG,
-655,Delphox,Fire,Psychic,Fox Pokémon,Blaze,,Magician,6,1.5,M,39,KG,
-656,Froakie,Water,,Bubble Frog Pokémon,Torrent,,Protean,6,0.3,M,7,KG,
-657,Frogadier,Water,,Bubble Frog Pokémon,Torrent,,Protean,6,0.6,M,10.9,KG,
-658,Greninja,Water,Dark,Ninja Pokémon,Torrent,,Protean,6,1.5,M,40,KG,
-659,Bunnelby,Normal,,Digging Pokémon,Pickup,Cheek Pouch,Huge Power,6,0.4,M,5,KG,
-660,Diggersby,Normal,Ground,Digging Pokémon,Pickup,Cheek Pouch,Huge Power,6,1,M,42.4,KG,
-661,Fletchling,Normal,Flying,Tiny Robin Pokémon,Big Pecks,,Gale Wings,6,0.3,M,1.7,KG,
-662,Fletchinder,Fire,Flying,Ember Pokémon,Flame Body,,Gale Wings,6,0.7,M,16,KG,
-663,Talonflame,Fire,Flying,Scorching Pokémon,Flame Body,,Gale Wings,6,1.2,M,24.5,KG,
-664,Scatterbug,Bug,,Scatterdust Pokémon,Shield Dust,Compound Eyes,Friend Guard,6,0.3,M,2.5,KG,
-665,Spewpa,Bug,,Scatterdust Pokémon,Shed Skin,,Friend Guard,6,0.3,M,8.4,KG,
-666,Vivillon,Bug,Flying,Scale Pokémon,Shield Dust,Compound Eyes,Friend Guard,6,1.2,M,17,KG,
-667,Litleo,Fire,Normal,Lion Cub Pokémon,Rivalry,Unnerve,Moxie,6,0.6,M,13.5,KG,
-668,Pyroar,Fire,Normal,Royal Pokémon,Rivalry,Unnerve,Moxie,6,1.5,M,81.5,KG,
-669,Flabébé,Fairy,,Single Bloom Pokémon,Flower Veil,,Symbiosis,6,0.1,M,0.1,KG,
-670,Floette,Fairy,,Single Bloom Pokémon,Flower Veil,,Symbiosis,6,0.2,M,0.9,KG,
-671,Florges,Fairy,,Garden Pokémon,Flower Veil,,Symbiosis,6,1.1,M,10,KG,
-672,Skiddo,Grass,,Mount Pokémon,Sap Sipper,,Grass Pelt,6,0.9,M,31,KG,
-673,Gogoat,Grass,,Mount Pokémon,Sap Sipper,,Grass Pelt,6,1.7,M,91,KG,
-674,Pancham,Fighting,,Playful Pokémon,Iron Fist,Mold Breaker,Scrappy,6,0.6,M,8,KG,
-675,Pangoro,Fighting,Dark,Daunting Pokémon,Iron Fist,Mold Breaker,Scrappy,6,2.1,M,136,KG,
-676,Furfrou,Normal,,Poodle Pokémon,Fur Coat,,,6,1.2,M,28,KG,
-677,Espurr,Psychic,,Restraint Pokémon,Keen Eye,Infiltrator,Own Tempo,6,0.3,M,3.5,KG,
-678,Meowstic,Psychic,,Constraint Pokémon,Keen Eye,Infiltrator,Prankster,6,0.6,M,8.5,KG,
-679,Honedge,Steel,Ghost,Sword Pokémon,No Guard,,,6,0.8,M,2,KG,
-680,Doublade,Steel,Ghost,Sword Pokémon,No Guard,,,6,0.8,M,4.5,KG,
-681,Aegislash,Steel,Ghost,Royal Sword Pokémon,Stance Change,,,6,1.7,M,53,KG,
-682,Spritzee,Fairy,,Perfume Pokémon,Healer,,Aroma Veil,6,0.2,M,0.5,KG,
-683,Aromatisse,Fairy,,Fragrance Pokémon,Healer,,Aroma Veil,6,0.8,M,15.5,KG,
-684,Swirlix,Fairy,,Cotton Candy Pokémon,Sweet Veil,,Unburden,6,0.4,M,3.5,KG,
-685,Slurpuff,Fairy,,Meringue Pokémon,Sweet Veil,,Unburden,6,0.8,M,5,KG,
-686,Inkay,Dark,Psychic,Revolving Pokémon,Suction Cups,Contrary,Infiltrator,6,0.4,M,3.5,KG,
-687,Malamar,Dark,Psychic,Overturning Pokémon,Suction Cups,Contrary,Infiltrator,6,1.5,M,47,KG,
-688,Binacle,Rock,Water,Two-Handed Pokémon,Tough Claws,Sniper,Pickpocket,6,0.5,M,31,KG,
-689,Barbaracle,Rock,Water,Collective Pokémon,Tough Claws,Sniper,Pickpocket,6,1.3,M,96,KG,
-690,Skrelp,Poison,Water,Mock Kelp Pokémon,Poison Point,Poison Touch,Adaptability,6,0.5,M,7.3,KG,
-691,Dragalge,Poison,Dragon,Mock Kelp Pokémon,Poison Point,Poison Touch,Adaptability,6,1.8,M,81.5,KG,
-692,Clauncher,Water,,Water Gun Pokémon,Mega Launcher,,,6,0.5,M,8.3,KG,
-693,Clawitzer,Water,,Howitzer Pokémon,Mega Launcher,,,6,1.3,M,35.3,KG,
-694,Helioptile,Electric,Normal,Generator Pokémon,Dry Skin,Sand Veil,Solar Power,6,0.5,M,6,KG,
-695,Heliolisk,Electric,Normal,Generator Pokémon,Dry Skin,Sand Veil,Solar Power,6,1,M,21,KG,
-696,Tyrunt,Rock,Dragon,Royal Heir Pokémon,Strong Jaw,,Sturdy,6,0.8,M,26,KG,
-697,Tyrantrum,Rock,Dragon,Despot Pokémon,Strong Jaw,,Rock Head,6,2.5,M,270,KG,
-698,Amaura,Rock,Ice,Tundra Pokémon,Refrigerate,,Snow Warning,6,1.3,M,25.2,KG,
-699,Aurorus,Rock,Ice,Tundra Pokémon,Refrigerate,,Snow Warning,6,2.7,M,225,KG,
-700,Sylveon,Fairy,,Interwining Pokémon,Cute Charm,,Pixilate,6,1,M,23.5,KG,
-701,Hawlucha,Fighting,Flying,Wrestling Pokémon,Limber,Unburden,Mold Breaker,6,0.8,M,21.5,KG,
-702,Dedenne,Electric,Fairy,Antenna Pokémon,Cheek Pouch,Pickup,Plus,6,0.2,M,2.2,KG,
-703,Carbink,Rock,Fairy,Jewel Pokémon,Clear Body,,Sturdy,6,0.3,M,5.7,KG,
-704,Goomy,Dragon,,Soft Tissue Pokémon,Sap Sipper,Hydration,Gooey,6,0.3,M,2.8,KG,
-705,Sliggoo,Dragon,,Soft Tissue Pokémon,Sap Sipper,Hydration,Gooey,6,0.8,M,17.5,KG,
-706,Goodra,Dragon,,Dragon Pokémon,Sap Sipper,Hydration,Gooey,6,2,M,150.5,KG,
-707,Klefki,Steel,Fairy,Key Ring Pokémon,Prankster,,Magician,6,0.2,M,3,KG,
-708,Phantump,Ghost,Grass,Stump Pokémon,Natural Cure,Frisk,Harvest,6,0.4,M,7,KG,
-709,Trevenant,Ghost,Grass,Elder Tree Pokémon,Natural Cure,Frisk,Harvest,6,1.5,M,71,KG,
-710,Pumpkaboo,Ghost,Grass,Pumpkin Pokémon,Pickup,Frisk,Insomnia,6,0.4,M,5,KG,
-711,Gourgeist,Ghost,Grass,Pumpkin Pokémon,Pickup,Frisk,Insomnia,6,0.9,M,12.5,KG,
-712,Bergmite,Ice,,Ice Chunk Pokémon,Own Tempo,Ice Body,Sturdy,6,1,M,99.5,KG,
-713,Avalugg,Ice,,Iceberg Pokémon,Own Tempo,Ice Body,Sturdy,6,2,M,505,KG,
-714,Noibat,Flying,Dragon,Sound Wave Pokémon,Frisk,Infiltrator,Telepathy,6,0.5,M,8,KG,
-715,Noivern,Flying,Dragon,Sound Wave Pokémon,Frisk,Infiltrator,Telepathy,6,1.5,M,85,KG,
-716,Xerneas,Fairy,,Life Pokémon,Fairy Aura,,,6,3,M,215,KG,
-717,Yveltal,Dark,Flying,Destruction Pokémon,Dark Aura,,,6,5.8,M,203,KG,
-718,Zygarde,Dragon,Ground,Order Pokémon,Aura Break,Power Construct,,6,5,M,305,KG,
-719,Diancie,Rock,Fairy,Jewel Pokémon,Clear Body,,,6,0.7,M,8.8,KG,
-720,Hoopa,Psychic,Ghost,Mischief Pokémon,Magician,,,6,0.5,M,9,KG,
-721,Volcanion,Fire,Water,Steam Pokémon,Water Absorb,,,6,1.7,M,195,KG,
-722,Rowlet,Grass,Flying,Grass Quill Pokémon,Overgrow,,Long Reach,7,0.3,M,1.5,KG,
-723,Dartrix,Grass,Flying,Blade Quill Pokémon,Overgrow,,Long Reach,7,0.7,M,16,KG,
-724,Decidueye,Grass,Ghost,Arrow Quill Pokémon,Overgrow,,Long Reach,7,1.6,M,36.6,KG,
-725,Litten,Fire,,Fire Cat Pokémon,Blaze,,Intimidate,7,0.4,M,4.3,KG,
-726,Torracat,Fire,,Fire Cat Pokémon,Blaze,,Intimidate,7,0.7,M,25,KG,
-727,Incineroar,Fire,Dark,Heel Pokémon,Blaze,,Intimidate,7,1.8,M,83,KG,
-728,Popplio,Water,,Sea Lion Pokémon,Torrent,,Liquid Voice,7,0.4,M,7.5,KG,
-729,Brionne,Water,,Pop Star Pokémon,Torrent,,Liquid Voice,7,0.6,M,17.5,KG,
-730,Primarina,Water,Fairy,Soloist Pokémon,Torrent,,Liquid Voice,7,1.8,M,44,KG,
-731,Pikipek,Normal,Flying,Woodpecker Pokémon,Keen Eye,Skill Link,Pickup,7,0.3,M,1.2,KG,
-732,Trumbeak,Normal,Flying,Bugle Beak Pokémon,Keen Eye,Skill Link,Pickup,7,0.6,M,14.8,KG,
-733,Toucannon,Normal,Flying,Cannon Pokémon,Keen Eye,Skill Link,Sheer Force,7,1.1,M,26,KG,
-734,Yungoos,Normal,,Loitering Pokémon,Stakeout,Strong Jaw,Adaptability,7,0.4,M,6,KG,
-735,Gumshoos,Normal,,Stakeout Pokémon,Stakeout,Strong Jaw,Adaptability,7,0.7,M,14.2,KG,
-736,Grubbin,Bug,,Larva Pokémon,Swarm,,,7,0.4,M,4.4,KG,
-737,Charjabug,Bug,Electric,Battery Pokémon,Battery,,,7,0.5,M,10.5,KG,
-738,Vikavolt,Bug,Electric,Stag Beetle Pokémon,Levitate,,,7,1.5,M,45,KG,
-739,Crabrawler,Fighting,,Boxing Pokémon,Hyper Cutter,Iron Fist,Anger Point,7,0.6,M,7,KG,
-740,Crabominable,Fighting,Ice,Woolly Crab Pokémon,Hyper Cutter,Iron Fist,Anger Point,7,1.7,M,180,KG,
-741,Oricorio,Fire,Flying,Dancing Pokémon,Dancer,,,7,0.6,M,3.4,KG,
-742,Cutiefly,Bug,Fairy,Bee Fly Pokémon,Honey Gather,Shield Dust,Sweet Veil,7,0.1,M,0.2,KG,
-743,Ribombee,Bug,Fairy,Bee Fly Pokémon,Honey Gather,Shield Dust,Sweet Veil,7,0.2,M,0.5,KG,
-744,Rockruff,Rock,,Puppy Pokémon,Keen Eye,Vital Spirit,Steadfast,7,0.5,M,9.2,KG,
-745,Lycanroc,Rock,,Wolf Pokémon,Keen Eye,Sand Rush,Steadfast,7,0.8,M,25,KG,
-746,Wishiwashi,Water,,Small Fry Pokémon,Schooling,,,7,0.2,M,0.3,KG,
-747,Mareanie,Poison,Water,Brutal Star Pokémon,Merciless,Limber,Regenerator,7,0.4,M,8,KG,
-748,Toxapex,Poison,Water,Brutal Pokémon,Merciless,Limber,Regenerator,7,0.7,M,14.5,KG,
-749,Mudbray,Ground,,Donkey Pokémon,Own Tempo,Stamina,Inner Focus,7,1,M,110,KG,
-750,Mudsdale,Ground,,Draft Horse Pokémon,Own Tempo,Stamina,Inner Focus,7,2.5,M,920,KG,
-751,Dewpider,Water,Bug,Water Bubble Pokémon,Water Bubble,,Water Absorb,7,0.3,M,4,KG,
-752,Araquanid,Water,Bug,Water Bubble Pokémon,Water Bubble,,Water Absorb,7,1.8,M,82,KG,
-753,Fomantis,Grass,,Sickle Grass Pokémon,Leaf Guard,,Contrary,7,0.3,M,1.5,KG,
-754,Lurantis,Grass,,Bloom Sickle Pokémon,Leaf Guard,,Contrary,7,0.9,M,18.5,KG,
-755,Morelull,Grass,Fairy,Illuminating Pokémon,Illuminate,Effect Spore,Rain Dish,7,0.2,M,1.5,KG,
-756,Shiinotic,Grass,Fairy,Illuminating Pokémon,Illuminate,Effect Spore,Rain Dish,7,1,M,11.5,KG,
-757,Salandit,Poison,Fire,Toxic Lizard Pokémon,Corrosion,,Oblivious,7,0.6,M,4.8,KG,
-758,Salazzle,Poison,Fire,Toxic Lizard Pokémon,Corrosion,,Oblivious,7,1.2,M,22.2,KG,
-759,Stufful,Normal,Fighting,Flailing Pokémon,Fluffy,Klutz,Cute Charm,7,0.5,M,6.8,KG,
-760,Bewear,Normal,Fighting,Strong Arm Pokémon,Fluffy,Klutz,Unnerve,7,2.1,M,135,KG,
-761,Bounsweet,Grass,,Fruit Pokémon,Leaf Guard,Oblivious,Sweet Veil,7,0.3,M,3.2,KG,
-762,Steenee,Grass,,Fruit Pokémon,Leaf Guard,Oblivious,Sweet Veil,7,0.7,M,8.2,KG,
-763,Tsareena,Grass,,Fruit Pokémon,Leaf Guard,Queenly Majesty,Sweet Veil,7,1.2,M,21.4,KG,
-764,Comfey,Fairy,,Posy Picker Pokémon,Flower Veil,Triage,Natural Cure,7,0.1,M,0.3,KG,
-765,Oranguru,Normal,Psychic,Sage Pokémon,Inner Focus,Telepathy,Symbiosis,7,1.5,M,76,KG,
-766,Passimian,Fighting,,Teamwork Pokémon,Receiver,,Defiant,7,2,M,82.8,KG,
-767,Wimpod,Bug,Water,Turn Tail Pokémon,Wimp Out,,,7,0.5,M,12,KG,
-768,Golisopod,Bug,Water,Hard Scale Pokémon,Emergency Exit,,,7,2,M,108,KG,
-769,Sandygast,Ghost,Ground,Sand Heap Pokémon,Water Compaction,,Sand Veil,7,0.5,M,70,KG,
-770,Palossand,Ghost,Ground,Sand Castle Pokémon,Water Compaction,,Sand Veil,7,1.3,M,250,KG,
-771,Pyukumuku,Water,,Sea Cucumber Pokémon,Innards Out,,Unaware,7,0.3,M,1.2,KG,
-772,Type: ,Normal,,Synthetic Pokémon,Battle Armor,,,7,1.9,M,120.5,KG,
-773,Silvally,Normal,,Synthetic Pokémon,RKS System,,,7,2.3,M,100.5,KG,
-774,Minior,Rock,Flying,Meteor Pokémon,Shields Down,,,7,0.3,M,40,KG,
-775,Komala,Normal,,Drowsing Pokémon,Comatose,,,7,0.4,M,19.9,KG,
-776,Turtonator,Fire,Dragon,Blast Turtle Pokémon,Shell Armor,,,7,2,M,212,KG,
-777,Togedemaru,Electric,Steel,Roly-Poly Pokémon,Iron Barbs,Lightning Rod,Sturdy,7,0.3,M,3.3,KG,
-778,Mimikyu,Ghost,Fairy,Disguise Pokémon,Disguise,,,7,0.2,M,0.7,KG,
-779,Bruxish,Water,Psychic,Gnash Teeth Pokémon,Dazzling,Strong Jaw,Wonder Skin,7,0.9,M,19,KG,
-780,Drampa,Normal,Dragon,Placid Pokémon,Berserk,Sap Sipper,Cloud Nine,7,3,M,185,KG,
-781,Dhelmise,Ghost,Grass,Sea Creeper Pokémon,Steelworker,,,7,3.9,M,210,KG,
-782,Jangmo-o,Dragon,,Scaly Pokémon,Bulletproof,Soundproof,Overcoat,7,0.6,M,29.7,KG,
-783,Hakamo-o,Dragon,Fighting,Scaly Pokémon,Bulletproof,Soundproof,Overcoat,7,1.2,M,47,KG,
-784,Kommo-o,Dragon,Fighting,Scaly Pokémon,Bulletproof,Soundproof,Overcoat,7,1.6,M,78.2,KG,
-785,Tapu Koko,Electric,Fairy,Land Spirit Pokémon,Electric Surge,,Telepathy,7,1.8,M,20.5,KG,
-786,Tapu Lele,Psychic,Fairy,Land Spirit Pokémon,Psychic Surge,,Telepathy,7,1.2,M,18.6,KG,
-787,Tapu Bulu,Grass,Fairy,Land Spirit Pokémon,Grassy Surge,,Telepathy,7,1.9,M,45.5,KG,
-788,Tapu Fini,Water,Fairy,Land Spirit Pokémon,Misty Surge,,Telepathy,7,1.3,M,21.2,KG,
-789,Cosmog,Psychic,,Nebula Pokémon,Unaware,,,7,0.2,M,0.1,KG,
-790,Cosmoem,Psychic,,Protostar Pokémon,Sturdy,,,7,0.1,M,999.9,KG,
-791,Solgaleo,Psychic,Steel,Sunne Pokémon,Full Metal Body,,,7,3.4,M,230,KG,
-792,Lunala,Psychic,Ghost,Moone Pokémon,Shadow Shield,,,7,4,M,120,KG,
-793,Nihilego,Rock,Poison,Parasite Pokémon,Beast Boost,,,7,1.2,M,55.5,KG,
-794,Buzzwole,Bug,Fighting,Swollen Pokémon,Beast Boost,,,7,2.4,M,333.6,KG,
-795,Pheromosa,Bug,Fighting,Lissome Pokémon,Beast Boost,,,7,1.8,M,25,KG,
-796,Xurkitree,Electric,,Glowing Pokémon,Beast Boost,,,7,3.8,M,100,KG,
-797,Celesteela,Steel,Flying,Launch Pokémon,Beast Boost,,,7,9.2,M,999.9,KG,
-798,Kartana,Grass,Steel,Drawn Sword Pokémon,Beast Boost,,,7,0.3,M,0.1,KG,
-799,Guzzlord,Dark,Dragon,Junkivore Pokémon,Beast Boost,,,7,5.5,M,888,KG,
-800,Necrozma,Psychic,,Prism Pokémon,Prism Armor,,,7,2.4,M,230,KG,
-801,Magearna,Steel,Fairy,Artificial Pokémon,Soul-Heart,,,7,1,M,80.5,KG,
-802,Marshadow,Fighting,Ghost,Gloomdweller Pokémon,Technician,,,7,0.7,M,22.2,KG,
-803,Poipole,Poison,,Poison Pin Pokémon,Beast Boost,,,7,0.6,M,1.8,KG,
-804,Naganadel,Poison,Dragon,Poison Pin Pokémon,Beast Boost,,,7,3.6,M,150,KG,
-805,Stakataka,Rock,Steel,Rampart Pokémon,Beast Boost,,,7,5.5,M,820,KG,
-806,Blacephalon,Fire,Ghost,Fireworks Pokémon,Beast Boost,,,7,1.8,M,13,KG,
-807,Zeraora,Electric,,Thunderclap Pokémon,Volt Absorb,,,7,1.5,M,44.5,KG,
-808,Meltan,Steel,,Hex Nut Pokémon,Magnet Pull,,,7,0.2,M,8,KG,
-809,Melmetal,Steel,,Hex Nut Pokémon,Iron Fist,,,7,2.5,M,800,KG,
-810,Grookey,Grass,,Chimp Pokémon,Overgrow,,Grassy Surge,8,0.3,M,5,KG,
-811,Thwackey,Grass,,Beat Pokémon,Overgrow,,Grassy Surge,8,0.7,M,14,KG,
-812,Rillaboom,Grass,,Drummer Pokémon,Overgrow,,Grassy Surge,8,2.1,M,90,KG,
-813,Scorbunny,Fire,,Rabbit Pokémon,Blaze,,Libero,8,0.3,M,4.5,KG,
-814,Raboot,Fire,,Rabbit Pokémon,Blaze,,Libero,8,0.6,M,9,KG,
-815,Cinderace,Fire,,Striker Pokémon,Blaze,,Libero,8,1.4,M,33,KG,
-816,Sobble,Water,,Water Lizard Pokémon,Torrent,,Sniper,8,0.3,M,4,KG,
-817,Drizzile,Water,,Water Lizard Pokémon,Torrent,,Sniper,8,0.7,M,11.5,KG,
-818,Inteleon,Water,,Secret Agent Pokémon,Torrent,,Sniper,8,1.9,M,45.2,KG,
-819,Skwovet,Normal,,Cheeky Pokémon,Cheek Pouch,,Gluttony,8,0.3,M,2.5,KG,
-820,Greedent,Normal,,Greedy Pokémon,Cheek Pouch,,Gluttony,8,0.6,M,6,KG,
-821,Rookidee,Flying,,Tiny Bird Pokémon,Keen Eye,Unnerve,Big Pecks,8,0.2,M,1.8,KG,
-822,Corvisquire,Flying,,Raven Pokémon,Keen Eye,Unnerve,Big Pecks,8,0.8,M,16,KG,
-823,Corviknight,Flying,Steel,Raven Pokémon,Pressure,Unnerve,Mirror Armor,8,2.2,M,75,KG,
-824,Blipbug,Bug,,Larva Pokémon,Swarm,Compound Eyes,Telepathy,8,0.4,M,8,KG,
-825,Dottler,Bug,Psychic,Radome Pokémon,Swarm,Compound Eyes,Telepathy,8,0.4,M,19.5,KG,
-826,Orbeetle,Bug,Psychic,Seven Spot Pokémon,Swarm,Frisk,Telepathy,8,0.4,M,40.8,KG,
-827,Nickit,Dark,,Fox Pokémon,Run Away,Unburden,Stakeout,8,0.6,M,8.9,KG,
-828,Thievul,Dark,,Fox Pokémon,Run Away,Unburden,Stakeout,8,1.2,M,19.9,KG,
-829,Gossifleur,Grass,,Flowering Pokémon,Cotton Down,Regenerator,Effect Spore,8,0.4,M,2.2,KG,
-830,Eldegoss,Grass,,Cotton Bloom Pokémon,Cotton Down,Regenerator,Effect Spore,8,0.5,M,2.5,KG,
-831,Wooloo,Normal,,Sheep Pokémon,Fluffy,Run Away,Bulletproof,8,0.6,M,6,KG,
-832,Dubwool,Normal,,Sheep Pokémon,Fluffy,Steadfast,Bulletproof,8,1.3,M,43,KG,
-833,Chewtle,Water,,Snapping Pokémon,Strong Jaw,Shell Armor,Swift Swim,8,0.3,M,8.5,KG,
-834,Drednaw,Water,Rock,Bite Pokémon,Strong Jaw,Shell Armor,Swift Swim,8,1,M,115.5,KG,
-835,Yamper,Electric,,Puppy Pokémon,Ball Fetch,,Rattled,8,0.3,M,13.5,KG,
-836,Boltund,Electric,,Dog Pokémon,Strong Jaw,,Competitive,8,1,M,34,KG,
-837,Rolycoly,Rock,,Coal Pokémon,Steam Engine,Heatproof,Flash Fire,8,0.3,M,12,KG,
-838,Carkol,Rock,Fire,Coal Pokémon,Steam Engine,Flame Body,Flash Fire,8,1.1,M,78,KG,
-839,Coalossal,Rock,Fire,Coal Pokémon,Steam Engine,Flame Body,Flash Fire,8,2.8,M,310.5,KG,
-840,Applin,Grass,Dragon,Apple Core Pokémon,Ripen,Gluttony,Bulletproof,8,0.2,M,0.5,KG,
-841,Flapple,Grass,Dragon,Apple Wing Pokémon,Ripen,Gluttony,Hustle,8,0.3,M,1,KG,
-842,Appletun,Grass,Dragon,Apple Nectar Pokémon,Ripen,Gluttony,Thick Fat,8,0.4,M,13,KG,
-843,Silicobra,Ground,,Sand Snake Pokémon,Sand Spit,Shed Skin,Sand Veil,8,2.2,M,7.6,KG,
-844,Sandaconda,Ground,,Sand Snake Pokémon,Sand Spit,Shed Skin,Sand Veil,8,3.8,M,65.5,KG,
-845,Cramorant,Flying,Water,Gulp Pokémon,Gulp Missile,,,8,0.8,M,18,KG,
-846,Arrokuda,Water,,Rush Pokémon,Swift Swim,,Propeller Tail,8,0.5,M,1,KG,
-847,Barraskewda,Water,,Skewer Pokémon,Swift Swim,,Propeller Tail,8,1.3,M,30,KG,
-848,Toxel,Electric,Poison,Baby Pokémon,Rattled,Static,Klutz,8,0.4,M,11,KG,
-849,Toxtricity,Electric,Poison,Punk Pokémon,Punk Rock,Plus,Technician,8,1.6,M,40,KG,
-850,Sizzlipede,Fire,Bug,Radiator Pokémon,Flash Fire,White Smoke,Flame Body,8,0.7,M,1,KG,
-851,Centiskorch,Fire,Bug,Radiator Pokémon,Flash Fire,White Smoke,Flame Body,8,3,M,120,KG,
-852,Clobbopus,Fighting,,Tantrum Pokémon,Limber,,Technician,8,0.6,M,4,KG,
-853,Grapploct,Fighting,,Jujitsu Pokémon,Limber,,Technician,8,1.6,M,39,KG,
-854,Sinistea,Ghost,,Black Tea Pokémon,Weak Armor,,Cursed Body,8,0.1,M,0.2,KG,
-855,Polteageist,Ghost,,Black Tea Pokémon,Weak Armor,,Cursed Body,8,0.2,M,0.4,KG,
-856,Hatenna,Psychic,,Calm Pokémon,Healer,Anticipation,Magic Bounce,8,0.4,M,3.4,KG,
-857,Hattrem,Psychic,,Serene Pokémon,Healer,Anticipation,Magic Bounce,8,0.6,M,4.8,KG,
-858,Hatterene,Psychic,Fairy,Silent Pokémon,Healer,Anticipation,Magic Bounce,8,2.1,M,5.1,KG,
-859,Impidimp,Dark,Fairy,Wily Pokémon,Prankster,Frisk,Pickpocket,8,0.4,M,5.5,KG,
-860,Morgrem,Dark,Fairy,Devious Pokémon,Prankster,Frisk,Pickpocket,8,0.8,M,12.5,KG,
-861,Grimmsnarl,Dark,Fairy,Bulk Up Pokémon,Prankster,Frisk,Pickpocket,8,1.5,M,61,KG,
-862,Obstagoon,Dark,Normal,Blocking Pokémon,Reckless,Guts,Defiant,8,1.6,M,46,KG,
-863,Perrserker,Steel,,Viking Pokémon,Battle Armor,Tough Claws,Steely Spirit,8,0.8,M,28,KG,
-864,Cursola,Ghost,,Coral Pokémon,Weak Armor,,Perish Body,8,1,M,0.4,KG,
-865,Sirfetch'd,Fighting,,Wild Duck Pokémon,Steadfast,,Scrappy,8,0.8,M,117,KG,
-866,Mr. Rime,Ice,Psychic,Comedian Pokémon,Tangled Feet,Screen Cleaner,Ice Body,8,1.5,M,58.2,KG,
-867,Runerigus,Ground,Ghost,Grudge Pokémon,Wandering Spirit,,,8,1.6,M,66.6,KG,
-868,Milcery,Fairy,,Cream Pokémon,Sweet Veil,,Aroma Veil,8,0.2,M,0.3,KG,
-869,Alcremie,Fairy,,Cream Pokémon,Sweet Veil,,Aroma Veil,8,0.3,M,0.5,KG,
-870,Falinks,Fighting,,Formation Pokémon,Battle Armor,,Defiant,8,3,M,62,KG,
-871,Pincurchin,Electric,,Sea Urchin Pokémon,Lightning Rod,,Electric Surge,8,0.3,M,1,KG,
-872,Snom,Ice,Bug,Worm Pokémon,Shield Dust,,Ice Scales,8,0.3,M,3.8,KG,
-873,Frosmoth,Ice,Bug,Frost Moth Pokémon,Shield Dust,,Ice Scales,8,1.3,M,42,KG,
-874,Stonjourner,Rock,,Big Rock Pokémon,Power Spot,,,8,2.5,M,520,KG,
-875,Eiscue,Ice,,Penguin Pokémon,Ice Face,,,8,1.4,M,89,KG,
-876,Indeedee,Psychic,Normal,Emotion Pokémon,Inner Focus,Synchronize,Psychic Surge,8,0.9,M,28,KG,
-877,Morpeko,Electric,Dark,Two-Sided Pokémon,Hunger Switch,,,8,0.3,M,3,KG,
-878,Cufant,Steel,,Copperderm Pokémon,Sheer Force,,Heavy Metal,8,1.2,M,100,KG,
-879,Copperajah,Steel,,Copperderm Pokémon,Sheer Force,,Heavy Metal,8,3,M,650,KG,
-880,Dracozolt,Electric,Dragon,Fossil Pokémon,Volt Absorb,Hustle,Sand Rush,8,1.8,M,190,KG,
-881,Arctozolt,Electric,Ice,Fossil Pokémon,Volt Absorb,Static,Slush Rush,8,2.3,M,150,KG,
-882,Dracovish,Water,Dragon,Fossil Pokémon,Water Absorb,Strong Jaw,Sand Rush,8,2.3,M,215,KG,
-883,Arctovish,Water,Ice,Fossil Pokémon,Water Absorb,Ice Body,Slush Rush,8,2,M,175,KG,
-884,Duraludon,Steel,Dragon,Alloy Pokémon,Light Metal,Heavy Metal,Stalwart,8,1.8,M,40,KG,
-885,Dreepy,Dragon,Ghost,Lingering Pokémon,Clear Body,Infiltrator,Cursed Body,8,0.5,M,2,KG,
-886,Drakloak,Dragon,Ghost,Caretaker Pokémon,Clear Body,Infiltrator,Cursed Body,8,1.4,M,11,KG,
-887,Dragapult,Dragon,Ghost,Stealth Pokémon,Clear Body,Infiltrator,Cursed Body,8,3,M,50,KG,
-888,Zacian,Fairy,,Warrior Pokémon,Intrepid Sword,,,8,2.8,M,110,KG,
-889,Zamazenta,Fighting,,Warrior Pokémon,Dauntless Shield,,,8,2.9,M,210,KG,
-890,Eternatus,Poison,Dragon,Gigantic Pokémon,Pressure,,,8,20,M,950,KG,
-891,Kubfu,Fighting,,Wushu Pokémon,Inner Focus,,,8,0.6,M,12,KG,
-892,Urshifu,Fighting,Dark,Wushu Pokémon,Unseen Fist,,,8,1.9,M,105,KG,
-893,Zarude,Dark,Grass,Rogue Monkey Pokémon,Leaf Guard,,,8,1.8,M,70,KG,
-894,Regieleki,Electric,,Electron Pokémon,Transistor,,,8,1.2,M,145,KG,
-895,Regidrago,Dragon,,Dragon Orb Pokémon,Dragon's Maw,,,8,2.1,M,200,KG,
-896,Glastrier,Ice,,Wild Horse Pokémon,Chilling Neigh,,,8,2.2,M,800,KG,
-897,Spectrier,Ghost,,Swift Horse Pokémon,Grim Neigh,,,8,2,M,44.5,KG,
-898,Calyrex,Psychic,Grass,King Pokémon,Unnerve,,,8,1.1,M,7.7,KG,
-899,Wyrdeer,Normal,Psychic,Big Horn Pokémon,Intimidate,Frisk,Sap Sipper,8,1.8,M,95.1,KG,
-900,Kleavor,Bug,Rock,Axe Pokémon,Swarm,Sheer Force,Sharpness,8,1.8,M,89,KG,
-901,Ursaluna,Ground,Normal,Peat Pokémon,Guts,Bulletproof,Unnerve,8,2.4,M,290,KG,
-902,Basculegion,Water,Ghost,Big Fish Pokémon,Swift Swim,Adaptability,Mold Breaker,8,3,M,110,KG,
-903,Sneasler,Fighting,Poison,Free Climb Pokémon,Pressure,Unburden,Poison Touch,8,1.3,M,43,KG,
-904,Overqwil,Dark,Poison,Pin Cluster Pokémon,Poison Point,Swift Swim,Intimidate,8,2.5,M,60.5,KG,
-905,Enamorus,Fairy,Flying,Love-Hate Pokémon,Healer,,Contrary,8,1.6,M,48,KG,
-906,Sprigatito,Grass,,Grass Cat Pokémon,Overgrow,,Protean,9,0.4,M,4.1,KG,
-907,Floragato,Grass,,Grass Cat Pokémon,Overgrow,,Protean,9,0.9,M,12.2,KG,
-908,Meowscarada,Grass,Dark,Magician Pokémon,Overgrow,,Protean,9,1.5,M,31.2,KG,
-909,Fuecoco,Fire,,Fire Croc Pokémon,Blaze,,Unaware,9,0.4,M,4.1,KG,
-910,Crocalor,Fire,,Fire Croc Pokémon,Blaze,,Unaware,9,1,M,30.7,KG,
-911,Skeledirge,Fire,Ghost,Singer Pokémon,Blaze,,Unaware,9,1.6,M,326.5,KG,
-912,Quaxly,Water,,Duckling Pokémon,Torrent,,Moxie,9,0.5,M,6.1,KG,
-913,Quaxwell,Water,,Practicing Pokémon,Torrent,,Moxie,9,1.2,M,21.5,KG,
-914,Quaquaval,Water,Fighting,Dancer Pokémon,Torrent,,Moxie,9,1.8,M,61.9,KG,
-915,Lechonk,Normal,,Hog Pokémon,Aroma Veil,Gluttony,Thick Fat,9,0.5,M,10.2,KG,
-916,Oinkologne,Normal,,Hog Pokémon,Lingering Aroma,Gluttony,Thick Fat,9,1,M,120,KG,
-917,Tarountula,Bug,,String Ball Pokémon,Insomnia,,Stakeout,9,0.3,M,4,KG,
-918,Spidops,Bug,,Trap Pokémon,Insomnia,,Stakeout,9,1,M,16.5,KG,
-919,Nymble,Bug,,Grasshopper Pokémon,Swarm,,Tinted Lens,9,0.2,M,1,KG,
-920,Lokix,Bug,Dark,Grasshopper Pokémon,Swarm,,Tinted Lens,9,1,M,17.5,KG,
-921,Pawmi,Electric,,Mouse Pokémon,Static,Natural Cure,Iron Fist,9,0.3,M,2.5,KG,
-922,Pawmo,Electric,Fighting,Mouse Pokémon,Volt Absorb,Natural Cure,Iron Fist,9,0.4,M,6.5,KG,
-923,Pawmot,Electric,Fighting,Mouse Pokémon,Volt Absorb,Natural Cure,Iron Fist,9,0.9,M,41,KG,
-924,Tandemaus,Normal,,Couple Pokémon,Run Away,Pickup,Own Tempo,9,0.3,M,1.8,KG,
-925,Maushold,Normal,,Family Pokémon,Friend Guard,Cheek Pouch,Technician,9,0.3,M,2.8,KG,
-926,Fidough,Fairy,,Puppy Pokémon,Own Tempo,,Klutz,9,0.3,M,10.9,KG,
-927,Dachsbun,Fairy,,Dog Pokémon,Well-Baked Body,,Aroma Veil,9,0.5,M,14.9,KG,
-928,Smoliv,Grass,Normal,Olive Pokémon,Early Bird,,Harvest,9,0.3,M,6.5,KG,
-929,Dolliv,Grass,Normal,Olive Pokémon,Early Bird,,Harvest,9,0.6,M,11.9,KG,
-930,Arboliva,Grass,Normal,Olive Pokémon,Seed Sower,,Harvest,9,1.4,M,48.2,KG,
-931,Squawkabilly,Normal,Flying,Parrot Pokémon,Intimidate,Hustle,Guts,9,0.6,M,2.4,KG,
-932,Nacli,Rock,,Rock Salt Pokémon,Purifying Salt,Sturdy,Clear Body,9,0.4,M,16,KG,
-933,Naclstack,Rock,,Rock Salt Pokémon,Purifying Salt,Sturdy,Clear Body,9,0.6,M,105,KG,
-934,Garganacl,Rock,,Rock Salt Pokémon,Purifying Salt,Sturdy,Clear Body,9,2.3,M,240,KG,
-935,Charcadet,Fire,,Fire Child Pokémon,Flash Fire,,Flame Body,9,0.6,M,10.5,KG,
-936,Armarouge,Fire,Psychic,Fire Warrior Pokémon,Flash Fire,,Weak Armor,9,1.5,M,85,KG,
-937,Ceruledge,Fire,Ghost,Fire Blades Pokémon,Flash Fire,,Weak Armor,9,1.6,M,62,KG,
-938,Tadbulb,Electric,,EleTadpole Pokémon,Own Tempo,Static,Damp,9,0.3,M,0.4,KG,
-939,Bellibolt,Electric,,EleFrog Pokemon,Electromorphosis,Static,Damp,9,1.2,M,113,KG,
-940,Wattrel,Electric,Flying,Storm Petrel Pokémon,Wind Power,Volt Absorb,Competitive,9,0.4,M,3.6,KG,
-941,Kilowattrel,Electric,Flying,Frigatebird Pokémon,Wind Power,Volt Absorb,Competitive,9,1.4,M,38.6,KG,
-942,Maschiff,Dark,,Rascal Pokémon,Intimidate,Guard Dog,Stakeout,9,0.5,M,16,KG,
-943,Mabosstiff,Dark,,Boss Pokémon,Intimidate,Guard Dog,Stakeout,9,1.1,M,61,KG,
-944,Shroodle,Poison,Normal,Toxic Mouse Pokémon,Unburden,Pickpocket,Prankster,9,0.2,M,0.7,KG,
-945,Grafaiai,Poison,Normal,Toxic Monkey Pokémon,Unburden,Poison Touch,Prankster,9,0.7,M,27.2,KG,
-946,Bramblin,Grass,Ghost,Tumbleweed Pokémon,Wind Power,,Infiltrator,9,0.6,M,0.6,KG,
-947,Brambleghast,Grass,Ghost,Tumbleweed Pokémon,Wind Power,,Infiltrator,9,1.2,M,6,KG,
-948,Toedscool,Ground,Grass,Woodear Pokémon,Mycelium Might,,,9,0.9,M,33,KG,
-949,Toedscruel,Ground,Grass,Woodear Pokémon,Mycelium Might,,,9,1.9,M,58,KG,
-950,Klawf,Rock,,Ambush Pokémon,Anger Shell,Shell Armor,Regenerator,9,1.3,M,79,KG,
-951,Capsakid,Grass,,Spicy Pepper Pokémon,Chlorophyll,Insomnia,Klutz,9,0.3,M,3,KG,
-952,Scovillain,Grass,Fire,Spicy Pepper Pokémon,Chlorophyll,Insomnia,Moody,9,0.9,M,15,KG,
-953,Rellor,Bug,,Rolling Pokémon,Compound Eyes,,Shed Skin,9,0.2,M,1,KG,
-954,Rabsca,Bug,Psychic,Rolling Pokémon,Synchronize,,Telepathy,9,0.3,M,3.5,KG,
-955,Flittle,Psychic,,Frill Pokémon,Anticipation,Frisk,Speed Boost,9,0.2,M,1.5,KG,
-956,Espathra,Psychic,,Ostrich Pokémon,Opportunist,Frisk,Speed Boost,9,1.9,M,90,KG,
-957,Tinkatink,Fairy,Steel,Metalsmith Pokémon,Mold Breaker,Own Tempo,Pickpocket,9,0.4,M,8.9,KG,
-958,Tinkatuff,Fairy,Steel,Hammer Pokémon,Mold Breaker,Own Tempo,Pickpocket,9,0.7,M,59.1,KG,
-959,Tinkaton,Fairy,Steel,Hammer Pokémon,Mold Breaker,Own Tempo,Pickpocket,9,0.7,M,112.8,KG,
-960,Wiglett,Water,,Garden Eel Pokémon,Gooey,Rattled,Sand Veil,9,1.2,M,1.8,KG,
-961,Wugtrio,Water,,Garden Eel Pokémon,Gooey,Rattled,Sand Veil,9,1.2,M,5.4,KG,
-962,Bombirdier,Flying,Dark,Item Drop Pokémon,Big Pecks,Keen Eye,Rocky Payload,9,1.5,M,42.9,KG,
-963,Finizen,Water,,Dolphin Pokémon,Water Veil,,,9,1.3,M,60.2,KG,
-964,Palafin,Water,,Dolphin Pokémon,Zero to Hero,,,9,1.3,M,60.2,KG,
-965,Varoom,Steel,Poison,Single-Cyl Pokémon,Overcoat,,Slow Start,9,1,M,35,KG,
-966,Revavroom,Steel,Poison,Multi-Cyl Pokémon,Overcoat,,Filter,9,1.8,M,120,KG,
-967,Cyclizar,Dragon,Normal,Mount Pokémon,Shed Skin,,Regenerator,9,1.6,M,63,KG,
-968,Orthworm,Steel,,Earthworm Pokémon,Earth Eater,,Sand Veil,9,2.5,M,310,KG,
-969,Glimmet,Rock,Poison,Ore Pokémon,Toxic Debris,,Corrosion,9,0.7,M,8,KG,
-970,Glimmora,Rock,Poison,Ore Pokémon,Toxic Debris,,Corrosion,9,1.5,M,45,KG,
-971,Greavard,Ghost,,Ghost Dog Pokémon,Pickup,,Fluffy,9,0.6,M,35,KG,
-972,Houndstone,Ghost,,Ghost Dog Pokémon,Sand Rush,,Fluffy,9,2,M,15,KG,
-973,Flamigo,Flying,Fighting,Synchronize Pokémon,Scrappy,Tangled Feet,Costar,9,1.6,M,37,KG,
-974,Cetoddle,Ice,,Terra Whale Pokémon,Thick Fat,Snow Cloak,Sheer Force,9,1.2,M,45,KG,
-975,Cetitan,Ice,,Terra Whale Pokémon,Thick Fat,Slush Rush,Sheer Force,9,4.5,M,700,KG,
-976,Veluza,Water,Psychic,Jettison Pokémon,Mold Breaker,,Sharpness,9,2.5,M,90,KG,
-977,Dondozo,Water,,Big Catfish Pokémon,Unaware,Oblivious,Water Veil,9,12,M,220,KG,
-978,Tatsugiri,Dragon,Water,Mimicry Pokémon,Commander,,Storm Drain,9,0.3,M,8,KG,
-979,Annihilape,Fighting,Ghost,Rage Monkey Pokémon,Vital Spirit,Inner Focus,Defiant,9,1.2,M,56,KG,
-980,Clodsire,Poison,Ground,Spiny Fish Pokémon,Poison Point,Water Absorb,Unaware,9,1.8,M,223,KG,
-981,Farigiraf,Normal,Psychic,Long Neck Pokémon,Cud Chew,Armor Tail,Sap Sipper,9,3.2,M,160,KG,
-982,Dudunsparce,Normal,,Land Snake Pokémon,Serene Grace,Run Away,Rattled,9,3.6,M,39.2,KG,
-983,Kingambit,Dark,Steel,Big Blade Pokémon,Defiant,Supreme Overload,Pressure,9,2,M,120,KG,
-984,Great Tusk,Ground,Fighting,Paradox Pokémon,Protosynthesis,,,9,2.2,M,320,KG,
-985,Scream Tail,Fairy,Psychic,Paradox Pokémon,Protosynthesis,,,9,1.2,M,8,KG,
-986,Brute Bonnet,Grass,Dark,Paradox Pokémon,Protosynthesis,,,9,1.2,M,21,KG,
-987,Flutter Mane,Ghost,Fairy,Paradox Pokémon,Protosynthesis,,,9,1.4,M,4,KG,
-988,Slither Wing,Bug,Fighting,Paradox Pokémon,Protosynthesis,,,9,3.2,M,92,KG,
-989,Sandy Shocks,Electric,Ground,Paradox Pokémon,Protosynthesis,,,9,2.3,M,60,KG,
-990,Iron Treads,Ground,Steel,Paradox Pokémon,Quark Drive,,,9,0.9,M,240,KG,
-991,Iron Bundle,Ice,Water,Paradox Pokémon,Quark Drive,,,9,0.6,M,11,KG,
-992,Iron Hands,Fighting,Electric,Paradox Pokémon,Quark Drive,,,9,1.8,M,380.7,KG,
-993,Iron Jugulis,Dark,Flying,Paradox Pokémon,Quark Drive,,,9,1.3,M,111,KG,
-994,Iron Moth,Fire,Poison,Paradox Pokémon,Quark Drive,,,9,1.2,M,36,KG,
-995,Iron Thorns,Rock,Electric,Paradox Pokémon,Quark Drive,,,9,1.6,M,303,KG,
-996,Frigibax,Dragon,Ice,Ice Fin Pokémon,Thermal Exchange,,Ice Body,9,0.5,M,17,KG,
-997,Arctibax,Dragon,Ice,Ice Fin Pokémon,Thermal Exchange,,Ice Body,9,0.8,M,30,KG,
-998,Baxcalibur,Dragon,Ice,Ice Dragon Pokémon,Thermal Exchange,,Ice Body,9,2.1,M,210,KG,
-999,Gimmighoul,Ghost,,Coin Chest Pokémon,Rattled,,,9,0.3,M,5,KG,
-1000,Gholdengo,Steel,Ghost,Coin Entity Pokémon,Good as Gold,,,9,1.2,M,30,KG,
-1001,Wo-Chien,Dark,Grass,Ruinous Pokémon,Tablets of Ruin,,,9,1.5,M,74.2,KG,
-1002,Chien-Pao,Dark,Ice,Ruinous Pokémon,Sword of Ruin,,,9,1.9,M,152.2,KG,
-1003,Ting-Lu,Dark,Ground,Ruinous Pokémon,Vessel of Ruin,,,9,2.7,M,699.7,KG,
-1004,Chi-Yu,Dark,Fire,Ruinous Pokémon,Beads of Ruin,,,9,0.4,M,4.9,KG,
-1005,Roaring Moon,Dragon,Dark,Paradox Pokémon,Protosynthesis,,,9,2,M,380,KG,
-1006,Iron Valiant,Fairy,Fighting,Paradox Pokémon,Quark Drive,,,9,1.4,M,35,KG,
-1007,Koraidon,Fighting,Dragon,Paradox Pokémon,Orichalcum Pulse,,,9,2.5,M,303,KG,
-1008,Miraidon,Electric,Dragon,Paradox Pokémon,Hadron Engine,,,9,3.5,M,240,KG,
-1009,Walking Wake,Water,Dragon,Paradox Pokémon,Protosynthesis,,,9,3.5,M,280,KG,
-1010,Iron Leaves,Grass,Psychic,Paradox Pokémon,Quark Drive,,,9,1.5,M,125,KG,
-1011,Dipplin,Grass,Dragon,Candy Apple Pokémon,Supersweet Syrup,Gluttony,Sticky Hold,9,0.4,M,4.4,KG,
-1012,Poltchageist,Grass,Ghost,Matcha Pokémon,Hospitality,,Heatproof,9,0.1,M,1.1,KG,
-1013,Sinistcha,Grass,Ghost,Matcha Pokémon,Hospitality,,Heatproof,9,0.2,M,2.2,KG,
-1014,Okidogi,Poison,Fighting,Retainer Pokémon,Toxic Chain,,Guard Dog,9,1.8,M,92,KG,
-1015,Munkidori,Poison,Psychic,Retainer Pokémon,Toxic Chain,,Frisk,9,1,M,12.2,KG,
-1016,Fezandipiti,Poison,Fairy,Retainer Pokémon,Toxic Chain,,Technician,9,1.4,M,30.1,KG,
-1017,Ogerpon,Grass,,Mask Pokémon,Defiant,,,9,1.2,M,39.8,KG,
-1018,Archaludon,Steel,Dragon,Alloy Pokémon,Stamina,Sturdy,Stalwart,9,2,M,60,KG,
-1019,Hydrapple,Grass,Dragon,Apple Hydra Pokémon,Supersweet Syrup,Regenerator,Sticky Hold,9,1.8,M,93,KG,
-1020,Gouging Fire,Fire,Dragon,Paradox Pokémon,Protosynthesis,,,9,3.5,M,590,KG,
-1021,Raging Bolt,Electric,Dragon,Paradox Pokémon,Protosynthesis,,,9,5.2,M,480,KG,
-1022,Iron Boulder,Rock,Psychic,Paradox Pokémon,Quark Drive,,,9,1.5,M,162.5,KG,
-1023,Iron Crown,Steel,Psychic,Paradox Pokémon,Quark Drive,,,9,1.6,M,156,KG,
-1024,Terapagos,Normal,,Tera Pokémon,Tera Shift,,,9,0.2,M,6.5,KG,
-1025,Pecharunt,Poison,Ghost,Subjugation Pokémon,Poison Puppeteer,,,9,0.3,M,0.3,KG,
+﻿ID,NAME,TYPE_1,TYPE_2,CLASSIFICATION,ABILITY_1,ABILITY_2,ABILITY_HDN,GENERATION,HEIGHT,HGHT_UNIT,WEIGHT,WGHT_UNIT
+1,Bulbasaur,Grass,Poison,Seed Pokémon,Overgrow,,Chlorophyll,1,0.7,M,6.9,KG
+2,Ivysaur,Grass,Poison,Seed Pokémon,Overgrow,,Chlorophyll,1,1,M,13,KG
+3,Venusaur,Grass,Poison,Seed Pokémon,Overgrow,,Chlorophyll,1,2,M,100,KG
+4,Charmander,Fire,,Lizard Pokémon,Blaze,,Solar Power,1,0.6,M,8.5,KG
+5,Charmeleon,Fire,,Flame Pokémon,Blaze,,Solar Power,1,1.1,M,19,KG
+6,Charizard,Fire,Flying,Flame Pokémon,Blaze,,Solar Power,1,1.7,M,90.5,KG
+7,Squirtle,Water,,Tiny Turtle Pokémon,Torrent,,Rain Dish,1,0.5,M,9,KG
+8,Wartortle,Water,,Turtle Pokémon,Torrent,,Rain Dish,1,1,M,22.5,KG
+9,Blastoise,Water,,Shellfish Pokémon,Torrent,,Rain Dish,1,1.6,M,85.5,KG
+10,Caterpie,Bug,,Worm Pokémon,Shield Dust,,Run Away,1,0.3,M,2.9,KG
+11,Metapod,Bug,,Cocoon Pokémon,Shed Skin,,,1,0.7,M,9.9,KG
+12,Butterfree,Bug,Flying,Butterfly Pokémon,Compound Eyes,,Tinted Lens,1,1.1,M,32,KG
+13,Weedle,Bug,Poison,Hairy Bug Pokémon,Shield Dust,,Run Away,1,0.3,M,3.2,KG
+14,Kakuna,Bug,Poison,Cocoon Pokémon,Shed Skin,,,1,0.6,M,10,KG
+15,Beedrill,Bug,Poison,Poison Bee Pokémon,Swarm,,Sniper,1,1,M,29.5,KG
+16,Pidgey,Normal,Flying,Tiny Bird Pokémon,Keen Eye,Tangled Feet,Big Pecks,1,0.3,M,1.8,KG
+17,Pidgeotto,Normal,Flying,Bird Pokémon,Keen Eye,Tangled Feet,Big Pecks,1,1.1,M,30,KG
+18,Pidgeot,Normal,Flying,Bird Pokémon,Keen Eye,Tangled Feet,Big Pecks,1,1.5,M,39.5,KG
+19,Rattata,Normal,,Mouse Pokémon,Run Away,Guts,Hustle,1,0.3,M,3.5,KG
+20,Raticate,Normal,,Mouse Pokémon,Run Away,Guts,Hustle,1,0.7,M,18.5,KG
+21,Spearow,Normal,Flying,Tiny Bird Pokémon,Keen Eye,,Sniper,1,0.3,M,2,KG
+22,Fearow,Normal,Flying,Beak Pokémon,Keen Eye,,Sniper,1,1.2,M,38,KG
+23,Ekans,Poison,,Snake Pokémon,Intimidate,Shed Skin,Unnerve,1,2,M,6.9,KG
+24,Arbok,Poison,,Cobra Pokémon,Intimidate,Shed Skin,Unnerve,1,3.5,M,65,KG
+25,Pikachu,Electric,,Mouse Pokémon,Static,,Lightning Rod,1,0.4,M,6,KG
+26,Raichu,Electric,,Mouse Pokémon,Static,,Lightning Rod,1,0.8,M,30,KG
+27,Sandshrew,Ground,,Mouse Pokémon,Sand Veil,,Sand Rush,1,0.6,M,12,KG
+28,Sandslash,Ground,,Mouse Pokémon,Sand Veil,,Sand Rush,1,1,M,29.5,KG
+29,Nidoran (Female),Poison,,Poison Pin Pokémon,Poison Point,Rivalry,Hustle,1,0.4,M,7,KG
+30,Nidorina,Poison,,Poison Pin Pokémon,Poison Point,Rivalry,Hustle,1,0.8,M,20,KG
+31,Nidoqueen,Poison,Ground,Drill Pokémon,Poison Point,Rivalry,Sheer Force,1,1.3,M,60,KG
+32,Nidoran (Male),Poison,,Poison Pin Pokémon,Poison Point,Rivalry,Hustle,1,0.5,M,9,KG
+33,Nidorino,Poison,,Poison Pin Pokémon,Poison Point,Rivalry,Hustle,1,0.9,M,19.5,KG
+34,Nidoking,Poison,Ground,Drill Pokémon,Poison Point,Rivalry,Sheer Force,1,1.4,M,62,KG
+35,Clefairy,Fairy,,Fairy Pokémon,Cute Charm,Magic Guard,Friend Guard,1,0.6,M,7.5,KG
+36,Clefable,Fairy,,Fairy Pokémon,Cute Charm,Magic Guard,Unaware,1,1.3,M,40,KG
+37,Vulpix,Fire,,Fox Pokémon,Flash Fire,,Drought,1,0.6,M,9.9,KG
+38,Ninetales,Fire,,Fox Pokémon,Flash Fire,,Drought,1,1.1,M,19.9,KG
+39,Jigglypuff,Normal,Fairy,Balloon Pokémon,Cute Charm,Competitive,Friend Guard,1,0.5,M,5.5,KG
+40,Wigglytuff,Normal,Fairy,Balloon Pokémon,Cute Charm,Competitive,Frisk,1,1,M,12,KG
+41,Zubat,Poison,Flying,Bat Pokémon,Inner Focus,,Infiltrator,1,0.8,M,7.5,KG
+42,Golbat,Poison,Flying,Bat Pokémon,Inner Focus,,Infiltrator,1,1.6,M,55,KG
+43,Oddish,Grass,Poison,Weed Pokémon,Chlorophyll,,Run Away,1,0.5,M,5.4,KG
+44,Gloom,Grass,Poison,Weed Pokémon,Chlorophyll,,Stench,1,0.8,M,8.6,KG
+45,Vileplume,Grass,Poison,Flower Pokémon,Chlorophyll,,Effect Spore,1,1.2,M,18.6,KG
+46,Paras,Bug,Grass,Mushroom Pokémon,Effect Spore,Dry Skin,Damp,1,0.3,M,5.4,KG
+47,Parasect,Bug,Grass,Mushroom Pokémon,Effect Spore,Dry Skin,Damp,1,1,M,29.5,KG
+48,Venonat,Bug,Poison,Insect Pokémon,Compound Eyes,Tinted Lens,Run Away,1,1,M,30,KG
+49,Venomoth,Bug,Poison,Poison Moth Pokémon,Shield Dust,Tinted Lens,Wonder Skin,1,1.5,M,12.5,KG
+50,Diglett,Ground,,Mole Pokémon,Sand Veil,Arena Trap,Sand Force,1,0.2,M,0.8,KG
+51,Dugtrio,Ground,Steel,Mole Pokémon,Sand Veil,Tangling Hair,Sand Force,1,0.7,M,66.6,KG
+52,Meowth,Normal,,Scratch Cat Pokémon,Pickup,Technician,Unnerve,1,0.4,M,4.2,KG
+53,Persian,Normal,,Classy Cat Pokémon,Limber,Technician,Unnerve,1,1,M,32,KG
+54,Psyduck,Water,,Duck Pokémon,Damp,Cloud Nine,Swift Swim,1,0.8,M,19.6,KG
+55,Golduck,Water,,Duck Pokémon,Damp,Cloud Nine,Swift Swim,1,1.7,M,76.6,KG
+56,Mankey,Fighting,,Pig Monkey Pokémon,Vital Spirit,Anger Point,Defiant,1,0.5,M,28,KG
+57,Primeape,Fighting,,Pig Monkey Pokémon,Vital Spirit,Anger Point,Defiant,1,1,M,32,KG
+58,Growlithe,Fire,,Puppy Pokémon,Intimidate,Flash Fire,Justified,1,0.7,M,19,KG
+59,Arcanine,Fire,,Legendary Pokémon,Intimidate,Flash Fire,Justified,1,1.9,M,155,KG
+60,Poliwag,Water,,Tadpole Pokémon,Water Absorb,Damp,Swift Swim,1,0.6,M,12.4,KG
+61,Poliwhirl,Water,,Tadpole Pokémon,Water Absorb,Damp,Swift Swim,1,1,M,20,KG
+62,Poliwrath,Water,Fighting,Tadpole Pokémon,Water Absorb,Damp,Swift Swim,1,1.3,M,54,KG
+63,Abra,Psychic,,Psi Pokémon,Synchronize,Inner Focus,Magic Guard,1,0.9,M,19.5,KG
+64,Kadabra,Psychic,,Psi Pokémon,Synchronize,Inner Focus,Magic Guard,1,1.3,M,56.5,KG
+65,Alakazam,Psychic,,Psi Pokémon,Synchronize,Inner Focus,Magic Guard,1,1.5,M,48,KG
+66,Machop,Fighting,,Superpower Pokémon,Guts,No Guard,Steadfast,1,0.8,M,19.5,KG
+67,Machoke,Fighting,,Superpower Pokémon,Guts,No Guard,Steadfast,1,1.5,M,70.5,KG
+68,Machamp,Fighting,,Superpower Pokémon,Guts,No Guard,Steadfast,1,1.6,M,130,KG
+69,Bellsprout,Grass,Poison,Flower Pokémon,Chlorophyll,,Gluttony,1,0.7,M,4,KG
+70,Weepinbell,Grass,Poison,Flycatcher Pokémon,Chlorophyll,,Gluttony,1,1,M,6.4,KG
+71,Victreebel,Grass,Poison,Flycatcher Pokémon,Chlorophyll,,Gluttony,1,1.7,M,15.5,KG
+72,Tentacool,Water,Poison,Jellyfish Pokémon,Clear Body,Liquid Ooze,Rain Dish,1,0.9,M,45.5,KG
+73,Tentacruel,Water,Poison,Jellyfish Pokémon,Clear Body,Liquid Ooze,Rain Dish,1,1.6,M,55,KG
+74,Geodude,Rock,Ground,Rock Pokémon,Rock Head,Sturdy,Sand Veil,1,0.4,M,20,KG
+75,Graveler,Rock,Electric,Rock Pokémon,Magnet Pull,Sturdy,Galvanize,1,1,M,110,KG
+76,Golem,Rock,Ground,Megaton Pokémon,Rock Head,Sturdy,Sand Veil,1,1.4,M,300,KG
+77,Ponyta,Psychic,,Unique Horn Pokémon,Run Away,Pastel Veil,Anticipation,1,0.8,M,24,KG
+78,Rapidash,Fire,,Fire Horse Pokémon,Run Away,Flash Fire,Flame Body,1,1.7,M,95,KG
+79,Slowpoke,Water,Psychic,Dopey Pokémon,Oblivious,Own Tempo,Regenerator,1,1.2,M,36,KG
+80,Slowbro,Water,Psychic,Hermit Crab Pokémon,Oblivious,Own Tempo,Regenerator,1,1.6,M,78.5,KG
+81,Magnemite,Electric,Steel,Magnet Pokémon,Magnet Pull,Sturdy,Analytic,1,0.3,M,6,KG
+82,Magneton,Electric,Steel,Magnet Pokémon,Magnet Pull,Sturdy,Analytic,1,1,M,60,KG
+83,Farfetch'd,Normal,Flying,Wild Duck Pokémon,Keen Eye,Inner Focus,Defiant,1,0.8,M,15,KG
+84,Doduo,Normal,Flying,Twin Bird Pokémon,Run Away,Early Bird,Tangled Feet,1,1.4,M,39.2,KG
+85,Dodrio,Normal,Flying,Triple Bird Pokémon,Run Away,Early Bird,Tangled Feet,1,1.8,M,85.2,KG
+86,Seel,Water,,Sea Lion Pokémon,Thick Fat,Hydration,Ice Body,1,1.1,M,90,KG
+87,Dewgong,Water,Ice,Sea Lion Pokémon,Thick Fat,Hydration,Ice Body,1,1.7,M,120,KG
+88,Grimer,Poison,,Sludge Pokémon,Stench,Sticky Hold,Poison Touch,1,0.9,M,30,KG
+89,Muk,Poison,Dark,Sludge Pokémon,Poison Touch,Gluttony,Power of Alchemy,1,1,M,52,KG
+90,Shellder,Water,,Bivalve Pokémon,Shell Armor,Skill Link,Overcoat,1,0.3,M,4,KG
+91,Cloyster,Water,Ice,Bivalve Pokémon,Shell Armor,Skill Link,Overcoat,1,1.5,M,132.5,KG
+92,Gastly,Ghost,Poison,Gas Pokémon,Levitate,,,1,1.3,M,0.1,KG
+93,Haunter,Ghost,Poison,Gas Pokémon,Levitate,,,1,1.6,M,0.1,KG
+94,Gengar,Ghost,Poison,Shadow Pokémon,Cursed Body,,,1,1.5,M,40.5,KG
+95,Onix,Rock,Ground,Rock Snake Pokémon,Rock Head,Sturdy,Weak Armor,1,8.8,M,210,KG
+96,Drowzee,Psychic,,Hypnosis Pokémon,Insomnia,Forewarn,Inner Focus,1,1,M,32.4,KG
+97,Hypno,Psychic,,Hypnosis Pokémon,Insomnia,Forewarn,Inner Focus,1,1.6,M,75.6,KG
+98,Krabby,Water,,River Crab Pokémon,Hyper Cutter,Shell Armor,Sheer Force,1,0.4,M,6.5,KG
+99,Kingler,Water,,Pincer Pokémon,Hyper Cutter,Shell Armor,Sheer Force,1,1.3,M,60,KG
+100,Voltorb,Electric,,Ball Pokémon,Soundproof,Static,Aftermath,1,0.5,M,10.5,KG
+101,Electrode,Electric,,Ball Pokémon,Soundproof,Static,Aftermath,1,1.2,M,66.6,KG
+102,Exeggcute,Grass,Psychic,Egg Pokémon,Chlorophyll,,Harvest,1,0.4,M,2.5,KG
+103,Exeggutor,Grass,Psychic,Coconut Pokémon,Chlorophyll,,Harvest,1,2,M,120,KG
+104,Cubone,Ground,,Lonely Pokémon,Rock Head,Lightning Rod,Battle Armor,1,0.4,M,6.5,KG
+105,Marowak,Ground,,Bone Keeper Pokémon,Rock Head,Lightning Rod,Battle Armor,1,1,M,45,KG
+106,Hitmonlee,Fighting,,Kicking Pokémon,Limber,Reckless,Unburden,1,1.5,M,49.8,KG
+107,Hitmonchan,Fighting,,Punching Pokémon,Keen Eye,Iron Fist,Inner Focus,1,1.4,M,50.2,KG
+108,Lickitung,Normal,,Licking Pokémon,Own Tempo,Oblivious,Cloud Nine,1,1.2,M,65.5,KG
+109,Koffing,Poison,,Poison Gas Pokémon,Levitate,Neutralizing Gas,Stench,1,0.6,M,1,KG
+110,Weezing,Poison,,Poison Gas Pokémon,Levitate,Neutralizing Gas,Stench,1,1.2,M,9.5,KG
+111,Rhyhorn,Ground,Rock,Spikes Pokémon,Lightning Rod,Rock Head,Reckless,1,1,M,115,KG
+112,Rhydon,Ground,Rock,Drill Pokémon,Lightning Rod,Rock Head,Reckless,1,1.9,M,120,KG
+113,Chansey,Normal,,Egg Pokémon,Natural Cure,Serene Grace,Healer,1,1.1,M,34.6,KG
+114,Tangela,Grass,,Vine Pokémon,Chlorophyll,Leaf Guard,Regenerator,1,1,M,35,KG
+115,Kangaskhan,Normal,,Parent Pokémon,Early Bird,Scrappy,Inner Focus,1,2.2,M,80,KG
+116,Horsea,Water,,Dragon Pokémon,Swift Swim,Sniper,Damp,1,0.4,M,8,KG
+117,Seadra,Water,,Dragon Pokémon,Poison Point,Sniper,Damp,1,1.2,M,25,KG
+118,Goldeen,Water,,Goldfish Pokémon,Swift Swim,Water Veil,Lightning Rod,1,0.6,M,15,KG
+119,Seaking,Water,,Goldfish Pokémon,Swift Swim,Water Veil,Lightning Rod,1,1.3,M,39,KG
+120,Staryu,Water,,Star Shape Pokémon,Illuminate,Natural Cure,Analytic,1,0.8,M,34.5,KG
+121,Starmie,Water,Psychic,Mysterious Pokémon,Illuminate,Natural Cure,Analytic,1,1.1,M,80,KG
+122,Mr. Mime,Psychic,Fairy,Barrier Pokémon,Soundproof,Filter,Technician,1,1.3,M,54.5,KG
+123,Scyther,Bug,Flying,Mantis Pokémon,Swarm,Technician,Steadfast,1,1.5,M,56,KG
+124,Jynx,Ice,Psychic,Human Shape Pokémon,Oblivious,Forewarn,Dry Skin,1,1.4,M,40.6,KG
+125,Electabuzz,Electric,,Electric Pokémon,Static,,Vital Spirit,1,1.1,M,30,KG
+126,Magmar,Fire,,Spitfire Pokémon,Flame Body,,Vital Spirit,1,1.3,M,44.5,KG
+127,Pinsir,Bug,,Stag Beetle Pokémon,Hyper Cutter,Mold Breaker,Moxie,1,1.5,M,55,KG
+128,Tauros,Normal,,Wild Bull Pokémon,Intimidate,Anger Point,Sheer Force,1,1.4,M,88.4,KG
+129,Magikarp,Water,,Fish Pokémon,Swift Swim,,Rattled,1,0.9,M,10,KG
+130,Gyarados,Water,Flying,Atrocious Pokémon,Intimidate,,Moxie,1,6.5,M,235,KG
+131,Lapras,Water,Ice,Transport Pokémon,Water Absorb,Shell Armor,Hydration,1,2.5,M,220,KG
+132,Ditto,Normal,,Transform Pokémon,Limber,,Imposter,1,0.3,M,4,KG
+133,Eevee,Normal,,Evolution Pokémon,Run Away,Adaptability,Anticipation,1,0.3,M,6.5,KG
+134,Vaporeon,Water,,Bubble Jet Pokémon,Water Absorb,,Hydration,1,1,M,29,KG
+135,Jolteon,Electric,,Lightning Pokémon,Volt Absorb,,Quick Feet,1,0.8,M,24.5,KG
+136,Flareon,Fire,,Flame Pokémon,Flash Fire,,Guts,1,0.9,M,25,KG
+137,Porygon,Normal,,Virtual Pokémon,Trace,Download,Analytic,1,0.8,M,36.5,KG
+138,Omanyte,Rock,Water,Spiral Pokémon,Swift Swim,Shell Armor,Weak Armor,1,0.4,M,7.5,KG
+139,Omastar,Rock,Water,Spiral Pokémon,Swift Swim,Shell Armor,Weak Armor,1,1,M,35,KG
+140,Kabuto,Rock,Water,Shellfish Pokémon,Swift Swim,Battle Armor,Weak Armor,1,0.5,M,11.5,KG
+141,Kabutops,Rock,Water,Shellfish Pokémon,Swift Swim,Battle Armor,Weak Armor,1,1.3,M,40.5,KG
+142,Aerodactyl,Rock,Flying,Fossil Pokémon,Rock Head,Pressure,Unnerve,1,1.8,M,59,KG
+143,Snorlax,Normal,,Sleeping Pokémon,Immunity,Thick Fat,Gluttony,1,2.1,M,460,KG
+144,Articuno,Ice,Flying,Freeze Pokémon,Pressure,,Snow Cloak,1,1.7,M,55.4,KG
+145,Zapdos,Electric,Flying,Electric Pokémon,Pressure,,Static,1,1.6,M,52.6,KG
+146,Moltres,Fire,Flying,Flame Pokémon,Pressure,,Flame Body,1,2,M,60,KG
+147,Dratini,Dragon,,Dragon Pokémon,Shed Skin,,Marvel Scale,1,1.8,M,3.3,KG
+148,Dragonair,Dragon,,Dragon Pokémon,Shed Skin,,Marvel Scale,1,4,M,16.5,KG
+149,Dragonite,Dragon,Flying,Dragon Pokémon,Inner Focus,,Multiscale,1,2.2,M,210,KG
+150,Mewtwo,Psychic,,Genetic Pokémon,Pressure,,Unnerve,1,2,M,122,KG
+151,Mew,Psychic,,New Species Pokémon,Synchronize,,,1,0.4,M,4,KG
+152,Chikorita,Grass,,Leaf Pokémon,Overgrow,,Leaf Guard,2,0.9,M,6.4,KG
+153,Bayleef,Grass,,Leaf Pokémon,Overgrow,,Leaf Guard,2,1.2,M,15.8,KG
+154,Meganium,Grass,,Herb Pokémon,Overgrow,,Leaf Guard,2,1.8,M,100.5,KG
+155,Cyndaquil,Fire,,Fire Mouse Pokémon,Blaze,,Flash Fire,2,0.5,M,7.9,KG
+156,Quilava,Fire,,Volcano Pokémon,Blaze,,Flash Fire,2,0.9,M,19,KG
+157,Typhlosion,Fire,,Volcano Pokémon,Blaze,,Flash Fire,2,1.7,M,79.5,KG
+158,Totodile,Water,,Big Jaw Pokémon,Torrent,,Sheer Force,2,0.6,M,9.5,KG
+159,Croconaw,Water,,Big Jaw Pokémon,Torrent,,Sheer Force,2,1.1,M,25,KG
+160,Feraligatr,Water,,Big Jaw Pokémon,Torrent,,Sheer Force,2,2.3,M,88.8,KG
+161,Sentret,Normal,,Scout Pokémon,Run Away,Keen Eye,Frisk,2,0.8,M,6,KG
+162,Furret,Normal,,Long Body Pokémon,Run Away,Keen Eye,Frisk,2,1.8,M,32.5,KG
+163,Hoothoot,Normal,Flying,Owl Pokémon,Insomnia,Keen Eye,Tinted Lens,2,0.7,M,21.2,KG
+164,Noctowl,Normal,Flying,Owl Pokémon,Insomnia,Keen Eye,Tinted Lens,2,1.6,M,40.8,KG
+165,Ledyba,Bug,Flying,Five Star Pokémon,Swarm,Early Bird,Rattled,2,1,M,10.8,KG
+166,Ledian,Bug,Flying,Five Star Pokémon,Swarm,Early Bird,Iron Fist,2,1.4,M,35.6,KG
+167,Spinarak,Bug,Poison,String Spit Pokémon,Swarm,Insomnia,Sniper,2,0.5,M,8.5,KG
+168,Ariados,Bug,Poison,Long Leg Pokémon,Swarm,Insomnia,Sniper,2,1.1,M,33.5,KG
+169,Crobat,Poison,Flying,Bat Pokémon,Inner Focus,,Infiltrator,2,1.8,M,75,KG
+170,Chinchou,Water,Electric,Angler Pokémon,Volt Absorb,Illuminate,Water Absorb,2,0.5,M,12,KG
+171,Lanturn,Water,Electric,Light Pokémon,Volt Absorb,Illuminate,Water Absorb,2,1.2,M,22.5,KG
+172,Pichu,Electric,,Tiny Mouse Pokémon,Static,,Lightning Rod,2,0.3,M,2,KG
+173,Cleffa,Fairy,,Star Shape Pokémon,Cute Charm,Magic Bounce,Friend Guard,2,0.3,M,3,KG
+174,Igglybuff,Normal,Fairy,Balloon Pokémon,Cute Charm,Competitive,Friend Guard,2,0.3,M,1,KG
+175,Togepi,Fairy,,Spike Ball Pokémon,Hustle,Serene Grace,Super Luck,2,0.3,M,1.5,KG
+176,Togetic,Fairy,Flying,Happiness Pokémon,Hustle,Serene Grace,Super Luck,2,0.6,M,3.2,KG
+177,Natu,Psychic,Flying,Tiny Bird Pokémon,Synchronize,Early Bird,Magic Bounce,2,0.2,M,2,KG
+178,Xatu,Psychic,Flying,Mystic Pokémon,Synchronize,Early Bird,Magic Bounce,2,1.5,M,15,KG
+179,Mareep,Electric,,Wool Pokémon,Static,,Plus,2,0.6,M,7.8,KG
+180,Flaaffy,Electric,,Wool Pokémon,Static,,Plus,2,0.8,M,13.3,KG
+181,Ampharos,Electric,,Light Pokémon,Static,,Plus,2,1.4,M,61.5,KG
+182,Bellossom,Grass,,Flower Pokémon,Chlorophyll,,Healer,2,0.4,M,5.8,KG
+183,Marill,Water,Fairy,Aqua Mouse Pokémon,Thick Fat,Huge Power,Sap Sipper,2,0.4,M,8.5,KG
+184,Azumarill,Water,Fairy,Aqua Rabbit Pokémon,Thick Fat,Huge Power,Sap Sipper,2,0.8,M,28.5,KG
+185,Sudowoodo,Rock,,Imitation Pokémon,Sturdy,Rock Head,Rattled,2,1.2,M,38,KG
+186,Politoed,Water,,Frog Pokémon,Water Absorb,Damp,Drizzle,2,1.1,M,33.9,KG
+187,Hoppip,Grass,Flying,Cottonweed Pokémon,Chlorophyll,Leaf Guard,Infiltrator,2,0.4,M,0.5,KG
+188,Skiploom,Grass,Flying,Cottonweed Pokémon,Chlorophyll,Leaf Guard,Infiltrator,2,0.6,M,1,KG
+189,Jumpluff,Grass,Flying,Cottonweed Pokémon,Chlorophyll,Leaf Guard,Infiltrator,2,0.8,M,3,KG
+190,Aipom,Normal,,Long Tail Pokémon,Run Away,Pickup,Skill Link,2,0.8,M,11.5,KG
+191,Sunkern,Grass,,Seed Pokémon,Chlorophyll,Solar Power,Early Bird,2,0.3,M,1.8,KG
+192,Sunflora,Grass,,Sun Pokémon,Chlorophyll,Solar Power,Early Bird,2,0.8,M,8.5,KG
+193,Yanma,Bug,Flying,Clear Wing Pokémon,Speed Boost,Compound Eyes,Frisk,2,1.2,M,38,KG
+194,Wooper,Water,Ground,Water Fish Pokémon,Damp,Water Absorb,Unaware,2,0.4,M,8.5,KG
+195,Quagsire,Water,Ground,Water Fish Pokémon,Damp,Water Absorb,Unaware,2,1.4,M,75,KG
+196,Espeon,Psychic,,Sun Pokémon,Synchronize,,Magic Bounce,2,0.9,M,26.5,KG
+197,Umbreon,Dark,,Moonlight Pokémon,Synchronize,,Inner Focus,2,1,M,27,KG
+198,Murkrow,Dark,Flying,Darkness Pokémon,Insomnia,Super Luck,Prankster,2,0.5,M,2.1,KG
+199,Slowking,Water,Psychic,Royal Pokémon,Oblivious,Own Tempo,Regenerator,2,2,M,79.5,KG
+200,Misdreavus,Ghost,,Screech Pokémon,Levitate,,,2,0.7,M,1,KG
+201,Unown,Psychic,,Symbol Pokémon,Levitate,,,2,0.5,M,5,KG
+202,Wobbuffet,Psychic,,Patient Pokémon,Shadow Tag,,Telepathy,2,1.3,M,28.5,KG
+203,Girafarig,Normal,Psychic,Long Neck Pokémon,Inner Focus,Early Bird,Sap Sipper,2,1.5,M,41.5,KG
+204,Pineco,Bug,,Bagworm Pokémon,Sturdy,,Overcoat,2,0.6,M,7.2,KG
+205,Forretress,Bug,Steel,Bagworm Pokémon,Sturdy,,Overcoat,2,1.2,M,125.8,KG
+206,Dunsparce,Normal,,Land Snake Pokémon,Serene Grace,Run Away,Rattled,2,1.5,M,14,KG
+207,Gligar,Ground,Flying,Fly Scorpion Pokémon,Hyper Cutter,Sand Veil,Immunity,2,1.1,M,64.8,KG
+208,Steelix,Steel,Ground,Iron Snake Pokémon,Rock Head,Sturdy,Sheer Force,2,9.2,M,400,KG
+209,Snubbull,Fairy,,Fairy Pokémon,Intimidate,Run Away,Rattled,2,0.6,M,7.8,KG
+210,Granbull,Fairy,,Fairy Pokémon,Intimidate,Quick Feet,Rattled,2,1.4,M,48.7,KG
+211,Qwilfish,Water,Poison,Balloon Pokémon,Poison Point,Swift Swim,Intimidate,2,0.5,M,3.9,KG
+212,Scizor,Bug,Steel,Pincer Pokémon,Swarm,Technician,Light Metal,2,1.8,M,118,KG
+213,Shuckle,Bug,Rock,Mold Pokémon,Sturdy,Gluttony,Contrary,2,0.6,M,20.5,KG
+214,Heracross,Bug,Fighting,Single Horn Pokémon,Swarm,Guts,Moxie,2,1.5,M,54,KG
+215,Sneasel,Dark,Ice,Sharp Claw Pokémon,Inner Focus,Keen Eye,Pickpocket,2,0.9,M,28,KG
+216,Teddiursa,Normal,,Little Bear Pokémon,Pickup,Quick Feet,Honey Gather,2,0.6,M,8.8,KG
+217,Ursaring,Normal,,Hibernator Pokémon,Guts,Quick Feet,Unnerve,2,1.8,M,125.8,KG
+218,Slugma,Fire,,Lava Pokémon,Magma Armor,Flame Body,Weak Armor,2,0.7,M,35,KG
+219,Magcargo,Fire,Rock,Lava Pokémon,Magma Armor,Flame Body,Weak Armor,2,0.8,M,55,KG
+220,Swinub,Ice,Ground,Pig Pokémon,Oblivious,Snow Cloak,Thick Fat,2,0.4,M,6.5,KG
+221,Piloswine,Ice,Ground,Swine Pokémon,Oblivious,Snow Cloak,Thick Fat,2,1.1,M,55.8,KG
+222,Corsola,Water,Rock,Coral Pokémon,Hustle,Natural Cure,Regenerator,2,0.6,M,5,KG
+223,Remoraid,Water,,Jet Pokémon,Hustle,Sniper,Moody,2,0.6,M,12,KG
+224,Octillery,Water,,Jet Pokémon,Suction Cups,Sniper,Moody,2,0.9,M,28.5,KG
+225,Delibird,Ice,Flying,Delivery Pokémon,Vital Spirit,,Insomnia,2,0.9,M,16,KG
+226,Mantine,Water,Flying,Kite Pokémon,Swift Swim,Water Absorb,Water Veil,2,2.1,M,220,KG
+227,Skarmory,Steel,Flying,Armor Bird Pokémon,Keen Eye,Sturdy,Weak Armor,2,1.7,M,50.5,KG
+228,Houndour,Dark,Fire,Dark Pokémon,Early Bird,Flash Fire,Unnerve,2,0.6,M,10.8,KG
+229,Houndoom,Dark,Fire,Dark Pokémon,Early Bird,Flash Fire,Unnerve,2,1.4,M,35,KG
+230,Kingdra,Water,Dragon,Dragon Pokémon,Swift Swim,Sniper,Damp,2,1.8,M,152,KG
+231,Phanpy,Ground,,Long Nose Pokémon,Pickup,,Sand Veil,2,0.5,M,33.5,KG
+232,Donphan,Ground,,Armor Pokémon,Sturdy,,Sand Veil,2,1.1,M,120,KG
+233,Porygon2,Normal,,Virtual Pokémon,Trace,Download,Analytic,2,0.6,M,32.5,KG
+234,Stantler,Normal,,Big Horn Pokémon,Intimidate,Frisk,Sap Sipper,2,1.4,M,71.2,KG
+235,Smeargle,Normal,,Painter Pokémon,Own Tempo,Technician,Moody,2,1.2,M,58,KG
+236,Tyrogue,Fighting,,Scuffle Pokémon,Guts,Steadfast,Vital Spirit,2,0.7,M,21,KG
+237,Hitmontop,Fighting,,Handstand Pokémon,Intimidate,Technician,Steadfast,2,1.4,M,48,KG
+238,Smoochum,Ice,Psychic,Kiss Pokémon,Oblivious,Forewarn,Hydration,2,0.4,M,6,KG
+239,Elekid,Electric,,Electric Pokémon,Static,,Vital Spirit,2,0.6,M,23.5,KG
+240,Magby,Fire,,Live Coal Pokémon,Flame Body,,Vital Spirit,2,0.7,M,21.4,KG
+241,Miltank,Normal,,Milk Cow Pokémon,Thick Fat,Scrappy,Sap Sipper,2,1.2,M,75.5,KG
+242,Blissey,Normal,,Happiness Pokémon,Natural Cure,Serene Grace,Healer,2,1.5,M,46.8,KG
+243,Raikou,Electric,,Thunder Pokémon,Pressure,,Inner Focus,2,1.9,M,178,KG
+244,Entei,Fire,,Volcano Pokémon,Pressure,,Inner Focus,2,2.1,M,198,KG
+245,Suicune,Water,,Aurora Pokémon,Pressure,,Inner Focus,2,2,M,187,KG
+246,Larvitar,Rock,Ground,Rock Skin Pokémon,Guts,,Sand Veil,2,0.6,M,72,KG
+247,Pupitar,Rock,Ground,Hard Shell Pokémon,Shed Skin,,,2,1.2,M,152,KG
+248,Tyranitar,Rock,Dark,Armor Pokémon,Sand Stream,,Unnerve,2,2,M,202,KG
+249,Lugia,Psychic,Flying,Diving Pokémon,Pressure,,Multiscale,2,5.2,M,216,KG
+250,Ho-Oh,Fire,Flying,Rainbow Pokémon,Pressure,,Regenerator,2,3.8,M,199,KG
+251,Celebi,Psychic,Grass,Time Travel Pokémon,Natural Cure,,,2,0.6,M,5,KG
+252,Treecko,Grass,,Wood Gecko Pokémon,Overgrow,,Unburden,3,0.5,M,5,KG
+253,Grovyle,Grass,,Wood Gecko Pokémon,Overgrow,,Unburden,3,0.9,M,21.6,KG
+254,Sceptile,Grass,,Forest Pokémon,Overgrow,,Unburden,3,1.7,M,52.2,KG
+255,Torchic,Fire,,Chick Pokémon,Blaze,,Speed Boost,3,0.4,M,2.5,KG
+256,Combusken,Fire,Fighting,Young Fowl Pokémon,Blaze,,Speed Boost,3,0.9,M,19.5,KG
+257,Blaziken,Fire,Fighting,Blaze Pokémon,Blaze,,Speed Boost,3,1.9,M,52,KG
+258,Mudkip,Water,,Mud Fish Pokémon,Torrent,,Damp,3,0.4,M,7.6,KG
+259,Marshtomp,Water,Ground,Mud Fish Pokémon,Torrent,,Damp,3,0.7,M,28,KG
+260,Swampert,Water,Ground,Mud Fish Pokémon,Torrent,,Damp,3,1.5,M,81.9,KG
+261,Poochyena,Dark,,Bite Pokémon,Run Away,Quick Feet,Rattled,3,0.5,M,13.6,KG
+262,Mightyena,Dark,,Bite Pokémon,Intimidate,Quick Feet,Moxie,3,1,M,37,KG
+263,Zigzagoon,Normal,,Tiny Raccoon Pokémon,Pickup,Gluttony,Quick Feet,3,0.4,M,17.5,KG
+264,Linoone,Normal,,Rushing Pokémon,Pickup,Gluttony,Quick Feet,3,0.5,M,32.5,KG
+265,Wurmple,Bug,,Worm Pokémon,Shield Dust,,Run Away,3,0.3,M,3.6,KG
+266,Silcoon,Bug,,Cocoon Pokémon,Shed Skin,,,3,0.6,M,10,KG
+267,Beautifly,Bug,Flying,Butterfly Pokémon,Swarm,,Rivalry,3,1,M,28.4,KG
+268,Cascoon,Bug,,Cocoon Pokémon,Shed Skin,,,3,0.7,M,11.5,KG
+269,Dustox,Bug,Poison,Poison Moth Pokémon,Shield Dust,,Compound Eyes,3,1.2,M,31.6,KG
+270,Lotad,Water,Grass,Water Weed Pokémon,Swift Swim,Rain Dish,Own Tempo,3,0.5,M,2.6,KG
+271,Lombre,Water,Grass,Jolly Pokémon,Swift Swim,Rain Dish,Own Tempo,3,1.2,M,32.5,KG
+272,Ludicolo,Water,Grass,Carefree Pokémon,Swift Swim,Rain Dish,Own Tempo,3,1.5,M,55,KG
+273,Seedot,Grass,,Acorn Pokémon,Chlorophyll,Early Bird,Pickpocket,3,0.5,M,4,KG
+274,Nuzleaf,Grass,Dark,Wily Pokémon,Chlorophyll,Early Bird,Pickpocket,3,1,M,28,KG
+275,Shiftry,Grass,Dark,Wicked Pokémon,Chlorophyll,Wind Rider,Pickpocket,3,1.3,M,59.6,KG
+276,Taillow,Normal,Flying,Tiny Swallow Pokémon,Guts,,Scrappy,3,0.3,M,2.3,KG
+277,Swellow,Normal,Flying,Swallow Pokémon,Guts,,Scrappy,3,0.7,M,19.8,KG
+278,Wingull,Water,Flying,Seagull Pokémon,Keen Eye,Hydration,Rain Dish,3,0.6,M,9.5,KG
+279,Pelipper,Water,Flying,Water Bird Pokémon,Keen Eye,Drizzle,Rain Dish,3,1.2,M,28,KG
+280,Ralts,Psychic,Fairy,Feeling Pokémon,Synchronize,Trace,Telepathy,3,0.4,M,6.6,KG
+281,Kirlia,Psychic,Fairy,Emotion Pokémon,Synchronize,Trace,Telepathy,3,0.8,M,20.2,KG
+282,Gardevoir,Psychic,Fairy,Embrace Pokémon,Synchronize,Trace,Telepathy,3,1.6,M,48.4,KG
+283,Surskit,Bug,Water,Pond Skater Pokémon,Swift Swim,,Rain Dish,3,0.5,M,1.7,KG
+284,Masquerain,Bug,Flying,Eyeball Pokémon,Intimidate,,Unnerve,3,0.8,M,3.6,KG
+285,Shroomish,Grass,,Mushroom Pokémon,Effect Spore,Poison Heal,Quick Feet,3,0.4,M,4.5,KG
+286,Breloom,Grass,Fighting,Mushroom Pokémon,Effect Spore,Poison Heal,Technician,3,1.2,M,39.2,KG
+287,Slakoth,Normal,,Slacker Pokémon,Truant,,,3,0.8,M,24,KG
+288,Vigoroth,Normal,,Wild Monkey Pokémon,Vital Spirit,,,3,1.4,M,46.5,KG
+289,Slaking,Normal,,Lazy Pokémon,Truant,,,3,2,M,130.5,KG
+290,Nincada,Bug,Ground,Trainee Pokémon,Compound Eyes,,Run Away,3,0.5,M,5.5,KG
+291,Ninjask,Bug,Flying,Ninja Pokémon,Speed Boost,,Infiltrator,3,0.8,M,12,KG
+292,Shedinja,Bug,Ghost,Shed Pokémon,Wonder Guard,,,3,0.8,M,1.2,KG
+293,Whismur,Normal,,Whisper Pokémon,Soundproof,,Rattled,3,0.6,M,16.3,KG
+294,Loudred,Normal,,Big Voice Pokémon,Soundproof,,Scrappy,3,1,M,40.5,KG
+295,Exploud,Normal,,Loud Noise Pokémon,Soundproof,,Scrappy,3,1.5,M,84,KG
+296,Makuhita,Fighting,,Guts Pokémon,Thick Fat,Guts,Sheer Force,3,1,M,86.4,KG
+297,Hariyama,Fighting,,Arm Thrust Pokémon,Thick Fat,Guts,Sheer Force,3,2.3,M,253.8,KG
+298,Azurill,Normal,Fairy,Polka Dot Pokémon,Thick Fat,Huge Power,Sap Sipper,3,0.2,M,2,KG
+299,Nosepass,Rock,,Compass Pokémon,Sturdy,Magnet Pull,Sand Force,3,1,M,97,KG
+300,Skitty,Normal,,Kitten Pokémon,Cute Charm,Normalize,Wonder Skin,3,0.6,M,11,KG
+301,Delcatty,Normal,,Prim Pokémon,Cute Charm,Normalize,Wonder Skin,3,1.1,M,32.6,KG
+302,Sableye,Dark,Ghost,Darkness Pokémon,Keen Eye,Stall,Prankster,3,0.5,M,11,KG
+303,Mawile,Steel,Fairy,Deceiver Pokémon,Hyper Cutter,Intimidate,Sheer Force,3,0.6,M,11.5,KG
+304,Aron,Steel,Rock,Iron Armor Pokémon,Sturdy,Rock Head,Heavy Metal,3,0.4,M,60,KG
+305,Lairon,Steel,Rock,Iron Armor Pokémon,Sturdy,Rock Head,Heavy Metal,3,0.9,M,120,KG
+306,Aggron,Steel,Rock,Iron Armor Pokémon,Sturdy,Rock Head,Heavy Metal,3,2.1,M,360,KG
+307,Meditite,Fighting,Psychic,Meditate Pokémon,Pure Power,,Telepathy,3,0.6,M,11.2,KG
+308,Medicham,Fighting,Psychic,Meditate Pokémon,Pure Power,,Telepathy,3,1.3,M,31.5,KG
+309,Electrike,Electric,,Lightning Pokémon,Static,Lightning Rod,Minus,3,0.6,M,15.2,KG
+310,Manectric,Electric,,Discharge Pokémon,Static,Lightning Rod,Minus,3,1.5,M,40.2,KG
+311,Plusle,Electric,,Cheering Pokémon,Plus,,Lightning Rod,3,0.4,M,4.2,KG
+312,Minun,Electric,,Cheering Pokémon,Minus,,Volt Absorb,3,0.4,M,4.2,KG
+313,Volbeat,Bug,,Firefly Pokémon,Illuminate,Swarm,Prankster,3,0.7,M,17.7,KG
+314,Illumise,Bug,,Firefly Pokémon,Oblivious,Tinted Lens,Prankster,3,0.6,M,17.7,KG
+315,Roselia,Grass,Poison,Thorn Pokémon,Natural Cure,Poison Point,Leaf Guard,3,0.3,M,2,KG
+316,Gulpin,Poison,,Stomach Pokémon,Liquid Ooze,Sticky Hold,Gluttony,3,0.4,M,10.3,KG
+317,Swalot,Poison,,Poison Bag Pokémon,Liquid Ooze,Sticky Hold,Gluttony,3,1.7,M,80,KG
+318,Carvanha,Water,Dark,Savage Pokémon,Rough Skin,,Speed Boost,3,0.8,M,20.8,KG
+319,Sharpedo,Water,Dark,Brutal Pokémon,Rough Skin,,Speed Boost,3,1.8,M,88.8,KG
+320,Wailmer,Water,,Ball Whale Pokémon,Water Veil,Oblivious,Pressure,3,2,M,130,KG
+321,Wailord,Water,,Float Whale Pokémon,Water Veil,Oblivious,Pressure,3,14.5,M,398,KG
+322,Numel,Fire,Ground,Numb Pokémon,Oblivious,Simple,Own Tempo,3,0.7,M,24,KG
+323,Camerupt,Fire,Ground,Eruption Pokémon,Magma Armor,Solid Rock,Anger Point,3,1.9,M,220,KG
+324,Torkoal,Fire,,Coal Pokémon,White Smoke,Drought,Shell Armor,3,0.5,M,80.4,KG
+325,Spoink,Psychic,,Bounce Pokémon,Thick Fat,Own Tempo,Gluttony,3,0.7,M,30.6,KG
+326,Grumpig,Psychic,,Manipulate Pokémon,Thick Fat,Own Tempo,Gluttony,3,0.9,M,71.5,KG
+327,Spinda,Normal,,Spot Panda Pokémon,Own Tempo,Tangled Feet,Contrary,3,1.1,M,5,KG
+328,Trapinch,Ground,,Ant Pit Pokémon,Hyper Cutter,Arena Trap,Sheer Force,3,0.7,M,15,KG
+329,Vibrava,Ground,Dragon,Vibration Pokémon,Levitate,,,3,1.1,M,15.3,KG
+330,Flygon,Ground,Dragon,Mystic Pokémon,Levitate,,,3,2,M,82,KG
+331,Cacnea,Grass,,Cactus Pokémon,Sand Veil,,Water Absorb,3,0.4,M,51.3,KG
+332,Cacturne,Grass,Dark,Scarecrow Pokémon,Sand Veil,,Water Absorb,3,1.3,M,77.4,KG
+333,Swablu,Normal,Flying,Cotton Bird Pokémon,Natural Cure,,Cloud Nine,3,0.4,M,1.2,KG
+334,Altaria,Dragon,Flying,Humming Pokémon,Natural Cure,,Cloud Nine,3,1.1,M,20.6,KG
+335,Zangoose,Normal,,Cat Ferret Pokémon,Immunity,,Toxic Boost,3,1.3,M,40.3,KG
+336,Seviper,Poison,,Fang Snake Pokémon,Shed Skin,,Infiltrator,3,2.7,M,52.5,KG
+337,Lunatone,Rock,Psychic,Meteorite Pokémon,Levitate,,,3,1,M,168,KG
+338,Solrock,Rock,Psychic,Meteorite Pokémon,Levitate,,,3,1.2,M,154,KG
+339,Barboach,Water,Ground,Whiskers Pokémon,Oblivious,Anticipation,Hydration,3,0.4,M,1.9,KG
+340,Whiscash,Water,Ground,Whiskers Pokémon,Oblivious,Anticipation,Hydration,3,0.9,M,23.6,KG
+341,Corphish,Water,,Ruffian Pokémon,Hyper Cutter,Shell Armor,Adaptability,3,0.6,M,11.5,KG
+342,Crawdaunt,Water,Dark,Rogue Pokémon,Hyper Cutter,Shell Armor,Adaptability,3,1.1,M,32.8,KG
+343,Baltoy,Ground,Psychic,Clay Doll Pokémon,Levitate,,,3,0.5,M,21.5,KG
+344,Claydol,Ground,Psychic,Clay Doll Pokémon,Levitate,,,3,1.5,M,107.9,KG
+345,Lileep,Rock,Grass,Sea Lily Pokémon,Suction Cups,,Storm Drain,3,1,M,23.8,KG
+346,Cradily,Rock,Grass,Barnacle Pokémon,Suction Cups,,Storm Drain,3,1.5,M,60.4,KG
+347,Anorith,Rock,Bug,Old Shrimp Pokémon,Battle Armor,,Swift Swim,3,0.7,M,12.5,KG
+348,Armaldo,Rock,Bug,Plate Pokémon,Battle Armor,,Swift Swim,3,1.5,M,68.2,KG
+349,Feebas,Water,,Fish Pokémon,Swift Swim,Oblivious,Adaptability,3,0.6,M,7.4,KG
+350,Milotic,Water,,Tender Pokémon,Marvel Scale,Competitive,Cute Charm,3,6.2,M,162,KG
+351,Castform,Normal,,Weather Pokémon,Forecast,,,3,0.3,M,0.8,KG
+352,Kecleon,Normal,,Color Swap Pokémon,Color Change,,Protean,3,1,M,22,KG
+353,Shuppet,Ghost,,Puppet Pokémon,Insomnia,Frisk,Cursed Body,3,0.6,M,2.3,KG
+354,Banette,Ghost,,Marionette Pokémon,Insomnia,Frisk,Cursed Body,3,1.1,M,12.5,KG
+355,Duskull,Ghost,,Requiem Pokémon,Levitate,,Frisk,3,0.8,M,15,KG
+356,Dusclops,Ghost,,Beckon Pokémon,Pressure,,Frisk,3,1.6,M,30.6,KG
+357,Tropius,Grass,Flying,Fruit Pokémon,Chlorophyll,Solar Power,Harvest,3,2,M,100,KG
+358,Chimecho,Psychic,,Wind Chime Pokémon,Levitate,,,3,0.6,M,1,KG
+359,Absol,Dark,,Disaster Pokémon,Pressure,Super Luck,Justified,3,1.2,M,47,KG
+360,Wynaut,Psychic,,Bright Pokémon,Shadow Tag,,Telepathy,3,0.6,M,14,KG
+361,Snorunt,Ice,,Snow Hat Pokémon,Inner Focus,Ice Body,Moody,3,0.7,M,16.8,KG
+362,Glalie,Ice,,Face Pokémon,Inner Focus,Ice Body,Moody,3,1.5,M,256.5,KG
+363,Spheal,Ice,Water,Clap Pokémon,Thick Fat,Ice Body,Oblivious,3,0.8,M,39.5,KG
+364,Sealeo,Ice,Water,Ball Roll Pokémon,Thick Fat,Ice Body,Oblivious,3,1.1,M,87.6,KG
+365,Walrein,Ice,Water,Ice Break Pokémon,Thick Fat,Ice Body,Oblivious,3,1.4,M,150.6,KG
+366,Clamperl,Water,,Bivalve Pokémon,Shell Armor,,Rattled,3,0.4,M,52.5,KG
+367,Huntail,Water,,Deep Sea Pokémon,Swift Swim,,Water Veil,3,1.7,M,27,KG
+368,Gorebyss,Water,,South Sea Pokémon,Swift Swim,,Hydration,3,1.8,M,22.6,KG
+369,Relicanth,Water,Rock,Longevity Pokémon,Swift Swim,Rock Head,Sturdy,3,1,M,23.4,KG
+370,Luvdisc,Water,,Rendezvous Pokémon,Swift Swim,,Hydration,3,0.6,M,8.7,KG
+371,Bagon,Dragon,,Rock Head Pokémon,Rock Head,,Sheer Force,3,0.6,M,42.1,KG
+372,Shelgon,Dragon,,Endurance Pokémon,Rock Head,,Overcoat,3,1.1,M,110.5,KG
+373,Salamence,Dragon,Flying,Dragon Pokémon,Intimidate,,Moxie,3,1.5,M,102.6,KG
+374,Beldum,Steel,Psychic,Iron Ball Pokémon,Clear Body,,Light Metal,3,0.6,M,95.2,KG
+375,Metang,Steel,Psychic,Iron Claw Pokémon,Clear Body,,Light Metal,3,1.2,M,202.5,KG
+376,Metagross,Steel,Psychic,Iron Leg Pokémon,Clear Body,,Light Metal,3,1.6,M,550,KG
+377,Regirock,Rock,,Rock Peak Pokémon,Clear Body,,Sturdy,3,1.7,M,230,KG
+378,Regice,Ice,,Iceberg Pokémon,Clear Body,,Ice Body,3,1.8,M,175,KG
+379,Registeel,Steel,,Iron Pokémon,Clear Body,,Light Metal,3,1.9,M,205,KG
+380,Latias,Dragon,Psychic,Eon Pokémon,Levitate,,,3,1.4,M,40,KG
+381,Latios,Dragon,Psychic,Eon Pokémon,Levitate,,,3,2,M,60,KG
+382,Kyogre,Water,,Sea Basin Pokémon,Drizzle,,,3,4.5,M,352,KG
+383,Groudon,Ground,,Continent Pokémon,Drought,,,3,3.5,M,950,KG
+384,Rayquaza,Dragon,Flying,Sky High Pokémon,Air Lock,,,3,7,M,206.5,KG
+385,Jirachi,Steel,Psychic,Wish Pokémon,Serene Grace,,,3,0.3,M,1.1,KG
+386,Deoxys,Psychic,,DNA Pokémon,Pressure,,,3,1.7,M,60.8,KG
+387,Turtwig,Grass,,Tiny Leaf Pokémon,Overgrow,,Shell Armor,4,0.4,M,10.2,KG
+388,Grotle,Grass,,Grove Pokémon,Overgrow,,Shell Armor,4,1.1,M,97,KG
+389,Torterra,Grass,Ground,Continent Pokémon,Overgrow,,Shell Armor,4,2.2,M,310,KG
+390,Chimchar,Fire,,Chimp Pokémon,Blaze,,Iron Fist,4,0.5,M,6.2,KG
+391,Monferno,Fire,Fighting,Playful Pokémon,Blaze,,Iron Fist,4,0.9,M,22,KG
+392,Infernape,Fire,Fighting,Flame Pokémon,Blaze,,Iron Fist,4,1.2,M,55,KG
+393,Piplup,Water,,Penguin Pokémon,Torrent,,Competitive,4,0.4,M,5.2,KG
+394,Prinplup,Water,,Penguin Pokémon,Torrent,,Competitive,4,0.8,M,23,KG
+395,Empoleon,Water,Steel,Emperor Pokémon,Torrent,,Competitive,4,1.7,M,84.5,KG
+396,Starly,Normal,Flying,Starling Pokémon,Keen Eye,,Reckless,4,0.3,M,2,KG
+397,Staravia,Normal,Flying,Starling Pokémon,Intimidate,,Reckless,4,0.6,M,15.5,KG
+398,Staraptor,Normal,Flying,Predator Pokémon,Intimidate,,Reckless,4,1.2,M,24.9,KG
+399,Bidoof,Normal,,Plump Mouse Pokémon,Simple,Unaware,Moody,4,0.5,M,20,KG
+400,Bibarel,Normal,Water,Beaver Pokémon,Simple,Unaware,Moody,4,1,M,31.5,KG
+401,Kricketot,Bug,,Cricket Pokémon,Shed Skin,,Run Away,4,0.3,M,2.2,KG
+402,Kricketune,Bug,,Cricket Pokémon,Swarm,,Technician,4,1,M,25.5,KG
+403,Shinx,Electric,,Flash Pokémon,Rivalry,Intimidate,Guts,4,0.5,M,9.5,KG
+404,Luxio,Electric,,Spark Pokémon,Rivalry,Intimidate,Guts,4,0.9,M,30.5,KG
+405,Luxray,Electric,,Gleam Eyes Pokémon,Rivalry,Intimidate,Guts,4,1.4,M,42,KG
+406,Budew,Grass,Poison,Bud Pokémon,Natural Cure,Poison Point,Leaf Guard,4,0.2,M,1.2,KG
+407,Roserade,Grass,Poison,Bouquet Pokémon,Natural Cure,Poison Point,Technician,4,0.9,M,14.5,KG
+408,Cranidos,Rock,,Head Butt Pokémon,Mold Breaker,,Sheer Force,4,0.9,M,31.5,KG
+409,Rampardos,Rock,,Head Butt Pokémon,Mold Breaker,,Sheer Force,4,1.6,M,102.5,KG
+410,Shieldon,Rock,Steel,Shield Pokémon,Sturdy,,Soundproof,4,0.5,M,57,KG
+411,Bastiodon,Rock,Steel,Shield Pokémon,Sturdy,,Soundproof,4,1.3,M,149.5,KG
+412,Burmy,Bug,,Bagworm Pokémon,Shed Skin,,Overcoat,4,0.2,M,3.4,KG
+413,Wormadam,Bug,Grass,Bagworm Pokémon,Anticipation,,Overcoat,4,0.5,M,6.5,KG
+414,Mothim,Bug,Flying,Moth Pokémon,Swarm,,Tinted Lens,4,0.9,M,23.3,KG
+415,Combee,Bug,Flying,Tiny Bee Pokémon,Honey Gather,,Hustle,4,0.3,M,5.5,KG
+416,Vespiquen,Bug,Flying,Beehive Pokémon,Pressure,,Unnerve,4,1.2,M,38.5,KG
+417,Pachirisu,Electric,,EleSquirrel Pokémon,Run Away,Pickup,Volt Absorb,4,0.4,M,3.9,KG
+418,Buizel,Water,,Sea Weasel Pokémon,Swift Swim,,Water Veil,4,0.7,M,29.5,KG
+419,Floatzel,Water,,Sea Weasel Pokémon,Swift Swim,,Water Veil,4,1.1,M,33.5,KG
+420,Cherubi,Grass,,Cherry Pokémon,Chlorophyll,,,4,0.4,M,3.3,KG
+421,Cherrim,Grass,,Blossom Pokémon,Flower Gift,,,4,0.5,M,9.3,KG
+422,Shellos,Water,,Sea Slug Pokémon,Sticky Hold,Storm Drain,Sand Force,4,0.3,M,6.3,KG
+423,Gastrodon,Water,Ground,Sea Slug Pokémon,Sticky Hold,Storm Drain,Sand Force,4,0.9,M,29.9,KG
+424,Ambipom,Normal,,Long Tail Pokémon,Technician,Pickup,Skill Link,4,1.2,M,20.3,KG
+425,Drifloon,Ghost,Flying,Balloon Pokémon,Aftermath,Unburden,Flare Boost,4,0.4,M,1.2,KG
+426,Drifblim,Ghost,Flying,Blimp Pokémon,Aftermath,Unburden,Flare Boost,4,1.2,M,15,KG
+427,Buneary,Normal,,Rabbit Pokémon,Run Away,Klutz,Limber,4,0.4,M,5.5,KG
+428,Lopunny,Normal,,Rabbit Pokémon,Cute Charm,Klutz,Limber,4,1.2,M,33.3,KG
+429,Mismagius,Ghost,,Magical Pokémon,Levitate,,,4,0.9,M,4.4,KG
+430,Honchkrow,Dark,Flying,Big Boss Pokémon,Insomnia,Super Luck,Moxie,4,0.9,M,27.3,KG
+431,Glameow,Normal,,Catty Pokémon,Limber,Own Tempo,Keen Eye,4,0.5,M,3.9,KG
+432,Purugly,Normal,,Tiger Cat Pokémon,Thick Fat,Own Tempo,Defiant,4,1,M,43.8,KG
+433,Chingling,Psychic,,Bell Pokémon,Levitate,,,4,0.2,M,0.6,KG
+434,Stunky,Poison,Dark,Skunk Pokémon,Stench,Aftermath,Keen Eye,4,0.4,M,19.2,KG
+435,Skuntank,Poison,Dark,Skunk Pokémon,Stench,Aftermath,Keen Eye,4,1,M,38,KG
+436,Bronzor,Steel,Psychic,Bronze Pokémon,Levitate,Heatproof,Heavy Metal,4,0.5,M,60.5,KG
+437,Bronzong,Steel,Psychic,Bronze Bell Pokémon,Levitate,Heatproof,Heavy Metal,4,1.3,M,187,KG
+438,Bonsly,Rock,,Bonsai Pokémon,Sturdy,Rock Head,Rattled,4,0.5,M,15,KG
+439,Mime Jr.,Psychic,Fairy,Mime Pokémon,Soundproof,Filter,Technician,4,0.6,M,13,KG
+440,Happiny,Normal,,Playhouse Pokémon,Natural Cure,Serene Grace,Friend Guard,4,0.6,M,24.4,KG
+441,Chatot,Normal,Flying,Music Note Pokémon,Keen Eye,Tangled Feet,Big Pecks,4,0.5,M,1.9,KG
+442,Spiritomb,Ghost,Dark,Forbidden Pokémon,Pressure,,Infiltrator,4,1,M,108,KG
+443,Gible,Dragon,Ground,Land Shark Pokémon,Sand Veil,,Rough Skin,4,0.7,M,20.5,KG
+444,Gabite,Dragon,Ground,Cave Pokémon,Sand Veil,,Rough Skin,4,1.4,M,56,KG
+445,Garchomp,Dragon,Ground,Mach Pokémon,Sand Veil,,Rough Skin,4,1.9,M,95,KG
+446,Munchlax,Normal,,Big Eater Pokémon,Pickup,Thick Fat,Gluttony,4,0.6,M,105,KG
+447,Riolu,Fighting,,Emanation Pokémon,Steadfast,Inner Focus,Prankster,4,0.7,M,20.2,KG
+448,Lucario,Fighting,Steel,Aura Pokémon,Steadfast,Inner Focus,Justified,4,1.2,M,54,KG
+449,Hippopotas,Ground,,Hippo Pokémon,Sand Stream,,Sand Force,4,0.8,M,49.5,KG
+450,Hippowdon,Ground,,Heavyweight Pokémon,Sand Stream,,Sand Force,4,2,M,300,KG
+451,Skorupi,Poison,Bug,Scorpion Pokémon,Battle Armor,Sniper,Keen Eye,4,0.8,M,12,KG
+452,Drapion,Poison,Dark,Ogre Scorpion Pokémon,Battle Armor,Sniper,Keen Eye,4,1.3,M,61.5,KG
+453,Croagunk,Poison,Fighting,Toxic Mouth Pokémon,Anticipation,Dry Skin,Poison Touch,4,0.7,M,23,KG
+454,Toxicroak,Poison,Fighting,Toxic Mouth Pokémon,Anticipation,Dry Skin,Poison Touch,4,1.3,M,44.4,KG
+455,Carnivine,Grass,,Bug Catcher Pokémon,Levitate,,,4,1.4,M,27,KG
+456,Finneon,Water,,Wing Fish Pokémon,Swift Swim,Storm Drain,Water Veil,4,0.4,M,7,KG
+457,Lumineon,Water,,Neon Pokémon,Swift Swim,Storm Drain,Water Veil,4,1.2,M,24,KG
+458,Mantyke,Water,Flying,Kite Pokémon,Swift Swim,Water Absorb,Water Veil,4,1,M,65,KG
+459,Snover,Grass,Ice,Frost Tree Pokémon,Snow Warning,,Soundproof,4,1,M,50.5,KG
+460,Abomasnow,Grass,Ice,Frost Tree Pokémon,Snow Warning,,Soundproof,4,2.2,M,135.5,KG
+461,Weavile,Dark,Ice,Sharp Claw Pokémon,Pressure,,Pickpocket,4,1.1,M,34,KG
+462,Magnezone,Electric,Steel,Magnet Area Pokémon,Magnet Pull,Sturdy,Analytic,4,1.2,M,180,KG
+463,Lickilicky,Normal,,Licking Pokémon,Own Tempo,Oblivious,Cloud Nine,4,1.7,M,140,KG
+464,Rhyperior,Ground,Rock,Drill Pokémon,Lightning Rod,Solid Rock,Reckless,4,2.4,M,282.8,KG
+465,Tangrowth,Grass,,Vine Pokémon,Chlorophyll,Leaf Guard,Regenerator,4,2,M,128.6,KG
+466,Electivire,Electric,,Thunderbolt Pokémon,Motor Drive,,Vital Spirit,4,1.8,M,138.6,KG
+467,Magmortar,Fire,,Blast Pokémon,Flame Body,,Vital Spirit,4,1.6,M,68,KG
+468,Togekiss,Fairy,Flying,Jubilee Pokémon,Hustle,Serene Grace,Super Luck,4,1.5,M,38,KG
+469,Yanmega,Bug,Flying,Ogre Darner Pokémon,Speed Boost,Tinted Lens,Frisk,4,1.9,M,51.5,KG
+470,Leafeon,Grass,,Verdant Pokémon,Leaf Guard,,Chlorophyll,4,1,M,25.5,KG
+471,Glaceon,Ice,,Fresh Snow Pokémon,Snow Cloak,,Ice Body,4,0.8,M,25.9,KG
+472,Gliscor,Ground,Flying,Fang Scorpion Pokémon,Hyper Cutter,Sand Veil,Poison Heal,4,2,M,42.5,KG
+473,Mamoswine,Ice,Ground,Twin Tusk Pokémon,Oblivious,Snow Cloak,Thick Fat,4,2.5,M,291,KG
+474,Porygon-Z,Normal,,Virtual Pokémon,Adaptability,Download,Analytic,4,0.9,M,34,KG
+475,Gallade,Psychic,Fighting,Blade Pokémon,Steadfast,Sharpness,Justified,4,1.6,M,52,KG
+476,Probopass,Rock,Steel,Compass Pokémon,Sturdy,Magnet Pull,Sand Force,4,1.4,M,340,KG
+477,Dusknoir,Ghost,,Gripper Pokémon,Pressure,,Frisk,4,2.2,M,106.6,KG
+478,Froslass,Ice,Ghost,Snow Land Pokémon,Snow Cloak,,Cursed Body,4,1.3,M,26.6,KG
+479,Rotom,Electric,Ghost,Plasma Pokémon,Levitate,,,4,0.3,M,0.3,KG
+480,Uxie,Psychic,,Knowledge Pokémon,Levitate,,,4,0.3,M,0.3,KG
+481,Mesprit,Psychic,,Emotion Pokémon,Levitate,,,4,0.3,M,0.3,KG
+482,Azelf,Psychic,,Willpower Pokémon,Levitate,,,4,0.3,M,0.3,KG
+483,Dialga,Steel,Dragon,Temporal Pokémon,Pressure,,Telepathy,4,5.4,M,683,KG
+484,Palkia,Water,Dragon,Spatial Pokémon,Pressure,,Telepathy,4,4.2,M,336,KG
+485,Heatran,Fire,Steel,Lava Dome Pokémon,Flash Fire,,Flame Body,4,1.7,M,430,KG
+486,Regigigas,Normal,,Colossal Pokémon,Slow Start,,,4,3.7,M,420,KG
+487,Giratina,Ghost,Dragon,Renegade Pokémon,Pressure,,Telepathy,4,4.5,M,750,KG
+488,Cresselia,Psychic,,Lunar Pokémon,Levitate,,,4,1.5,M,85.6,KG
+489,Phione,Water,,Sea Drifter Pokémon,Hydration,,,4,0.4,M,3.1,KG
+490,Manaphy,Water,,Seafaring Pokémon,Hydration,,,4,0.3,M,1.4,KG
+491,Darkrai,Dark,,Pitch-Black Pokémon,Bad Dreams,,,4,1.5,M,50.5,KG
+492,Shaymin,Grass,,Gratitude Pokémon,Natural Cure,,,4,0.2,M,2.1,KG
+493,Arceus,Normal,,Alpha Pokémon,Multitype,,,4,3.2,M,320,KG
+494,Victini,Psychic,Fire,Victory Pokémon,Victory Star,,,5,0.4,M,4,KG
+495,Snivy,Grass,,Grass Snake Pokémon,Overgrow,,Contrary,5,0.6,M,8.1,KG
+496,Servine,Grass,,Grass Snake Pokémon,Overgrow,,Contrary,5,0.8,M,16,KG
+497,Serperior,Grass,,Regal Pokémon,Overgrow,,Contrary,5,3.3,M,63,KG
+498,Tepig,Fire,,Fire Pig Pokémon,Blaze,,Thick Fat,5,0.5,M,9.9,KG
+499,Pignite,Fire,Fighting,Fire Pig Pokémon,Blaze,,Thick Fat,5,1,M,55.5,KG
+500,Emboar,Fire,Fighting,Mega Fire Pig Pokémon,Blaze,,Reckless,5,1.6,M,150,KG
+501,Oshawott,Water,,Sea Otter Pokémon,Torrent,,Shell Armor,5,0.5,M,5.9,KG
+502,Dewott,Water,,Discipline Pokémon,Torrent,,Shell Armor,5,0.8,M,24.5,KG
+503,Samurott,Water,,Formidable Pokémon,Torrent,,Shell Armor,5,1.5,M,94.6,KG
+504,Patrat,Normal,,Scout Pokémon,Run Away,Keen Eye,Analytic,5,0.5,M,11.6,KG
+505,Watchog,Normal,,Lookout Pokémon,Illuminate,Keen Eye,Analytic,5,1.1,M,27,KG
+506,Lillipup,Normal,,Puppy Pokémon,Vital Spirit,Pickup,Run Away,5,0.4,M,4.1,KG
+507,Herdier,Normal,,Loyal Dog Pokémon,Intimidate,Sand Rush,Scrappy,5,0.9,M,14.7,KG
+508,Stoutland,Normal,,Big-Hearted Pokémon,Intimidate,Sand Rush,Scrappy,5,1.2,M,61,KG
+509,Purrloin,Dark,,Devious Pokémon,Limber,Unburden,Prankster,5,0.4,M,10.1,KG
+510,Liepard,Dark,,Cruel Pokémon,Limber,Unburden,Prankster,5,1.1,M,37.5,KG
+511,Pansage,Grass,,Grass Monkey Pokémon,Gluttony,,Overgrow,5,0.6,M,10.5,KG
+512,Simisage,Grass,,Thorn Monkey Pokémon,Gluttony,,Overgrow,5,1.1,M,30.5,KG
+513,Pansear,Fire,,High Temp Pokémon,Gluttony,,Blaze,5,0.6,M,11,KG
+514,Simisear,Fire,,Ember Pokémon,Gluttony,,Blaze,5,1,M,28,KG
+515,Panpour,Water,,Spray Pokémon,Gluttony,,Torrent,5,0.6,M,13.5,KG
+516,Simipour,Water,,Geyser Pokémon,Gluttony,,Torrent,5,1,M,29,KG
+517,Munna,Psychic,,Dream Eater Pokémon,Forewarn,Synchronize,Telepathy,5,0.6,M,23.3,KG
+518,Musharna,Psychic,,Drowsing Pokémon,Forewarn,Synchronize,Telepathy,5,1.1,M,60.5,KG
+519,Pidove,Normal,Flying,Tiny Pigeon Pokémon,Big Pecks,Super Luck,Rivalry,5,0.3,M,2.1,KG
+520,Tranquill,Normal,Flying,Wild Pigeon Pokémon,Big Pecks,Super Luck,Rivalry,5,0.6,M,15,KG
+521,Unfezant,Normal,Flying,Proud Pokémon,Big Pecks,Super Luck,Rivalry,5,1.2,M,29,KG
+522,Blitzle,Electric,,Electrified Pokémon,Lightning Rod,Motor Drive,Sap Sipper,5,0.8,M,29.8,KG
+523,Zebstrika,Electric,,Thunderbolt Pokémon,Lightning Rod,Motor Drive,Sap Sipper,5,1.6,M,79.5,KG
+524,Roggenrola,Rock,,Mantle Pokémon,Sturdy,Weak Armor,Sand Force,5,0.4,M,18,KG
+525,Boldore,Rock,,Ore Pokémon,Sturdy,Weak Armor,Sand Force,5,0.9,M,102,KG
+526,Gigalith,Rock,,Compressed Pokémon,Sturdy,Sand Stream,Sand Force,5,1.7,M,260,KG
+527,Woobat,Psychic,Flying,Bat Pokémon,Unaware,Klutz,Simple,5,0.4,M,2.1,KG
+528,Swoobat,Psychic,Flying,Courting Pokémon,Unaware,Klutz,Simple,5,0.9,M,10.5,KG
+529,Drilbur,Ground,,Mole Pokémon,Sand Rush,Sand Force,Mold Breaker,5,0.3,M,8.5,KG
+530,Excadrill,Ground,Steel,Subterrene Pokémon,Sand Rush,Sand Force,Mold Breaker,5,0.7,M,40.4,KG
+531,Audino,Normal,,Hearing Pokémon,Healer,Regenerator,Klutz,5,1.1,M,31,KG
+532,Timburr,Fighting,,Muscular Pokémon,Guts,Sheer Force,Iron Fist,5,0.6,M,12.5,KG
+533,Gurdurr,Fighting,,Muscular Pokémon,Guts,Sheer Force,Iron Fist,5,1.2,M,40,KG
+534,Conkeldurr,Fighting,,Muscular Pokémon,Guts,Sheer Force,Iron Fist,5,1.4,M,87,KG
+535,Tympole,Water,,Tadpole Pokémon,Swift Swim,Hydration,Water Absorb,5,0.5,M,4.5,KG
+536,Palpitoad,Water,Ground,Vibration Pokémon,Swift Swim,Hydration,Water Absorb,5,0.8,M,17,KG
+537,Seismitoad,Water,Ground,Vibration Pokémon,Swift Swim,Poison Touch,Water Absorb,5,1.5,M,62,KG
+538,Throh,Fighting,,Judo Pokémon,Guts,Inner Focus,Mold Breaker,5,1.3,M,55.5,KG
+539,Sawk,Fighting,,Karate Pokémon,Sturdy,Inner Focus,Mold Breaker,5,1.4,M,41,KG
+540,Sewaddle,Bug,Grass,Sewing Pokémon,Swarm,Chlorophyll,Overcoat,5,0.3,M,2.5,KG
+541,Swadloon,Bug,Grass,Leaf-Wrapped Pokémon,Leaf Guard,Chlorophyll,Overcoat,5,0.5,M,7.3,KG
+542,Leavanny,Bug,Grass,Nurturing Pokémon,Swarm,Chlorophyll,Overcoat,5,1.2,M,20.5,KG
+543,Venipede,Bug,Poison,Centipede Pokémon,Poison Point,Swarm,Speed Boost,5,0.4,M,5.3,KG
+544,Whirlipede,Bug,Poison,Curlipede Pokémon,Poison Point,Swarm,Speed Boost,5,1.2,M,58.5,KG
+545,Scolipede,Bug,Poison,Megapede Pokémon,Poison Point,Swarm,Speed Boost,5,2.5,M,200.5,KG
+546,Cottonee,Grass,Fairy,Cotton Puff Pokémon,Prankster,Infiltrator,Chlorophyll,5,0.3,M,0.6,KG
+547,Whimsicott,Grass,Fairy,Windveiled Pokémon,Prankster,Infiltrator,Chlorophyll,5,0.7,M,6.6,KG
+548,Petilil,Grass,,Bulb Pokémon,Chlorophyll,Own Tempo,Leaf Guard,5,0.5,M,6.6,KG
+549,Lilligant,Grass,,Flowering Pokémon,Chlorophyll,Own Tempo,Leaf Guard,5,1.1,M,16.3,KG
+550,Basculin,Water,,Hostile Pokémon,Reckless,Adaptability,Mold Breaker,5,1,M,18,KG
+551,Sandile,Ground,Dark,Desert Croc Pokémon,Intimidate,Moxie,Anger Point,5,0.7,M,15.2,KG
+552,Krokorok,Ground,Dark,Desert Croc Pokémon,Intimidate,Moxie,Anger Point,5,1,M,33.4,KG
+553,Krookodile,Ground,Dark,Intimidation Pokémon,Intimidate,Moxie,Anger Point,5,1.5,M,96.3,KG
+554,Darumaka,Fire,,Zen Charm Pokémon,Hustle,,Inner Focus,5,0.6,M,37.5,KG
+555,Darmanitan,Fire,,Blazing Pokémon,Sheer Force,,Zen Mode,5,1.3,M,92.9,KG
+556,Maractus,Grass,,Cactus Pokémon,Water Absorb,Chlorophyll,Storm Drain,5,1,M,28,KG
+557,Dwebble,Bug,Rock,Rock Inn Pokémon,Sturdy,Shell Armor,Weak Armor,5,0.3,M,14.5,KG
+558,Crustle,Bug,Rock,Stone Home Pokémon,Sturdy,Shell Armor,Weak Armor,5,1.4,M,200,KG
+559,Scraggy,Dark,Fighting,Shedding Pokémon,Shed Skin,Moxie,Intimidate,5,0.6,M,11.8,KG
+560,Scrafty,Dark,Fighting,Hoodlum Pokémon,Shed Skin,Moxie,Intimidate,5,1.1,M,30,KG
+561,Sigilyph,Psychic,Flying,Avianoid Pokémon,Wonder Skin,Magic Guard,Tinted Lens,5,1.4,M,14,KG
+562,Yamask,Ghost,,Spirit Pokémon,Mummy,,,5,0.5,M,1.5,KG
+563,Cofagrigus,Ghost,,Coffin Pokémon,Mummy,,,5,1.7,M,76.5,KG
+564,Tirtouga,Water,Rock,Prototurtle Pokémon,Solid Rock,Sturdy,Swift Swim,5,0.7,M,16.5,KG
+565,Carracosta,Water,Rock,Prototurtle Pokémon,Solid Rock,Sturdy,Swift Swim,5,1.2,M,81,KG
+566,Archen,Rock,Flying,First Bird Pokémon,Defeatist,,,5,0.5,M,9.5,KG
+567,Archeops,Rock,Flying,First Bird Pokémon,Defeatist,,,5,1.4,M,32,KG
+568,Trubbish,Poison,,Trash Bag Pokémon,Stench,Sticky Hold,Aftermath,5,0.6,M,31,KG
+569,Garbodor,Poison,,Trash Heap Pokémon,Stench,Weak Armor,Aftermath,5,1.9,M,107.3,KG
+570,Zorua,Dark,,Tricky Fox Pokémon,Illusion,,,5,0.7,M,12.5,KG
+571,Zoroark,Dark,,Illusion Fox Pokémon,Illusion,,,5,1.6,M,81.1,KG
+572,Minccino,Normal,,Chinchilla Pokémon,Cute Charm,Technician,Skill Link,5,0.4,M,5.8,KG
+573,Cinccino,Normal,,Scarf Pokémon,Cute Charm,Technician,Skill Link,5,0.5,M,7.5,KG
+574,Gothita,Psychic,,Fixation Pokémon,Frisk,Competitive,Shadow Tag,5,0.4,M,5.8,KG
+575,Gothorita,Psychic,,Manipulate Pokémon,Frisk,Competitive,Shadow Tag,5,0.7,M,18,KG
+576,Gothitelle,Psychic,,Astral Body Pokémon,Frisk,Competitive,Shadow Tag,5,1.5,M,44,KG
+577,Solosis,Psychic,,Cell Pokémon,Overcoat,Magic Guard,Regenerator,5,0.3,M,1,KG
+578,Duosion,Psychic,,Mitosis Pokémon,Overcoat,Magic Guard,Regenerator,5,0.6,M,8,KG
+579,Reuniclus,Psychic,,Multiplying Pokémon,Overcoat,Magic Guard,Regenerator,5,1,M,20.1,KG
+580,Ducklett,Water,Flying,Water Bird Pokémon,Keen Eye,Big Pecks,Hydration,5,0.5,M,5.5,KG
+581,Swanna,Water,Flying,White Bird Pokémon,Keen Eye,Big Pecks,Hydration,5,1.3,M,24.2,KG
+582,Vanillite,Ice,,Fresh Snow Pokémon,Ice Body,Snow Cloak,Weak Armor,5,0.4,M,5.7,KG
+583,Vanillish,Ice,,Icy Snow Pokémon,Ice Body,Snow Cloak,Weak Armor,5,1.1,M,41,KG
+584,Vanilluxe,Ice,,Snowstorm Pokémon,Ice Body,Snow Warning,Weak Armor,5,1.3,M,57.5,KG
+585,Deerling,Normal,Grass,Season Pokémon,Chlorophyll,Sap Sipper,Serene Grace,5,0.6,M,19.5,KG
+586,Sawsbuck,Normal,Grass,Season Pokémon,Chlorophyll,Sap Sipper,Serene Grace,5,1.9,M,92.5,KG
+587,Emolga,Electric,Flying,Sky Squirrel Pokémon,Static,,Motor Drive,5,0.4,M,5,KG
+588,Karrablast,Bug,,Clamping Pokémon,Swarm,Shed Skin,No Guard,5,0.5,M,5.9,KG
+589,Escavalier,Bug,Steel,Cavalry Pokémon,Swarm,Shell Armor,Overcoat,5,1,M,33,KG
+590,Foongus,Grass,Poison,Mushroom Pokémon,Effect Spore,,Regenerator,5,0.2,M,1,KG
+591,Amoonguss,Grass,Poison,Mushroom Pokémon,Effect Spore,,Regenerator,5,0.6,M,10.5,KG
+592,Frillish,Water,Ghost,Floating Pokémon,Water Absorb,Cursed Body,Damp,5,1.2,M,33,KG
+593,Jellicent,Water,Ghost,Floating Pokémon,Water Absorb,Cursed Body,Damp,5,2.2,M,135,KG
+594,Alomomola,Water,,Caring Pokémon,Healer,Hydration,Regenerator,5,1.2,M,31.6,KG
+595,Joltik,Bug,Electric,Attaching Pokémon,Compound Eyes,Unnerve,Swarm,5,0.1,M,0.6,KG
+596,Galvantula,Bug,Electric,EleSpider Pokémon,Compound Eyes,Unnerve,Swarm,5,0.8,M,14.3,KG
+597,Ferroseed,Grass,Steel,Thorn Seed Pokémon,Iron Barbs,,,5,0.6,M,18.8,KG
+598,Ferrothorn,Grass,Steel,Thorn Pod Pokémon,Iron Barbs,,Anticipation,5,1,M,110,KG
+599,Klink,Steel,,Gear Pokémon,Plus,Minus,Clear Body,5,0.3,M,21,KG
+600,Klang,Steel,,Gear Pokémon,Plus,Minus,Clear Body,5,0.6,M,51,KG
+601,Klinklang,Steel,,Gear Pokémon,Plus,Minus,Clear Body,5,0.6,M,81,KG
+602,Tynamo,Electric,,EleFish Pokémon,Levitate,,,5,0.2,M,0.3,KG
+603,Eelektrik,Electric,,EleFish Pokémon,Levitate,,,5,1.2,M,22,KG
+604,Eelektross,Electric,,EleFish Pokémon,Levitate,,,5,2.1,M,80.5,KG
+605,Elgyem,Psychic,,Cerebral Pokémon,Telepathy,Synchronize,Analytic,5,0.5,M,9,KG
+606,Beheeyem,Psychic,,Cerebral Pokémon,Telepathy,Synchronize,Analytic,5,1,M,34.5,KG
+607,Litwick,Ghost,Fire,Candle Pokémon,Flash Fire,Flame Body,Infiltrator,5,0.3,M,3.1,KG
+608,Lampent,Ghost,Fire,Lamp Pokémon,Flash Fire,Flame Body,Infiltrator,5,0.6,M,13,KG
+609,Chandelure,Ghost,Fire,Luring Pokémon,Flash Fire,Flame Body,Infiltrator,5,1,M,34.3,KG
+610,Axew,Dragon,,Tusk Pokémon,Rivalry,Mold Breaker,Unnerve,5,0.6,M,18,KG
+611,Fraxure,Dragon,,Axe Jaw Pokémon,Rivalry,Mold Breaker,Unnerve,5,1,M,36,KG
+612,Haxorus,Dragon,,Axe Jaw Pokémon,Rivalry,Mold Breaker,Unnerve,5,1.8,M,105.5,KG
+613,Cubchoo,Ice,,Chill Pokémon,Snow Cloak,Slush Rush,Rattled,5,0.5,M,8.5,KG
+614,Beartic,Ice,,Freezing Pokémon,Snow Cloak,Slush Rush,Swift Swim,5,2.6,M,260,KG
+615,Cryogonal,Ice,,Crystallizing Pokémon,Levitate,,,5,1.1,M,148,KG
+616,Shelmet,Bug,,Snail Pokémon,Hydration,Shell Armor,Overcoat,5,0.4,M,7.7,KG
+617,Accelgor,Bug,,Shell Out Pokémon,Hydration,Sticky Hold,Unburden,5,0.8,M,25.3,KG
+618,Stunfisk,Ground,Electric,Trap Pokémon,Static,Limber,Sand Veil,5,0.7,M,11,KG
+619,Mienfoo,Fighting,,Martial Arts Pokémon,Inner Focus,Regenerator,Reckless,5,0.9,M,20,KG
+620,Mienshao,Fighting,,Martial Arts Pokémon,Inner Focus,Regenerator,Reckless,5,1.4,M,35.5,KG
+621,Druddigon,Dragon,,Cave Pokémon,Rough Skin,Sheer Force,Mold Breaker,5,1.6,M,139,KG
+622,Golett,Ground,Ghost,Automaton Pokémon,Iron Fist,Klutz,No Guard,5,1,M,92,KG
+623,Golurk,Ground,Ghost,Automaton Pokémon,Iron Fist,Klutz,No Guard,5,2.8,M,330,KG
+624,Pawniard,Dark,Steel,Sharp Blade Pokémon,Defiant,Inner Focus,Pressure,5,0.5,M,10.2,KG
+625,Bisharp,Dark,Steel,Sword Blade Pokémon,Defiant,Inner Focus,Pressure,5,1.6,M,70,KG
+626,Bouffalant,Normal,,Bash Buffalo Pokémon,Reckless,Sap Sipper,Soundproof,5,1.6,M,94.5,KG
+627,Rufflet,Normal,Flying,Eaglet Pokémon,Keen Eye,Sheer Force,Hustle,5,0.5,M,10.5,KG
+628,Braviary,Normal,Flying,Valiant Pokémon,Keen Eye,Sheer Force,Defiant,5,1.5,M,41,KG
+629,Vullaby,Dark,Flying,Diapered Pokémon,Big Pecks,Overcoat,Weak Armor,5,0.5,M,9,KG
+630,Mandibuzz,Dark,Flying,Bone Vulture Pokémon,Big Pecks,Overcoat,Weak Armor,5,1.2,M,39.5,KG
+631,Heatmor,Fire,,Anteater Pokémon,Gluttony,Flash Fire,White Smoke,5,1.4,M,58,KG
+632,Durant,Bug,Steel,Iron Ant Pokémon,Swarm,Hustle,Truant,5,0.3,M,33,KG
+633,Deino,Dark,Dragon,Irate Pokémon,Hustle,,,5,0.8,M,17.3,KG
+634,Zweilous,Dark,Dragon,Hostile Pokémon,Hustle,,,5,1.4,M,50,KG
+635,Hydreigon,Dark,Dragon,Brutal Pokémon,Levitate,,,5,1.8,M,160,KG
+636,Larvesta,Bug,Fire,Torch Pokémon,Flame Body,,Swarm,5,1.1,M,28.8,KG
+637,Volcarona,Bug,Fire,Sun Pokémon,Flame Body,,Swarm,5,1.6,M,46,KG
+638,Cobalion,Steel,Fighting,Iron Will Pokémon,Justified,,,5,2.1,M,250,KG
+639,Terrakion,Rock,Fighting,Cavern Pokémon,Justified,,,5,1.9,M,260,KG
+640,Virizion,Grass,Fighting,Grassland Pokémon,Justified,,,5,2,M,200,KG
+641,Tornadus,Flying,,Cyclone Pokémon,Prankster,,Defiant,5,1.5,M,63,KG
+642,Thundurus,Electric,Flying,Bolt Strike Pokémon,Prankster,,Defiant,5,1.5,M,61,KG
+643,Reshiram,Dragon,Fire,Vast White Pokémon,Turboblaze,,,5,3.2,M,330,KG
+644,Zekrom,Dragon,Electric,Deep Black Pokémon,Teravolt,,,5,2.9,M,345,KG
+645,Landorus,Ground,Flying,Abundance Pokémon,Sand Force,,Sheer Force,5,1.5,M,68,KG
+646,Kyurem,Dragon,Ice,Boundary Pokémon,Pressure,,,5,3,M,325,KG
+647,Keldeo,Water,Fighting,Colt Pokémon,Justified,,,5,1.4,M,48.5,KG
+648,Meloetta,Normal,Psychic,Melody Pokémon,Serene Grace,,,5,0.6,M,6.5,KG
+649,Genesect,Bug,Steel,Paleozoic Pokémon,Download,,,5,1.5,M,82.5,KG
+650,Chespin,Grass,,Spiky Nut Pokémon,Overgrow,,Bulletproof,6,0.4,M,9,KG
+651,Quilladin,Grass,,Spiky Armor Pokémon,Overgrow,,Bulletproof,6,0.7,M,29,KG
+652,Chesnaught,Grass,Fighting,Spiky Armor Pokémon,Overgrow,,Bulletproof,6,1.6,M,90,KG
+653,Fennekin,Fire,,Fox Pokémon,Blaze,,Magician,6,0.4,M,9.4,KG
+654,Braixen,Fire,,Fox Pokémon,Blaze,,Magician,6,1,M,14.5,KG
+655,Delphox,Fire,Psychic,Fox Pokémon,Blaze,,Magician,6,1.5,M,39,KG
+656,Froakie,Water,,Bubble Frog Pokémon,Torrent,,Protean,6,0.3,M,7,KG
+657,Frogadier,Water,,Bubble Frog Pokémon,Torrent,,Protean,6,0.6,M,10.9,KG
+658,Greninja,Water,Dark,Ninja Pokémon,Torrent,,Protean,6,1.5,M,40,KG
+659,Bunnelby,Normal,,Digging Pokémon,Pickup,Cheek Pouch,Huge Power,6,0.4,M,5,KG
+660,Diggersby,Normal,Ground,Digging Pokémon,Pickup,Cheek Pouch,Huge Power,6,1,M,42.4,KG
+661,Fletchling,Normal,Flying,Tiny Robin Pokémon,Big Pecks,,Gale Wings,6,0.3,M,1.7,KG
+662,Fletchinder,Fire,Flying,Ember Pokémon,Flame Body,,Gale Wings,6,0.7,M,16,KG
+663,Talonflame,Fire,Flying,Scorching Pokémon,Flame Body,,Gale Wings,6,1.2,M,24.5,KG
+664,Scatterbug,Bug,,Scatterdust Pokémon,Shield Dust,Compound Eyes,Friend Guard,6,0.3,M,2.5,KG
+665,Spewpa,Bug,,Scatterdust Pokémon,Shed Skin,,Friend Guard,6,0.3,M,8.4,KG
+666,Vivillon,Bug,Flying,Scale Pokémon,Shield Dust,Compound Eyes,Friend Guard,6,1.2,M,17,KG
+667,Litleo,Fire,Normal,Lion Cub Pokémon,Rivalry,Unnerve,Moxie,6,0.6,M,13.5,KG
+668,Pyroar,Fire,Normal,Royal Pokémon,Rivalry,Unnerve,Moxie,6,1.5,M,81.5,KG
+669,Flabébé,Fairy,,Single Bloom Pokémon,Flower Veil,,Symbiosis,6,0.1,M,0.1,KG
+670,Floette,Fairy,,Single Bloom Pokémon,Flower Veil,,Symbiosis,6,0.2,M,0.9,KG
+671,Florges,Fairy,,Garden Pokémon,Flower Veil,,Symbiosis,6,1.1,M,10,KG
+672,Skiddo,Grass,,Mount Pokémon,Sap Sipper,,Grass Pelt,6,0.9,M,31,KG
+673,Gogoat,Grass,,Mount Pokémon,Sap Sipper,,Grass Pelt,6,1.7,M,91,KG
+674,Pancham,Fighting,,Playful Pokémon,Iron Fist,Mold Breaker,Scrappy,6,0.6,M,8,KG
+675,Pangoro,Fighting,Dark,Daunting Pokémon,Iron Fist,Mold Breaker,Scrappy,6,2.1,M,136,KG
+676,Furfrou,Normal,,Poodle Pokémon,Fur Coat,,,6,1.2,M,28,KG
+677,Espurr,Psychic,,Restraint Pokémon,Keen Eye,Infiltrator,Own Tempo,6,0.3,M,3.5,KG
+678,Meowstic,Psychic,,Constraint Pokémon,Keen Eye,Infiltrator,Prankster,6,0.6,M,8.5,KG
+679,Honedge,Steel,Ghost,Sword Pokémon,No Guard,,,6,0.8,M,2,KG
+680,Doublade,Steel,Ghost,Sword Pokémon,No Guard,,,6,0.8,M,4.5,KG
+681,Aegislash,Steel,Ghost,Royal Sword Pokémon,Stance Change,,,6,1.7,M,53,KG
+682,Spritzee,Fairy,,Perfume Pokémon,Healer,,Aroma Veil,6,0.2,M,0.5,KG
+683,Aromatisse,Fairy,,Fragrance Pokémon,Healer,,Aroma Veil,6,0.8,M,15.5,KG
+684,Swirlix,Fairy,,Cotton Candy Pokémon,Sweet Veil,,Unburden,6,0.4,M,3.5,KG
+685,Slurpuff,Fairy,,Meringue Pokémon,Sweet Veil,,Unburden,6,0.8,M,5,KG
+686,Inkay,Dark,Psychic,Revolving Pokémon,Suction Cups,Contrary,Infiltrator,6,0.4,M,3.5,KG
+687,Malamar,Dark,Psychic,Overturning Pokémon,Suction Cups,Contrary,Infiltrator,6,1.5,M,47,KG
+688,Binacle,Rock,Water,Two-Handed Pokémon,Tough Claws,Sniper,Pickpocket,6,0.5,M,31,KG
+689,Barbaracle,Rock,Water,Collective Pokémon,Tough Claws,Sniper,Pickpocket,6,1.3,M,96,KG
+690,Skrelp,Poison,Water,Mock Kelp Pokémon,Poison Point,Poison Touch,Adaptability,6,0.5,M,7.3,KG
+691,Dragalge,Poison,Dragon,Mock Kelp Pokémon,Poison Point,Poison Touch,Adaptability,6,1.8,M,81.5,KG
+692,Clauncher,Water,,Water Gun Pokémon,Mega Launcher,,,6,0.5,M,8.3,KG
+693,Clawitzer,Water,,Howitzer Pokémon,Mega Launcher,,,6,1.3,M,35.3,KG
+694,Helioptile,Electric,Normal,Generator Pokémon,Dry Skin,Sand Veil,Solar Power,6,0.5,M,6,KG
+695,Heliolisk,Electric,Normal,Generator Pokémon,Dry Skin,Sand Veil,Solar Power,6,1,M,21,KG
+696,Tyrunt,Rock,Dragon,Royal Heir Pokémon,Strong Jaw,,Sturdy,6,0.8,M,26,KG
+697,Tyrantrum,Rock,Dragon,Despot Pokémon,Strong Jaw,,Rock Head,6,2.5,M,270,KG
+698,Amaura,Rock,Ice,Tundra Pokémon,Refrigerate,,Snow Warning,6,1.3,M,25.2,KG
+699,Aurorus,Rock,Ice,Tundra Pokémon,Refrigerate,,Snow Warning,6,2.7,M,225,KG
+700,Sylveon,Fairy,,Interwining Pokémon,Cute Charm,,Pixilate,6,1,M,23.5,KG
+701,Hawlucha,Fighting,Flying,Wrestling Pokémon,Limber,Unburden,Mold Breaker,6,0.8,M,21.5,KG
+702,Dedenne,Electric,Fairy,Antenna Pokémon,Cheek Pouch,Pickup,Plus,6,0.2,M,2.2,KG
+703,Carbink,Rock,Fairy,Jewel Pokémon,Clear Body,,Sturdy,6,0.3,M,5.7,KG
+704,Goomy,Dragon,,Soft Tissue Pokémon,Sap Sipper,Hydration,Gooey,6,0.3,M,2.8,KG
+705,Sliggoo,Dragon,,Soft Tissue Pokémon,Sap Sipper,Hydration,Gooey,6,0.8,M,17.5,KG
+706,Goodra,Dragon,,Dragon Pokémon,Sap Sipper,Hydration,Gooey,6,2,M,150.5,KG
+707,Klefki,Steel,Fairy,Key Ring Pokémon,Prankster,,Magician,6,0.2,M,3,KG
+708,Phantump,Ghost,Grass,Stump Pokémon,Natural Cure,Frisk,Harvest,6,0.4,M,7,KG
+709,Trevenant,Ghost,Grass,Elder Tree Pokémon,Natural Cure,Frisk,Harvest,6,1.5,M,71,KG
+710,Pumpkaboo,Ghost,Grass,Pumpkin Pokémon,Pickup,Frisk,Insomnia,6,0.4,M,5,KG
+711,Gourgeist,Ghost,Grass,Pumpkin Pokémon,Pickup,Frisk,Insomnia,6,0.9,M,12.5,KG
+712,Bergmite,Ice,,Ice Chunk Pokémon,Own Tempo,Ice Body,Sturdy,6,1,M,99.5,KG
+713,Avalugg,Ice,,Iceberg Pokémon,Own Tempo,Ice Body,Sturdy,6,2,M,505,KG
+714,Noibat,Flying,Dragon,Sound Wave Pokémon,Frisk,Infiltrator,Telepathy,6,0.5,M,8,KG
+715,Noivern,Flying,Dragon,Sound Wave Pokémon,Frisk,Infiltrator,Telepathy,6,1.5,M,85,KG
+716,Xerneas,Fairy,,Life Pokémon,Fairy Aura,,,6,3,M,215,KG
+717,Yveltal,Dark,Flying,Destruction Pokémon,Dark Aura,,,6,5.8,M,203,KG
+718,Zygarde,Dragon,Ground,Order Pokémon,Aura Break,Power Construct,,6,5,M,305,KG
+719,Diancie,Rock,Fairy,Jewel Pokémon,Clear Body,,,6,0.7,M,8.8,KG
+720,Hoopa,Psychic,Ghost,Mischief Pokémon,Magician,,,6,0.5,M,9,KG
+721,Volcanion,Fire,Water,Steam Pokémon,Water Absorb,,,6,1.7,M,195,KG
+722,Rowlet,Grass,Flying,Grass Quill Pokémon,Overgrow,,Long Reach,7,0.3,M,1.5,KG
+723,Dartrix,Grass,Flying,Blade Quill Pokémon,Overgrow,,Long Reach,7,0.7,M,16,KG
+724,Decidueye,Grass,Ghost,Arrow Quill Pokémon,Overgrow,,Long Reach,7,1.6,M,36.6,KG
+725,Litten,Fire,,Fire Cat Pokémon,Blaze,,Intimidate,7,0.4,M,4.3,KG
+726,Torracat,Fire,,Fire Cat Pokémon,Blaze,,Intimidate,7,0.7,M,25,KG
+727,Incineroar,Fire,Dark,Heel Pokémon,Blaze,,Intimidate,7,1.8,M,83,KG
+728,Popplio,Water,,Sea Lion Pokémon,Torrent,,Liquid Voice,7,0.4,M,7.5,KG
+729,Brionne,Water,,Pop Star Pokémon,Torrent,,Liquid Voice,7,0.6,M,17.5,KG
+730,Primarina,Water,Fairy,Soloist Pokémon,Torrent,,Liquid Voice,7,1.8,M,44,KG
+731,Pikipek,Normal,Flying,Woodpecker Pokémon,Keen Eye,Skill Link,Pickup,7,0.3,M,1.2,KG
+732,Trumbeak,Normal,Flying,Bugle Beak Pokémon,Keen Eye,Skill Link,Pickup,7,0.6,M,14.8,KG
+733,Toucannon,Normal,Flying,Cannon Pokémon,Keen Eye,Skill Link,Sheer Force,7,1.1,M,26,KG
+734,Yungoos,Normal,,Loitering Pokémon,Stakeout,Strong Jaw,Adaptability,7,0.4,M,6,KG
+735,Gumshoos,Normal,,Stakeout Pokémon,Stakeout,Strong Jaw,Adaptability,7,0.7,M,14.2,KG
+736,Grubbin,Bug,,Larva Pokémon,Swarm,,,7,0.4,M,4.4,KG
+737,Charjabug,Bug,Electric,Battery Pokémon,Battery,,,7,0.5,M,10.5,KG
+738,Vikavolt,Bug,Electric,Stag Beetle Pokémon,Levitate,,,7,1.5,M,45,KG
+739,Crabrawler,Fighting,,Boxing Pokémon,Hyper Cutter,Iron Fist,Anger Point,7,0.6,M,7,KG
+740,Crabominable,Fighting,Ice,Woolly Crab Pokémon,Hyper Cutter,Iron Fist,Anger Point,7,1.7,M,180,KG
+741,Oricorio,Fire,Flying,Dancing Pokémon,Dancer,,,7,0.6,M,3.4,KG
+742,Cutiefly,Bug,Fairy,Bee Fly Pokémon,Honey Gather,Shield Dust,Sweet Veil,7,0.1,M,0.2,KG
+743,Ribombee,Bug,Fairy,Bee Fly Pokémon,Honey Gather,Shield Dust,Sweet Veil,7,0.2,M,0.5,KG
+744,Rockruff,Rock,,Puppy Pokémon,Keen Eye,Vital Spirit,Steadfast,7,0.5,M,9.2,KG
+745,Lycanroc,Rock,,Wolf Pokémon,Keen Eye,Sand Rush,Steadfast,7,0.8,M,25,KG
+746,Wishiwashi,Water,,Small Fry Pokémon,Schooling,,,7,0.2,M,0.3,KG
+747,Mareanie,Poison,Water,Brutal Star Pokémon,Merciless,Limber,Regenerator,7,0.4,M,8,KG
+748,Toxapex,Poison,Water,Brutal Pokémon,Merciless,Limber,Regenerator,7,0.7,M,14.5,KG
+749,Mudbray,Ground,,Donkey Pokémon,Own Tempo,Stamina,Inner Focus,7,1,M,110,KG
+750,Mudsdale,Ground,,Draft Horse Pokémon,Own Tempo,Stamina,Inner Focus,7,2.5,M,920,KG
+751,Dewpider,Water,Bug,Water Bubble Pokémon,Water Bubble,,Water Absorb,7,0.3,M,4,KG
+752,Araquanid,Water,Bug,Water Bubble Pokémon,Water Bubble,,Water Absorb,7,1.8,M,82,KG
+753,Fomantis,Grass,,Sickle Grass Pokémon,Leaf Guard,,Contrary,7,0.3,M,1.5,KG
+754,Lurantis,Grass,,Bloom Sickle Pokémon,Leaf Guard,,Contrary,7,0.9,M,18.5,KG
+755,Morelull,Grass,Fairy,Illuminating Pokémon,Illuminate,Effect Spore,Rain Dish,7,0.2,M,1.5,KG
+756,Shiinotic,Grass,Fairy,Illuminating Pokémon,Illuminate,Effect Spore,Rain Dish,7,1,M,11.5,KG
+757,Salandit,Poison,Fire,Toxic Lizard Pokémon,Corrosion,,Oblivious,7,0.6,M,4.8,KG
+758,Salazzle,Poison,Fire,Toxic Lizard Pokémon,Corrosion,,Oblivious,7,1.2,M,22.2,KG
+759,Stufful,Normal,Fighting,Flailing Pokémon,Fluffy,Klutz,Cute Charm,7,0.5,M,6.8,KG
+760,Bewear,Normal,Fighting,Strong Arm Pokémon,Fluffy,Klutz,Unnerve,7,2.1,M,135,KG
+761,Bounsweet,Grass,,Fruit Pokémon,Leaf Guard,Oblivious,Sweet Veil,7,0.3,M,3.2,KG
+762,Steenee,Grass,,Fruit Pokémon,Leaf Guard,Oblivious,Sweet Veil,7,0.7,M,8.2,KG
+763,Tsareena,Grass,,Fruit Pokémon,Leaf Guard,Queenly Majesty,Sweet Veil,7,1.2,M,21.4,KG
+764,Comfey,Fairy,,Posy Picker Pokémon,Flower Veil,Triage,Natural Cure,7,0.1,M,0.3,KG
+765,Oranguru,Normal,Psychic,Sage Pokémon,Inner Focus,Telepathy,Symbiosis,7,1.5,M,76,KG
+766,Passimian,Fighting,,Teamwork Pokémon,Receiver,,Defiant,7,2,M,82.8,KG
+767,Wimpod,Bug,Water,Turn Tail Pokémon,Wimp Out,,,7,0.5,M,12,KG
+768,Golisopod,Bug,Water,Hard Scale Pokémon,Emergency Exit,,,7,2,M,108,KG
+769,Sandygast,Ghost,Ground,Sand Heap Pokémon,Water Compaction,,Sand Veil,7,0.5,M,70,KG
+770,Palossand,Ghost,Ground,Sand Castle Pokémon,Water Compaction,,Sand Veil,7,1.3,M,250,KG
+771,Pyukumuku,Water,,Sea Cucumber Pokémon,Innards Out,,Unaware,7,0.3,M,1.2,KG
+772,Type: ,Normal,,Synthetic Pokémon,Battle Armor,,,7,1.9,M,120.5,KG
+773,Silvally,Normal,,Synthetic Pokémon,RKS System,,,7,2.3,M,100.5,KG
+774,Minior,Rock,Flying,Meteor Pokémon,Shields Down,,,7,0.3,M,40,KG
+775,Komala,Normal,,Drowsing Pokémon,Comatose,,,7,0.4,M,19.9,KG
+776,Turtonator,Fire,Dragon,Blast Turtle Pokémon,Shell Armor,,,7,2,M,212,KG
+777,Togedemaru,Electric,Steel,Roly-Poly Pokémon,Iron Barbs,Lightning Rod,Sturdy,7,0.3,M,3.3,KG
+778,Mimikyu,Ghost,Fairy,Disguise Pokémon,Disguise,,,7,0.2,M,0.7,KG
+779,Bruxish,Water,Psychic,Gnash Teeth Pokémon,Dazzling,Strong Jaw,Wonder Skin,7,0.9,M,19,KG
+780,Drampa,Normal,Dragon,Placid Pokémon,Berserk,Sap Sipper,Cloud Nine,7,3,M,185,KG
+781,Dhelmise,Ghost,Grass,Sea Creeper Pokémon,Steelworker,,,7,3.9,M,210,KG
+782,Jangmo-o,Dragon,,Scaly Pokémon,Bulletproof,Soundproof,Overcoat,7,0.6,M,29.7,KG
+783,Hakamo-o,Dragon,Fighting,Scaly Pokémon,Bulletproof,Soundproof,Overcoat,7,1.2,M,47,KG
+784,Kommo-o,Dragon,Fighting,Scaly Pokémon,Bulletproof,Soundproof,Overcoat,7,1.6,M,78.2,KG
+785,Tapu Koko,Electric,Fairy,Land Spirit Pokémon,Electric Surge,,Telepathy,7,1.8,M,20.5,KG
+786,Tapu Lele,Psychic,Fairy,Land Spirit Pokémon,Psychic Surge,,Telepathy,7,1.2,M,18.6,KG
+787,Tapu Bulu,Grass,Fairy,Land Spirit Pokémon,Grassy Surge,,Telepathy,7,1.9,M,45.5,KG
+788,Tapu Fini,Water,Fairy,Land Spirit Pokémon,Misty Surge,,Telepathy,7,1.3,M,21.2,KG
+789,Cosmog,Psychic,,Nebula Pokémon,Unaware,,,7,0.2,M,0.1,KG
+790,Cosmoem,Psychic,,Protostar Pokémon,Sturdy,,,7,0.1,M,999.9,KG
+791,Solgaleo,Psychic,Steel,Sunne Pokémon,Full Metal Body,,,7,3.4,M,230,KG
+792,Lunala,Psychic,Ghost,Moone Pokémon,Shadow Shield,,,7,4,M,120,KG
+793,Nihilego,Rock,Poison,Parasite Pokémon,Beast Boost,,,7,1.2,M,55.5,KG
+794,Buzzwole,Bug,Fighting,Swollen Pokémon,Beast Boost,,,7,2.4,M,333.6,KG
+795,Pheromosa,Bug,Fighting,Lissome Pokémon,Beast Boost,,,7,1.8,M,25,KG
+796,Xurkitree,Electric,,Glowing Pokémon,Beast Boost,,,7,3.8,M,100,KG
+797,Celesteela,Steel,Flying,Launch Pokémon,Beast Boost,,,7,9.2,M,999.9,KG
+798,Kartana,Grass,Steel,Drawn Sword Pokémon,Beast Boost,,,7,0.3,M,0.1,KG
+799,Guzzlord,Dark,Dragon,Junkivore Pokémon,Beast Boost,,,7,5.5,M,888,KG
+800,Necrozma,Psychic,,Prism Pokémon,Prism Armor,,,7,2.4,M,230,KG
+801,Magearna,Steel,Fairy,Artificial Pokémon,Soul-Heart,,,7,1,M,80.5,KG
+802,Marshadow,Fighting,Ghost,Gloomdweller Pokémon,Technician,,,7,0.7,M,22.2,KG
+803,Poipole,Poison,,Poison Pin Pokémon,Beast Boost,,,7,0.6,M,1.8,KG
+804,Naganadel,Poison,Dragon,Poison Pin Pokémon,Beast Boost,,,7,3.6,M,150,KG
+805,Stakataka,Rock,Steel,Rampart Pokémon,Beast Boost,,,7,5.5,M,820,KG
+806,Blacephalon,Fire,Ghost,Fireworks Pokémon,Beast Boost,,,7,1.8,M,13,KG
+807,Zeraora,Electric,,Thunderclap Pokémon,Volt Absorb,,,7,1.5,M,44.5,KG
+808,Meltan,Steel,,Hex Nut Pokémon,Magnet Pull,,,7,0.2,M,8,KG
+809,Melmetal,Steel,,Hex Nut Pokémon,Iron Fist,,,7,2.5,M,800,KG
+810,Grookey,Grass,,Chimp Pokémon,Overgrow,,Grassy Surge,8,0.3,M,5,KG
+811,Thwackey,Grass,,Beat Pokémon,Overgrow,,Grassy Surge,8,0.7,M,14,KG
+812,Rillaboom,Grass,,Drummer Pokémon,Overgrow,,Grassy Surge,8,2.1,M,90,KG
+813,Scorbunny,Fire,,Rabbit Pokémon,Blaze,,Libero,8,0.3,M,4.5,KG
+814,Raboot,Fire,,Rabbit Pokémon,Blaze,,Libero,8,0.6,M,9,KG
+815,Cinderace,Fire,,Striker Pokémon,Blaze,,Libero,8,1.4,M,33,KG
+816,Sobble,Water,,Water Lizard Pokémon,Torrent,,Sniper,8,0.3,M,4,KG
+817,Drizzile,Water,,Water Lizard Pokémon,Torrent,,Sniper,8,0.7,M,11.5,KG
+818,Inteleon,Water,,Secret Agent Pokémon,Torrent,,Sniper,8,1.9,M,45.2,KG
+819,Skwovet,Normal,,Cheeky Pokémon,Cheek Pouch,,Gluttony,8,0.3,M,2.5,KG
+820,Greedent,Normal,,Greedy Pokémon,Cheek Pouch,,Gluttony,8,0.6,M,6,KG
+821,Rookidee,Flying,,Tiny Bird Pokémon,Keen Eye,Unnerve,Big Pecks,8,0.2,M,1.8,KG
+822,Corvisquire,Flying,,Raven Pokémon,Keen Eye,Unnerve,Big Pecks,8,0.8,M,16,KG
+823,Corviknight,Flying,Steel,Raven Pokémon,Pressure,Unnerve,Mirror Armor,8,2.2,M,75,KG
+824,Blipbug,Bug,,Larva Pokémon,Swarm,Compound Eyes,Telepathy,8,0.4,M,8,KG
+825,Dottler,Bug,Psychic,Radome Pokémon,Swarm,Compound Eyes,Telepathy,8,0.4,M,19.5,KG
+826,Orbeetle,Bug,Psychic,Seven Spot Pokémon,Swarm,Frisk,Telepathy,8,0.4,M,40.8,KG
+827,Nickit,Dark,,Fox Pokémon,Run Away,Unburden,Stakeout,8,0.6,M,8.9,KG
+828,Thievul,Dark,,Fox Pokémon,Run Away,Unburden,Stakeout,8,1.2,M,19.9,KG
+829,Gossifleur,Grass,,Flowering Pokémon,Cotton Down,Regenerator,Effect Spore,8,0.4,M,2.2,KG
+830,Eldegoss,Grass,,Cotton Bloom Pokémon,Cotton Down,Regenerator,Effect Spore,8,0.5,M,2.5,KG
+831,Wooloo,Normal,,Sheep Pokémon,Fluffy,Run Away,Bulletproof,8,0.6,M,6,KG
+832,Dubwool,Normal,,Sheep Pokémon,Fluffy,Steadfast,Bulletproof,8,1.3,M,43,KG
+833,Chewtle,Water,,Snapping Pokémon,Strong Jaw,Shell Armor,Swift Swim,8,0.3,M,8.5,KG
+834,Drednaw,Water,Rock,Bite Pokémon,Strong Jaw,Shell Armor,Swift Swim,8,1,M,115.5,KG
+835,Yamper,Electric,,Puppy Pokémon,Ball Fetch,,Rattled,8,0.3,M,13.5,KG
+836,Boltund,Electric,,Dog Pokémon,Strong Jaw,,Competitive,8,1,M,34,KG
+837,Rolycoly,Rock,,Coal Pokémon,Steam Engine,Heatproof,Flash Fire,8,0.3,M,12,KG
+838,Carkol,Rock,Fire,Coal Pokémon,Steam Engine,Flame Body,Flash Fire,8,1.1,M,78,KG
+839,Coalossal,Rock,Fire,Coal Pokémon,Steam Engine,Flame Body,Flash Fire,8,2.8,M,310.5,KG
+840,Applin,Grass,Dragon,Apple Core Pokémon,Ripen,Gluttony,Bulletproof,8,0.2,M,0.5,KG
+841,Flapple,Grass,Dragon,Apple Wing Pokémon,Ripen,Gluttony,Hustle,8,0.3,M,1,KG
+842,Appletun,Grass,Dragon,Apple Nectar Pokémon,Ripen,Gluttony,Thick Fat,8,0.4,M,13,KG
+843,Silicobra,Ground,,Sand Snake Pokémon,Sand Spit,Shed Skin,Sand Veil,8,2.2,M,7.6,KG
+844,Sandaconda,Ground,,Sand Snake Pokémon,Sand Spit,Shed Skin,Sand Veil,8,3.8,M,65.5,KG
+845,Cramorant,Flying,Water,Gulp Pokémon,Gulp Missile,,,8,0.8,M,18,KG
+846,Arrokuda,Water,,Rush Pokémon,Swift Swim,,Propeller Tail,8,0.5,M,1,KG
+847,Barraskewda,Water,,Skewer Pokémon,Swift Swim,,Propeller Tail,8,1.3,M,30,KG
+848,Toxel,Electric,Poison,Baby Pokémon,Rattled,Static,Klutz,8,0.4,M,11,KG
+849,Toxtricity,Electric,Poison,Punk Pokémon,Punk Rock,Plus,Technician,8,1.6,M,40,KG
+850,Sizzlipede,Fire,Bug,Radiator Pokémon,Flash Fire,White Smoke,Flame Body,8,0.7,M,1,KG
+851,Centiskorch,Fire,Bug,Radiator Pokémon,Flash Fire,White Smoke,Flame Body,8,3,M,120,KG
+852,Clobbopus,Fighting,,Tantrum Pokémon,Limber,,Technician,8,0.6,M,4,KG
+853,Grapploct,Fighting,,Jujitsu Pokémon,Limber,,Technician,8,1.6,M,39,KG
+854,Sinistea,Ghost,,Black Tea Pokémon,Weak Armor,,Cursed Body,8,0.1,M,0.2,KG
+855,Polteageist,Ghost,,Black Tea Pokémon,Weak Armor,,Cursed Body,8,0.2,M,0.4,KG
+856,Hatenna,Psychic,,Calm Pokémon,Healer,Anticipation,Magic Bounce,8,0.4,M,3.4,KG
+857,Hattrem,Psychic,,Serene Pokémon,Healer,Anticipation,Magic Bounce,8,0.6,M,4.8,KG
+858,Hatterene,Psychic,Fairy,Silent Pokémon,Healer,Anticipation,Magic Bounce,8,2.1,M,5.1,KG
+859,Impidimp,Dark,Fairy,Wily Pokémon,Prankster,Frisk,Pickpocket,8,0.4,M,5.5,KG
+860,Morgrem,Dark,Fairy,Devious Pokémon,Prankster,Frisk,Pickpocket,8,0.8,M,12.5,KG
+861,Grimmsnarl,Dark,Fairy,Bulk Up Pokémon,Prankster,Frisk,Pickpocket,8,1.5,M,61,KG
+862,Obstagoon,Dark,Normal,Blocking Pokémon,Reckless,Guts,Defiant,8,1.6,M,46,KG
+863,Perrserker,Steel,,Viking Pokémon,Battle Armor,Tough Claws,Steely Spirit,8,0.8,M,28,KG
+864,Cursola,Ghost,,Coral Pokémon,Weak Armor,,Perish Body,8,1,M,0.4,KG
+865,Sirfetch'd,Fighting,,Wild Duck Pokémon,Steadfast,,Scrappy,8,0.8,M,117,KG
+866,Mr. Rime,Ice,Psychic,Comedian Pokémon,Tangled Feet,Screen Cleaner,Ice Body,8,1.5,M,58.2,KG
+867,Runerigus,Ground,Ghost,Grudge Pokémon,Wandering Spirit,,,8,1.6,M,66.6,KG
+868,Milcery,Fairy,,Cream Pokémon,Sweet Veil,,Aroma Veil,8,0.2,M,0.3,KG
+869,Alcremie,Fairy,,Cream Pokémon,Sweet Veil,,Aroma Veil,8,0.3,M,0.5,KG
+870,Falinks,Fighting,,Formation Pokémon,Battle Armor,,Defiant,8,3,M,62,KG
+871,Pincurchin,Electric,,Sea Urchin Pokémon,Lightning Rod,,Electric Surge,8,0.3,M,1,KG
+872,Snom,Ice,Bug,Worm Pokémon,Shield Dust,,Ice Scales,8,0.3,M,3.8,KG
+873,Frosmoth,Ice,Bug,Frost Moth Pokémon,Shield Dust,,Ice Scales,8,1.3,M,42,KG
+874,Stonjourner,Rock,,Big Rock Pokémon,Power Spot,,,8,2.5,M,520,KG
+875,Eiscue,Ice,,Penguin Pokémon,Ice Face,,,8,1.4,M,89,KG
+876,Indeedee,Psychic,Normal,Emotion Pokémon,Inner Focus,Synchronize,Psychic Surge,8,0.9,M,28,KG
+877,Morpeko,Electric,Dark,Two-Sided Pokémon,Hunger Switch,,,8,0.3,M,3,KG
+878,Cufant,Steel,,Copperderm Pokémon,Sheer Force,,Heavy Metal,8,1.2,M,100,KG
+879,Copperajah,Steel,,Copperderm Pokémon,Sheer Force,,Heavy Metal,8,3,M,650,KG
+880,Dracozolt,Electric,Dragon,Fossil Pokémon,Volt Absorb,Hustle,Sand Rush,8,1.8,M,190,KG
+881,Arctozolt,Electric,Ice,Fossil Pokémon,Volt Absorb,Static,Slush Rush,8,2.3,M,150,KG
+882,Dracovish,Water,Dragon,Fossil Pokémon,Water Absorb,Strong Jaw,Sand Rush,8,2.3,M,215,KG
+883,Arctovish,Water,Ice,Fossil Pokémon,Water Absorb,Ice Body,Slush Rush,8,2,M,175,KG
+884,Duraludon,Steel,Dragon,Alloy Pokémon,Light Metal,Heavy Metal,Stalwart,8,1.8,M,40,KG
+885,Dreepy,Dragon,Ghost,Lingering Pokémon,Clear Body,Infiltrator,Cursed Body,8,0.5,M,2,KG
+886,Drakloak,Dragon,Ghost,Caretaker Pokémon,Clear Body,Infiltrator,Cursed Body,8,1.4,M,11,KG
+887,Dragapult,Dragon,Ghost,Stealth Pokémon,Clear Body,Infiltrator,Cursed Body,8,3,M,50,KG
+888,Zacian,Fairy,,Warrior Pokémon,Intrepid Sword,,,8,2.8,M,110,KG
+889,Zamazenta,Fighting,,Warrior Pokémon,Dauntless Shield,,,8,2.9,M,210,KG
+890,Eternatus,Poison,Dragon,Gigantic Pokémon,Pressure,,,8,20,M,950,KG
+891,Kubfu,Fighting,,Wushu Pokémon,Inner Focus,,,8,0.6,M,12,KG
+892,Urshifu,Fighting,Dark,Wushu Pokémon,Unseen Fist,,,8,1.9,M,105,KG
+893,Zarude,Dark,Grass,Rogue Monkey Pokémon,Leaf Guard,,,8,1.8,M,70,KG
+894,Regieleki,Electric,,Electron Pokémon,Transistor,,,8,1.2,M,145,KG
+895,Regidrago,Dragon,,Dragon Orb Pokémon,Dragon's Maw,,,8,2.1,M,200,KG
+896,Glastrier,Ice,,Wild Horse Pokémon,Chilling Neigh,,,8,2.2,M,800,KG
+897,Spectrier,Ghost,,Swift Horse Pokémon,Grim Neigh,,,8,2,M,44.5,KG
+898,Calyrex,Psychic,Grass,King Pokémon,Unnerve,,,8,1.1,M,7.7,KG
+899,Wyrdeer,Normal,Psychic,Big Horn Pokémon,Intimidate,Frisk,Sap Sipper,8,1.8,M,95.1,KG
+900,Kleavor,Bug,Rock,Axe Pokémon,Swarm,Sheer Force,Sharpness,8,1.8,M,89,KG
+901,Ursaluna,Ground,Normal,Peat Pokémon,Guts,Bulletproof,Unnerve,8,2.4,M,290,KG
+902,Basculegion,Water,Ghost,Big Fish Pokémon,Swift Swim,Adaptability,Mold Breaker,8,3,M,110,KG
+903,Sneasler,Fighting,Poison,Free Climb Pokémon,Pressure,Unburden,Poison Touch,8,1.3,M,43,KG
+904,Overqwil,Dark,Poison,Pin Cluster Pokémon,Poison Point,Swift Swim,Intimidate,8,2.5,M,60.5,KG
+905,Enamorus,Fairy,Flying,Love-Hate Pokémon,Healer,,Contrary,8,1.6,M,48,KG
+906,Sprigatito,Grass,,Grass Cat Pokémon,Overgrow,,Protean,9,0.4,M,4.1,KG
+907,Floragato,Grass,,Grass Cat Pokémon,Overgrow,,Protean,9,0.9,M,12.2,KG
+908,Meowscarada,Grass,Dark,Magician Pokémon,Overgrow,,Protean,9,1.5,M,31.2,KG
+909,Fuecoco,Fire,,Fire Croc Pokémon,Blaze,,Unaware,9,0.4,M,4.1,KG
+910,Crocalor,Fire,,Fire Croc Pokémon,Blaze,,Unaware,9,1,M,30.7,KG
+911,Skeledirge,Fire,Ghost,Singer Pokémon,Blaze,,Unaware,9,1.6,M,326.5,KG
+912,Quaxly,Water,,Duckling Pokémon,Torrent,,Moxie,9,0.5,M,6.1,KG
+913,Quaxwell,Water,,Practicing Pokémon,Torrent,,Moxie,9,1.2,M,21.5,KG
+914,Quaquaval,Water,Fighting,Dancer Pokémon,Torrent,,Moxie,9,1.8,M,61.9,KG
+915,Lechonk,Normal,,Hog Pokémon,Aroma Veil,Gluttony,Thick Fat,9,0.5,M,10.2,KG
+916,Oinkologne,Normal,,Hog Pokémon,Lingering Aroma,Gluttony,Thick Fat,9,1,M,120,KG
+917,Tarountula,Bug,,String Ball Pokémon,Insomnia,,Stakeout,9,0.3,M,4,KG
+918,Spidops,Bug,,Trap Pokémon,Insomnia,,Stakeout,9,1,M,16.5,KG
+919,Nymble,Bug,,Grasshopper Pokémon,Swarm,,Tinted Lens,9,0.2,M,1,KG
+920,Lokix,Bug,Dark,Grasshopper Pokémon,Swarm,,Tinted Lens,9,1,M,17.5,KG
+921,Pawmi,Electric,,Mouse Pokémon,Static,Natural Cure,Iron Fist,9,0.3,M,2.5,KG
+922,Pawmo,Electric,Fighting,Mouse Pokémon,Volt Absorb,Natural Cure,Iron Fist,9,0.4,M,6.5,KG
+923,Pawmot,Electric,Fighting,Mouse Pokémon,Volt Absorb,Natural Cure,Iron Fist,9,0.9,M,41,KG
+924,Tandemaus,Normal,,Couple Pokémon,Run Away,Pickup,Own Tempo,9,0.3,M,1.8,KG
+925,Maushold,Normal,,Family Pokémon,Friend Guard,Cheek Pouch,Technician,9,0.3,M,2.8,KG
+926,Fidough,Fairy,,Puppy Pokémon,Own Tempo,,Klutz,9,0.3,M,10.9,KG
+927,Dachsbun,Fairy,,Dog Pokémon,Well-Baked Body,,Aroma Veil,9,0.5,M,14.9,KG
+928,Smoliv,Grass,Normal,Olive Pokémon,Early Bird,,Harvest,9,0.3,M,6.5,KG
+929,Dolliv,Grass,Normal,Olive Pokémon,Early Bird,,Harvest,9,0.6,M,11.9,KG
+930,Arboliva,Grass,Normal,Olive Pokémon,Seed Sower,,Harvest,9,1.4,M,48.2,KG
+931,Squawkabilly,Normal,Flying,Parrot Pokémon,Intimidate,Hustle,Guts,9,0.6,M,2.4,KG
+932,Nacli,Rock,,Rock Salt Pokémon,Purifying Salt,Sturdy,Clear Body,9,0.4,M,16,KG
+933,Naclstack,Rock,,Rock Salt Pokémon,Purifying Salt,Sturdy,Clear Body,9,0.6,M,105,KG
+934,Garganacl,Rock,,Rock Salt Pokémon,Purifying Salt,Sturdy,Clear Body,9,2.3,M,240,KG
+935,Charcadet,Fire,,Fire Child Pokémon,Flash Fire,,Flame Body,9,0.6,M,10.5,KG
+936,Armarouge,Fire,Psychic,Fire Warrior Pokémon,Flash Fire,,Weak Armor,9,1.5,M,85,KG
+937,Ceruledge,Fire,Ghost,Fire Blades Pokémon,Flash Fire,,Weak Armor,9,1.6,M,62,KG
+938,Tadbulb,Electric,,EleTadpole Pokémon,Own Tempo,Static,Damp,9,0.3,M,0.4,KG
+939,Bellibolt,Electric,,EleFrog Pokemon,Electromorphosis,Static,Damp,9,1.2,M,113,KG
+940,Wattrel,Electric,Flying,Storm Petrel Pokémon,Wind Power,Volt Absorb,Competitive,9,0.4,M,3.6,KG
+941,Kilowattrel,Electric,Flying,Frigatebird Pokémon,Wind Power,Volt Absorb,Competitive,9,1.4,M,38.6,KG
+942,Maschiff,Dark,,Rascal Pokémon,Intimidate,Guard Dog,Stakeout,9,0.5,M,16,KG
+943,Mabosstiff,Dark,,Boss Pokémon,Intimidate,Guard Dog,Stakeout,9,1.1,M,61,KG
+944,Shroodle,Poison,Normal,Toxic Mouse Pokémon,Unburden,Pickpocket,Prankster,9,0.2,M,0.7,KG
+945,Grafaiai,Poison,Normal,Toxic Monkey Pokémon,Unburden,Poison Touch,Prankster,9,0.7,M,27.2,KG
+946,Bramblin,Grass,Ghost,Tumbleweed Pokémon,Wind Power,,Infiltrator,9,0.6,M,0.6,KG
+947,Brambleghast,Grass,Ghost,Tumbleweed Pokémon,Wind Power,,Infiltrator,9,1.2,M,6,KG
+948,Toedscool,Ground,Grass,Woodear Pokémon,Mycelium Might,,,9,0.9,M,33,KG
+949,Toedscruel,Ground,Grass,Woodear Pokémon,Mycelium Might,,,9,1.9,M,58,KG
+950,Klawf,Rock,,Ambush Pokémon,Anger Shell,Shell Armor,Regenerator,9,1.3,M,79,KG
+951,Capsakid,Grass,,Spicy Pepper Pokémon,Chlorophyll,Insomnia,Klutz,9,0.3,M,3,KG
+952,Scovillain,Grass,Fire,Spicy Pepper Pokémon,Chlorophyll,Insomnia,Moody,9,0.9,M,15,KG
+953,Rellor,Bug,,Rolling Pokémon,Compound Eyes,,Shed Skin,9,0.2,M,1,KG
+954,Rabsca,Bug,Psychic,Rolling Pokémon,Synchronize,,Telepathy,9,0.3,M,3.5,KG
+955,Flittle,Psychic,,Frill Pokémon,Anticipation,Frisk,Speed Boost,9,0.2,M,1.5,KG
+956,Espathra,Psychic,,Ostrich Pokémon,Opportunist,Frisk,Speed Boost,9,1.9,M,90,KG
+957,Tinkatink,Fairy,Steel,Metalsmith Pokémon,Mold Breaker,Own Tempo,Pickpocket,9,0.4,M,8.9,KG
+958,Tinkatuff,Fairy,Steel,Hammer Pokémon,Mold Breaker,Own Tempo,Pickpocket,9,0.7,M,59.1,KG
+959,Tinkaton,Fairy,Steel,Hammer Pokémon,Mold Breaker,Own Tempo,Pickpocket,9,0.7,M,112.8,KG
+960,Wiglett,Water,,Garden Eel Pokémon,Gooey,Rattled,Sand Veil,9,1.2,M,1.8,KG
+961,Wugtrio,Water,,Garden Eel Pokémon,Gooey,Rattled,Sand Veil,9,1.2,M,5.4,KG
+962,Bombirdier,Flying,Dark,Item Drop Pokémon,Big Pecks,Keen Eye,Rocky Payload,9,1.5,M,42.9,KG
+963,Finizen,Water,,Dolphin Pokémon,Water Veil,,,9,1.3,M,60.2,KG
+964,Palafin,Water,,Dolphin Pokémon,Zero to Hero,,,9,1.3,M,60.2,KG
+965,Varoom,Steel,Poison,Single-Cyl Pokémon,Overcoat,,Slow Start,9,1,M,35,KG
+966,Revavroom,Steel,Poison,Multi-Cyl Pokémon,Overcoat,,Filter,9,1.8,M,120,KG
+967,Cyclizar,Dragon,Normal,Mount Pokémon,Shed Skin,,Regenerator,9,1.6,M,63,KG
+968,Orthworm,Steel,,Earthworm Pokémon,Earth Eater,,Sand Veil,9,2.5,M,310,KG
+969,Glimmet,Rock,Poison,Ore Pokémon,Toxic Debris,,Corrosion,9,0.7,M,8,KG
+970,Glimmora,Rock,Poison,Ore Pokémon,Toxic Debris,,Corrosion,9,1.5,M,45,KG
+971,Greavard,Ghost,,Ghost Dog Pokémon,Pickup,,Fluffy,9,0.6,M,35,KG
+972,Houndstone,Ghost,,Ghost Dog Pokémon,Sand Rush,,Fluffy,9,2,M,15,KG
+973,Flamigo,Flying,Fighting,Synchronize Pokémon,Scrappy,Tangled Feet,Costar,9,1.6,M,37,KG
+974,Cetoddle,Ice,,Terra Whale Pokémon,Thick Fat,Snow Cloak,Sheer Force,9,1.2,M,45,KG
+975,Cetitan,Ice,,Terra Whale Pokémon,Thick Fat,Slush Rush,Sheer Force,9,4.5,M,700,KG
+976,Veluza,Water,Psychic,Jettison Pokémon,Mold Breaker,,Sharpness,9,2.5,M,90,KG
+977,Dondozo,Water,,Big Catfish Pokémon,Unaware,Oblivious,Water Veil,9,12,M,220,KG
+978,Tatsugiri,Dragon,Water,Mimicry Pokémon,Commander,,Storm Drain,9,0.3,M,8,KG
+979,Annihilape,Fighting,Ghost,Rage Monkey Pokémon,Vital Spirit,Inner Focus,Defiant,9,1.2,M,56,KG
+980,Clodsire,Poison,Ground,Spiny Fish Pokémon,Poison Point,Water Absorb,Unaware,9,1.8,M,223,KG
+981,Farigiraf,Normal,Psychic,Long Neck Pokémon,Cud Chew,Armor Tail,Sap Sipper,9,3.2,M,160,KG
+982,Dudunsparce,Normal,,Land Snake Pokémon,Serene Grace,Run Away,Rattled,9,3.6,M,39.2,KG
+983,Kingambit,Dark,Steel,Big Blade Pokémon,Defiant,Supreme Overload,Pressure,9,2,M,120,KG
+984,Great Tusk,Ground,Fighting,Paradox Pokémon,Protosynthesis,,,9,2.2,M,320,KG
+985,Scream Tail,Fairy,Psychic,Paradox Pokémon,Protosynthesis,,,9,1.2,M,8,KG
+986,Brute Bonnet,Grass,Dark,Paradox Pokémon,Protosynthesis,,,9,1.2,M,21,KG
+987,Flutter Mane,Ghost,Fairy,Paradox Pokémon,Protosynthesis,,,9,1.4,M,4,KG
+988,Slither Wing,Bug,Fighting,Paradox Pokémon,Protosynthesis,,,9,3.2,M,92,KG
+989,Sandy Shocks,Electric,Ground,Paradox Pokémon,Protosynthesis,,,9,2.3,M,60,KG
+990,Iron Treads,Ground,Steel,Paradox Pokémon,Quark Drive,,,9,0.9,M,240,KG
+991,Iron Bundle,Ice,Water,Paradox Pokémon,Quark Drive,,,9,0.6,M,11,KG
+992,Iron Hands,Fighting,Electric,Paradox Pokémon,Quark Drive,,,9,1.8,M,380.7,KG
+993,Iron Jugulis,Dark,Flying,Paradox Pokémon,Quark Drive,,,9,1.3,M,111,KG
+994,Iron Moth,Fire,Poison,Paradox Pokémon,Quark Drive,,,9,1.2,M,36,KG
+995,Iron Thorns,Rock,Electric,Paradox Pokémon,Quark Drive,,,9,1.6,M,303,KG
+996,Frigibax,Dragon,Ice,Ice Fin Pokémon,Thermal Exchange,,Ice Body,9,0.5,M,17,KG
+997,Arctibax,Dragon,Ice,Ice Fin Pokémon,Thermal Exchange,,Ice Body,9,0.8,M,30,KG
+998,Baxcalibur,Dragon,Ice,Ice Dragon Pokémon,Thermal Exchange,,Ice Body,9,2.1,M,210,KG
+999,Gimmighoul,Ghost,,Coin Chest Pokémon,Rattled,,,9,0.3,M,5,KG
+1000,Gholdengo,Steel,Ghost,Coin Entity Pokémon,Good as Gold,,,9,1.2,M,30,KG
+1001,Wo-Chien,Dark,Grass,Ruinous Pokémon,Tablets of Ruin,,,9,1.5,M,74.2,KG
+1002,Chien-Pao,Dark,Ice,Ruinous Pokémon,Sword of Ruin,,,9,1.9,M,152.2,KG
+1003,Ting-Lu,Dark,Ground,Ruinous Pokémon,Vessel of Ruin,,,9,2.7,M,699.7,KG
+1004,Chi-Yu,Dark,Fire,Ruinous Pokémon,Beads of Ruin,,,9,0.4,M,4.9,KG
+1005,Roaring Moon,Dragon,Dark,Paradox Pokémon,Protosynthesis,,,9,2,M,380,KG
+1006,Iron Valiant,Fairy,Fighting,Paradox Pokémon,Quark Drive,,,9,1.4,M,35,KG
+1007,Koraidon,Fighting,Dragon,Paradox Pokémon,Orichalcum Pulse,,,9,2.5,M,303,KG
+1008,Miraidon,Electric,Dragon,Paradox Pokémon,Hadron Engine,,,9,3.5,M,240,KG
+1009,Walking Wake,Water,Dragon,Paradox Pokémon,Protosynthesis,,,9,3.5,M,280,KG
+1010,Iron Leaves,Grass,Psychic,Paradox Pokémon,Quark Drive,,,9,1.5,M,125,KG
+1011,Dipplin,Grass,Dragon,Candy Apple Pokémon,Supersweet Syrup,Gluttony,Sticky Hold,9,0.4,M,4.4,KG
+1012,Poltchageist,Grass,Ghost,Matcha Pokémon,Hospitality,,Heatproof,9,0.1,M,1.1,KG
+1013,Sinistcha,Grass,Ghost,Matcha Pokémon,Hospitality,,Heatproof,9,0.2,M,2.2,KG
+1014,Okidogi,Poison,Fighting,Retainer Pokémon,Toxic Chain,,Guard Dog,9,1.8,M,92,KG
+1015,Munkidori,Poison,Psychic,Retainer Pokémon,Toxic Chain,,Frisk,9,1,M,12.2,KG
+1016,Fezandipiti,Poison,Fairy,Retainer Pokémon,Toxic Chain,,Technician,9,1.4,M,30.1,KG
+1017,Ogerpon,Grass,,Mask Pokémon,Defiant,,,9,1.2,M,39.8,KG
+1018,Archaludon,Steel,Dragon,Alloy Pokémon,Stamina,Sturdy,Stalwart,9,2,M,60,KG
+1019,Hydrapple,Grass,Dragon,Apple Hydra Pokémon,Supersweet Syrup,Regenerator,Sticky Hold,9,1.8,M,93,KG
+1020,Gouging Fire,Fire,Dragon,Paradox Pokémon,Protosynthesis,,,9,3.5,M,590,KG
+1021,Raging Bolt,Electric,Dragon,Paradox Pokémon,Protosynthesis,,,9,5.2,M,480,KG
+1022,Iron Boulder,Rock,Psychic,Paradox Pokémon,Quark Drive,,,9,1.5,M,162.5,KG
+1023,Iron Crown,Steel,Psychic,Paradox Pokémon,Quark Drive,,,9,1.6,M,156,KG
+1024,Terapagos,Normal,,Tera Pokémon,Tera Shift,,,9,0.2,M,6.5,KG
+1025,Pecharunt,Poison,Ghost,Subjugation Pokémon,Poison Puppeteer,,,9,0.3,M,0.3,KG
